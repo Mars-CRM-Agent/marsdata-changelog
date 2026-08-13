@@ -8,6 +8,8 @@ Every change we ship to **Marsdata AI** (also known as Mars Agent), the AI that 
 
 ## All releases
 
+- **2026-08-13** · [Atlas turns your relationships into distinct, living circles.](releases/2026-08-13-atlas-turns-your-relationships-into-distinct-living-circles.md) · `0.1.1.2873`
+- **2026-08-11** · [The words you mean to send now arrive ready to copy.](releases/2026-08-11-the-words-you-mean-to-send-now-arrive.md) · `0.1.1.2820`
 - **2026-08-01** · [Every person you know becomes a structured record.](releases/2026-08-01-every-person-you-know-becomes-a-structured-record.md) · `0.1.1.2598`
 - **2026-07-24** · [Mention a person right inside the chat.](releases/2026-07-24-mention-a-person-right-inside-the-chat.md) · `0.1.1.2383`
 - **2026-07-22** · [All three models step up to 1.7.](releases/2026-07-22-all-three-models-step-up-to-1-7.md) · `0.1.1.2353`

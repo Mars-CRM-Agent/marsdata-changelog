@@ -3,6 +3,10 @@
 > Canonical source of record: [https://marsdata.ai/changelog](https://marsdata.ai/changelog)
 > Release `0.1.1.2598` · 2026-08-01
 
+![A person record with its fields, interaction log, ledger and change history side by side](../assets/relation-node-structured.webp)
+
+*Illustrative mock-up · demo data, private fields masked with *, not real user information*
+
 - **New** — Everything you tell Mars about a person is now kept as a structured record — every detail is its own field, sitting next to that person's interaction log, money ledger and change history. Edit one detail and only that detail changes; remove one and the person, their history and everything else you saved stay exactly where they were.
 - **Improved** — One person, one record. Mars no longer splits the same contact across several entries, no longer turns a role word like "my date" into a person of its own, and books one transfer as exactly one row.
 - **Improved** — Details Mars captures on its own now carry a confidence level. When it is confident enough to treat two entries as the same person or the same payment, it tells you it did instead of merging quietly; when it isn't sure — especially about money — it holds the entry and asks you first, and anything still waiting on your answer is left out of the totals.

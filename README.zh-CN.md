@@ -8,6 +8,8 @@
 
 ## 全部更新
 
+- **2026-08-13** · [Atlas 把你的关系组织成清晰而鲜活的圈层。](releases/2026-08-13-atlas-turns-your-relationships-into-distinct-living-circles.zh-CN.md) · `0.1.1.2873`
+- **2026-08-11** · [你想发送的话，现在可以直接复制。](releases/2026-08-11-the-words-you-mean-to-send-now-arrive.zh-CN.md) · `0.1.1.2820`
 - **2026-08-01** · [你认识的每一个人，都成为一份结构化档案。](releases/2026-08-01-every-person-you-know-becomes-a-structured-record.zh-CN.md) · `0.1.1.2598`
 - **2026-07-24** · [在对话里直接 @ 一个人。](releases/2026-07-24-mention-a-person-right-inside-the-chat.zh-CN.md) · `0.1.1.2383`
 - **2026-07-22** · [三大模型全面升级为 1.7。](releases/2026-07-22-all-three-models-step-up-to-1-7.zh-CN.md) · `0.1.1.2353`

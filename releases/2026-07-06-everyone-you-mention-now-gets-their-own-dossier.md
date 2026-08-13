@@ -3,6 +3,10 @@
 > Canonical source of record: [https://marsdata.ai/changelog](https://marsdata.ai/changelog)
 > Release `0.1.1.2173` · 2026-07-06
 
+![One contact in focus, their key facts orbiting the person as satellites](../assets/person-crm-fields.webp)
+
+*Illustrative mock-up · demo data, private fields masked with *, not real user information*
+
 - **New** — Mars now automatically builds a structured record for each person you talk about — identity, background, how you know each other, key interactions, and an overall value read are extracted from your conversations into a dedicated database record and summarized on the person's page. Details you've already told Mars no longer get silently overwritten when new information arrives, and when two records turn out to be the same person, merging them now keeps everything from both sides.
 - **New** — When you chat about someone Mars already knows, the conversation is now automatically filed into that person's folder — so everything about one person stays in one place without manual sorting.
 - **Improved** — The person detail page got a cleaner desktop layout — interaction log, profile, and key facts now sit side by side in three equal columns instead of one long scroll, duplicated profile text is gone, and the memory panel now shows titles and writes new memories in your chosen language.
