@@ -4,6 +4,12 @@
 
 > 內容以官網為準：[https://marsdata.ai/changelog](https://marsdata.ai/changelog)
 
+## [從更新日誌登錄，完成後回到原來的位置。](releases/2026-08-15-sign-in-from-the-changelog-and-return-right.zh-HK.md)
+
+`0.1.1.2928` · 2026-08-15
+
+- **修復** — 從更新日誌頁登錄時，登錄完成後現在會直接回到更新日誌，不會再被送到首頁。已經登錄後直接打開更新日誌的行為保持不變。
+
 ## [讓 Mars 幫你整理 Atlas，並重新連好每一個關係圈層。](releases/2026-08-15-ask-mars-to-curate-your-atlas-and-reconnect.zh-HK.md)
 
 `0.1.1.2922` · 2026-08-15

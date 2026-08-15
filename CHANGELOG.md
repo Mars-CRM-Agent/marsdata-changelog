@@ -4,6 +4,12 @@ Every change we ship to **Marsdata AI** (also known as Mars Agent), the AI that 
 
 > Canonical source of record: [https://marsdata.ai/changelog](https://marsdata.ai/changelog)
 
+## [Sign in from the changelog and return right where you started.](releases/2026-08-15-sign-in-from-the-changelog-and-return-right.md)
+
+`0.1.1.2928` · 2026-08-15
+
+- **Fixed** — Sign in from the changelog and you now return to the changelog as soon as sign-in finishes, instead of being sent to the home screen. Opening the page while already signed in still works as before.
+
 ## [Ask Mars to curate your Atlas and reconnect every relationship circle.](releases/2026-08-15-ask-mars-to-curate-your-atlas-and-reconnect.md)
 
 `0.1.1.2922` · 2026-08-15

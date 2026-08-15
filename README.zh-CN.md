@@ -8,6 +8,7 @@
 
 ## 全部更新
 
+- **2026-08-15** · [从更新日志登录，完成后回到原来的位置。](releases/2026-08-15-sign-in-from-the-changelog-and-return-right.zh-CN.md) · `0.1.1.2928`
 - **2026-08-15** · [让 Mars 帮你整理 Atlas，并重新连好每一个关系圈层。](releases/2026-08-15-ask-mars-to-curate-your-atlas-and-reconnect.zh-CN.md) · `0.1.1.2922`
 - **2026-08-13** · [Atlas 把你的关系组织成清晰而鲜活的圈层。](releases/2026-08-13-atlas-turns-your-relationships-into-distinct-living-circles.zh-CN.md) · `0.1.1.2873`
 - **2026-08-11** · [你想发送的话，现在可以直接复制。](releases/2026-08-11-the-words-you-mean-to-send-now-arrive.zh-CN.md) · `0.1.1.2820`
