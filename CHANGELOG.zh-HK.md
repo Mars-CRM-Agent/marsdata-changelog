@@ -153,10 +153,6 @@ Keynote、Pages、Numbers、WPS 文件顯示首頁預覽；Mars 通過轉換為 
 
 日程提醒可發送到微信，網頁和 iOS 都有微信提醒開關。
 
-![微信日程提醒](assets/crm-wechat-event-reminders.zh-TW.webp)
-
-*示意圖，使用虛構演示資料。*
-
 ### [關係列表顯示最新動態](releases/crm-2026-10-17-relationship-activity-lines.zh-HK.md)
 
 **預覽** · 2026-10-17 · `0.1.1.5950`
@@ -283,10 +279,6 @@ Mars 可向資料庫寫入 Markdown、文本和 JSON 文件，支持富文本預
 
 可只讀連接 Gmail：Mars 能在對話中搜索和閲讀你的郵件。
 
-![只讀連接 Gmail](assets/crm-gmail-read-only.zh-TW.webp)
-
-*示意圖，使用虛構演示資料。*
-
 ### [導入聯繫人](releases/crm-2026-10-13-import-contacts.zh-HK.md)
 
 **預覽** · 2026-10-13 · `0.1.1.5222`
@@ -393,10 +385,6 @@ iOS 原生通知一次授權即可；「任務完成通知」可打開網頁與 
 
 關係類型支持階段與里程碑，可按類型或階段篩選關係。
 
-![關係類型](assets/crm-relationship-types.zh-TW.webp)
-
-*示意圖，使用虛構演示資料。*
-
 ### [修訂 Office 文件](releases/crm-2026-10-10-revised-office-files.zh-HK.md)
 
 **預覽** · 2026-10-10 · `0.1.1.4799`
@@ -482,10 +470,6 @@ RAR 與 ZIP 文件預覽可列出壓縮包內容。
 **預覽** · 2026-10-07 · `0.1.1.4285`
 
 可記錄兩位聯繫人之間的關係，包含獨立的類型與摘要。
-
-![聯繫人之間的關係](assets/crm-relationships-between-contacts.zh-TW.webp)
-
-*示意圖，使用虛構演示資料。*
 
 ### [用量記錄](releases/crm-2026-10-07-usage-records.zh-HK.md)
 

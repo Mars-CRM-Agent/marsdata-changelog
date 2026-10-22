@@ -153,10 +153,6 @@ Recent conversations show a running ring, an unread dot and a completion pop.
 
 Get event reminders on WeChat, with a WeChat reminder switch on web and iOS.
 
-![Event reminders on WeChat](assets/crm-wechat-event-reminders.en.webp)
-
-*Illustration using fictional demo data.*
-
 ### [Latest activity on every relationship](releases/crm-2026-10-17-relationship-activity-lines.md)
 
 **Preview** · 2026-10-17 · `0.1.1.5950`
@@ -283,10 +279,6 @@ Long-press your own message to copy, select or share it.
 
 Connect Gmail read-only: Mars can search and read your mail in chat.
 
-![Gmail, read-only](assets/crm-gmail-read-only.en.webp)
-
-*Illustration using fictional demo data.*
-
 ### [Import contacts](releases/crm-2026-10-13-import-contacts.md)
 
 **Preview** · 2026-10-13 · `0.1.1.5222`
@@ -393,10 +385,6 @@ Set the first day of the week and the date format; Events use them on web and iO
 
 Relationship types with stages and milestones; filter relationships by type or stage.
 
-![Relationship types](assets/crm-relationship-types.en.webp)
-
-*Illustration using fictional demo data.*
-
 ### [Revised Office files](releases/crm-2026-10-10-revised-office-files.md)
 
 **Preview** · 2026-10-10 · `0.1.1.4799`
@@ -482,10 +470,6 @@ Share links can be revoked with Stop sharing; workspace search now covers conver
 **Preview** · 2026-10-07 · `0.1.1.4285`
 
 Record a relationship between two of your contacts, with its own type and summary.
-
-![Relationships between contacts](assets/crm-relationships-between-contacts.en.webp)
-
-*Illustration using fictional demo data.*
 
 ### [Usage records](releases/crm-2026-10-07-usage-records.md)
 

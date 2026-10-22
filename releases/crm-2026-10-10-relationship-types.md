@@ -9,10 +9,6 @@ Each relationship type can have its own stages and milestones. Use the type or s
 
 You see where each relationship stands at a glance.
 
-![Relationship types — Desktop](../assets/crm-relationship-types.en.webp)
-
-*Illustration using fictional demo data.*
-
 [Explore the preview](https://canary.marsdata.ai/changelog/relationship-types) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-10-relationship-types.zh-CN.md) · [繁體中文](./crm-2026-10-10-relationship-types.zh-HK.md)

@@ -9,10 +9,6 @@ Each relationship keeps its own type and summary, so the link between two people
 
 Your network of people stays clear when friends or colleagues know each other.
 
-![Relationships between contacts — Desktop](../assets/crm-relationships-between-contacts.en.webp)
-
-*Illustration using fictional demo data.*
-
 [Explore the preview](https://canary.marsdata.ai/changelog/relationships-between-contacts) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-07-relationships-between-contacts.zh-CN.md) · [繁體中文](./crm-2026-10-07-relationships-between-contacts.zh-HK.md)

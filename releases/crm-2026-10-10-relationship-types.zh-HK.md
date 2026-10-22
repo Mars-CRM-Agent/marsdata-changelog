@@ -9,10 +9,6 @@
 
 一眼看清每段關係所處的位置。
 
-![關係類型 — 電腦端](../assets/crm-relationship-types.zh-TW.webp)
-
-*示意圖，使用虛構演示資料。*
-
 [體驗預覽版](https://canary.marsdata.ai/changelog/relationship-types) · [全部更新](../README.zh-HK.md)
 
 [English](./crm-2026-10-10-relationship-types.md) · [简体中文](./crm-2026-10-10-relationship-types.zh-CN.md)

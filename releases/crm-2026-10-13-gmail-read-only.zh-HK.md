@@ -9,10 +9,6 @@
 
 回答可以參考你的郵件，而 Mars 無法修改郵件。
 
-![只讀連接 Gmail — 電腦端](../assets/crm-gmail-read-only.zh-TW.webp)
-
-*示意圖，使用虛構演示資料。*
-
 [體驗預覽版](https://canary.marsdata.ai/changelog/gmail-read-only) · [全部更新](../README.zh-HK.md)
 
 [English](./crm-2026-10-13-gmail-read-only.md) · [简体中文](./crm-2026-10-13-gmail-read-only.zh-CN.md)

@@ -153,10 +153,6 @@ Keynote、Pages、Numbers、WPS 文件显示首页预览；Mars 通过转换为 
 
 日程提醒可发送到微信，网页和 iOS 都有微信提醒开关。
 
-![微信日程提醒](assets/crm-wechat-event-reminders.webp)
-
-*示意图，使用虚构演示数据。*
-
 ### [关系列表显示最新动态](releases/crm-2026-10-17-relationship-activity-lines.zh-CN.md)
 
 **预览** · 2026-10-17 · `0.1.1.5950`
@@ -283,10 +279,6 @@ Mars 可向资料库写入 Markdown、文本和 JSON 文件，支持富文本预
 
 可只读连接 Gmail：Mars 能在对话中搜索和阅读你的邮件。
 
-![只读连接 Gmail](assets/crm-gmail-read-only.webp)
-
-*示意图，使用虚构演示数据。*
-
 ### [导入联系人](releases/crm-2026-10-13-import-contacts.zh-CN.md)
 
 **预览** · 2026-10-13 · `0.1.1.5222`
@@ -393,10 +385,6 @@ iOS 原生通知一次授权即可；「任务完成通知」可打开网页与 
 
 关系类型支持阶段与里程碑，可按类型或阶段筛选关系。
 
-![关系类型](assets/crm-relationship-types.webp)
-
-*示意图，使用虚构演示数据。*
-
 ### [修订 Office 文件](releases/crm-2026-10-10-revised-office-files.zh-CN.md)
 
 **预览** · 2026-10-10 · `0.1.1.4799`
@@ -482,10 +470,6 @@ RAR 与 ZIP 文件预览可列出压缩包内容。
 **预览** · 2026-10-07 · `0.1.1.4285`
 
 可记录两位联系人之间的关系，包含独立的类型与摘要。
-
-![联系人之间的关系](assets/crm-relationships-between-contacts.webp)
-
-*示意图，使用虚构演示数据。*
 
 ### [用量记录](releases/crm-2026-10-07-usage-records.zh-CN.md)
 

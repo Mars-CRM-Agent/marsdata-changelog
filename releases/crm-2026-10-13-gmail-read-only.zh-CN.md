@@ -9,10 +9,6 @@
 
 回答可以参考你的邮件，而 Mars 无法修改邮件。
 
-![只读连接 Gmail — 电脑端](../assets/crm-gmail-read-only.webp)
-
-*示意图，使用虚构演示数据。*
-
 [体验预览版](https://canary.marsdata.ai/changelog/gmail-read-only) · [全部更新](../README.zh-CN.md)
 
 [English](./crm-2026-10-13-gmail-read-only.md) · [繁體中文](./crm-2026-10-13-gmail-read-only.zh-HK.md)

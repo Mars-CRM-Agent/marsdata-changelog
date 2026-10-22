@@ -9,10 +9,6 @@
 
 當朋友或同事彼此認識時，你的人脈關係依然清晰。
 
-![聯繫人之間的關係 — 電腦端](../assets/crm-relationships-between-contacts.zh-TW.webp)
-
-*示意圖，使用虛構演示資料。*
-
 [體驗預覽版](https://canary.marsdata.ai/changelog/relationships-between-contacts) · [全部更新](../README.zh-HK.md)
 
 [English](./crm-2026-10-07-relationships-between-contacts.md) · [简体中文](./crm-2026-10-07-relationships-between-contacts.zh-CN.md)
