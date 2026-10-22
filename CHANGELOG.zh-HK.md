@@ -1,4 +1,566 @@
-# Marsdata AI — 產品更新日誌
+<!-- mars-crm-preview:start -->
+# Mars — 產品更新
+
+> **預覽** — 以下功能目前處於預覽階段，尚未正式上線。
+
+[體驗預覽版](https://canary.marsdata.ai) · [English](./CHANGELOG.md) · [简体中文](./CHANGELOG.zh-CN.md) · [繁體中文](./CHANGELOG.zh-HK.md)
+
+## 預覽版更新
+
+### [在地圖上規劃行程](releases/crm-2026-10-21-plan-trips-on-a-map.zh-HK.md)
+
+**預覽** · 2026-10-21 · `0.1.1.6886`
+
+在對話中規劃旅行，在交互地圖上查看每天的地點與路線。
+
+![在地圖上規劃行程](assets/crm-plan-trips-on-a-map.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [更快、自適應的圖表](releases/crm-2026-10-20-faster-adaptive-diagrams.zh-HK.md)
+
+**預覽** · 2026-10-20 · `0.1.1.6573`
+
+回答中的圖表下載量減少約 86%，幾毫秒內繪製完成，並自動適應對話寬度。
+
+![更快、自適應的圖表](assets/crm-faster-adaptive-diagrams.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [引用鏈接顯示真實標題](releases/crm-2026-10-19-cited-link-titles.zh-HK.md)
+
+**預覽** · 2026-10-19 · `0.1.1.6479`
+
+Mars 引用的每個鏈接都顯示其頁面的真實標題。
+
+![引用鏈接顯示真實標題](assets/crm-cited-link-titles.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [長錄音與大文件](releases/crm-2026-10-19-long-recordings.zh-HK.md)
+
+**預覽** · 2026-10-19 · `0.1.1.6479`
+
+可發送最大 2 GB 的音視頻，超過 20 分鐘的錄音也能獲得完整時間點。
+
+![長錄音與大文件](assets/crm-long-recordings.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [圖片網格與圖庫](releases/crm-2026-10-18-picture-grids-and-gallery.zh-HK.md)
+
+**預覽** · 2026-10-18 · `0.1.1.6118`
+
+一起發送的多張圖片以網格顯示，並可在圖庫中瀏覽。
+
+![圖片網格與圖庫](assets/crm-picture-grids-and-gallery.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [用 Apple 登錄](releases/crm-2026-10-17-sign-in-with-apple.zh-HK.md)
+
+**預覽** · 2026-10-17 · `0.1.1.5950`
+
+iOS 支持通過 Apple 登錄。
+
+![用 Apple 登錄](assets/crm-sign-in-with-apple.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [Apple 健康同步](releases/crm-2026-10-17-apple-health-sync.zh-HK.md)
+
+**預覽** · 2026-10-17 · `0.1.1.5950`
+
+iOS 可將 Apple 健康每日彙總同步到 Mars，網頁和其他設備也能查看。
+
+![Apple 健康同步](assets/crm-apple-health-sync.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [更完整的健康問答](releases/crm-2026-10-17-richer-health-answers.zh-HK.md)
+
+**預覽** · 2026-10-17 · `0.1.1.5950`
+
+健康問答新增睡眠階段、飲水、飲食熱量、蛋白質與碳水；體脂秤讀數連同體脂、肌肉、水分一起保存。
+
+![更完整的健康問答](assets/crm-richer-health-answers.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [提問面板](releases/crm-2026-10-17-question-panel.zh-HK.md)
+
+**預覽** · 2026-10-17 · `0.1.1.5950`
+
+提問面板：Mars 需要你決定時，用編號選項或自填內容回答最多五個問題。
+
+![提問面板](assets/crm-question-panel.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [聊天內查找與新回答菜單](releases/crm-2026-10-17-find-in-chat-and-a-new-answer-menu.zh-HK.md)
+
+**預覽** · 2026-10-17 · `0.1.1.5950`
+
+新增聊天內查找；回答菜單支持分支對話、朗讀（暫停、跳 15 秒、調速）、模型、重試與聯網搜索。
+
+![聊天內查找與新回答菜單](assets/crm-find-in-chat-and-a-new-answer-menu.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [到點開啓對話的提醒](releases/crm-2026-10-17-reminders-that-start-a-conversation.zh-HK.md)
+
+**預覽** · 2026-10-17 · `0.1.1.5950`
+
+提醒可在到點時按你的提示詞開啓 Mars 對話；可在提醒編輯器中創建「每日復盤」技能。
+
+![到點開啓對話的提醒](assets/crm-reminders-that-start-a-conversation.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [實時繪製的圖表](releases/crm-2026-10-17-live-charts-and-diagrams.zh-HK.md)
+
+**預覽** · 2026-10-17 · `0.1.1.5950`
+
+圖表與流程圖隨回答流式繪製，附帶洞察與追問，可全屏查看。
+
+![實時繪製的圖表](assets/crm-live-charts-and-diagrams.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [iWork 與 WPS 預覽](releases/crm-2026-10-17-iwork-and-wps-previews.zh-HK.md)
+
+**預覽** · 2026-10-17 · `0.1.1.5950`
+
+Keynote、Pages、Numbers、WPS 文件顯示首頁預覽；Mars 通過轉換為 Office 格式來編輯 iWork 文件。
+
+![iWork 與 WPS 預覽](assets/crm-iwork-and-wps-previews.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [對話狀態一目瞭然](releases/crm-2026-10-17-conversation-status-at-a-glance.zh-HK.md)
+
+**預覽** · 2026-10-17 · `0.1.1.5950`
+
+最近對話顯示運行中進度環、未讀圓點和完成提示。
+
+![對話狀態一目瞭然](assets/crm-conversation-status-at-a-glance.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [微信日程提醒](releases/crm-2026-10-17-wechat-event-reminders.zh-HK.md)
+
+**預覽** · 2026-10-17 · `0.1.1.5950`
+
+日程提醒可發送到微信，網頁和 iOS 都有微信提醒開關。
+
+![微信日程提醒](assets/crm-wechat-event-reminders.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [關係列表顯示最新動態](releases/crm-2026-10-17-relationship-activity-lines.zh-HK.md)
+
+**預覽** · 2026-10-17 · `0.1.1.5950`
+
+關係列表的每一行顯示最新動態和最近一次互動的時間。
+
+![關係列表顯示最新動態](assets/crm-relationship-activity-lines.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [更清晰的信息分組](releases/crm-2026-10-17-clearer-information-groups.zh-HK.md)
+
+**預覽** · 2026-10-17 · `0.1.1.5950`
+
+記錄的信息分到更清晰的分組，例如事業與團隊、技術與工具、觀念與偏好。
+
+![更清晰的信息分組](assets/crm-clearer-information-groups.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [編輯 Keynote、Pages 和 Numbers 文件](releases/crm-2026-10-17-convert-iwork-files.zh-HK.md)
+
+**預覽** · 2026-10-17 · `0.1.1.5950`
+
+Mars 可在對話中把 Keynote、Pages 或 Numbers 文件轉換為 PowerPoint、Word 或 Excel，並編輯轉換後的副本。
+
+![編輯 Keynote、Pages 和 Numbers 文件](assets/crm-convert-iwork-files.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [隱私鎖](releases/crm-2026-10-15-privacy-lock.zh-HK.md)
+
+**預覽** · 2026-10-15 · `0.1.1.5585`
+
+隱私登錄：用 6 位隱私密碼解鎖 Mars，iOS 支持面容 ID / 觸控 ID，網頁支持通行密鑰。
+
+![隱私鎖](assets/crm-privacy-lock.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [Mars-2.0 Blaze](releases/crm-2026-10-15-mars-2-0-blaze.zh-HK.md)
+
+**預覽** · 2026-10-15 · `0.1.1.5585`
+
+新增頂級模型 Mars-2.0 Blaze，排在 Flare 與 Ember 之上。
+
+![Mars-2.0 Blaze](assets/crm-mars-2-0-blaze.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [網頁與 iOS 套餐](releases/crm-2026-10-15-plans-on-web-and-ios.zh-HK.md)
+
+**預覽** · 2026-10-15 · `0.1.1.5585`
+
+網頁通過 Stripe Checkout 購買套餐，iOS 使用 App Store 訂閲；網頁可用優惠券，iOS 可用優惠代碼。
+
+![網頁與 iOS 套餐](assets/crm-plans-on-web-and-ios.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [點踩即可反饋](releases/crm-2026-10-15-feedback-from-thumbs-down.zh-HK.md)
+
+**預覽** · 2026-10-15 · `0.1.1.5585`
+
+點踩會打開反饋表單，連同對話一起發送給客服。
+
+![點踩即可反饋](assets/crm-feedback-from-thumbs-down.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [看得見過程的深度研究](releases/crm-2026-10-15-deep-research-you-can-follow.zh-HK.md)
+
+**預覽** · 2026-10-15 · `0.1.1.5585`
+
+深度研究以卡片展示每個研究助手的實時步驟，調研提案以問題卡片形式確認。
+
+![看得見過程的深度研究](assets/crm-deep-research-you-can-follow.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [結構化圖表](releases/crm-2026-10-15-structured-diagrams.zh-HK.md)
+
+**預覽** · 2026-10-15 · `0.1.1.5585`
+
+支持結構化流程圖、思維導圖、時序圖和時間線；手機網頁可將圖下載為 PNG。
+
+![結構化圖表](assets/crm-structured-diagrams.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [寫入資料庫](releases/crm-2026-10-15-write-files-to-the-library.zh-HK.md)
+
+**預覽** · 2026-10-15 · `0.1.1.5585`
+
+Mars 可向資料庫寫入 Markdown、文本和 JSON 文件，支持富文本預覽與打印。
+
+![寫入資料庫](assets/crm-write-files-to-the-library.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [更安全的刪除](releases/crm-2026-10-15-safer-deletes.zh-HK.md)
+
+**預覽** · 2026-10-15 · `0.1.1.5585`
+
+刪除目標或技能前會先確認（網頁與 iOS）。
+
+![更安全的刪除](assets/crm-safer-deletes.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [長按自己的消息](releases/crm-2026-10-15-long-press-your-messages.zh-HK.md)
+
+**預覽** · 2026-10-15 · `0.1.1.5585`
+
+長按自己的消息可複製、選擇或分享。
+
+![長按自己的消息](assets/crm-long-press-your-messages.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [只讀連接 Gmail](releases/crm-2026-10-13-gmail-read-only.zh-HK.md)
+
+**預覽** · 2026-10-13 · `0.1.1.5222`
+
+可只讀連接 Gmail：Mars 能在對話中搜索和閲讀你的郵件。
+
+![只讀連接 Gmail](assets/crm-gmail-read-only.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [導入聯繫人](releases/crm-2026-10-13-import-contacts.zh-HK.md)
+
+**預覽** · 2026-10-13 · `0.1.1.5222`
+
+可在「連接平台」導入選定的 Google 或 iPhone 聯繫人。
+
+![導入聯繫人](assets/crm-import-contacts.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [實時讀取 iPhone 數據](releases/crm-2026-10-13-live-iphone-data.zh-HK.md)
+
+**預覽** · 2026-10-13 · `0.1.1.5222`
+
+在 iOS 應用中，Mars 可按你授權的來源實時讀取 iPhone 通訊錄、日曆、Apple 健康與健身數據。
+
+![實時讀取 iPhone 數據](assets/crm-live-iphone-data.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [手機號與密碼登錄](releases/crm-2026-10-13-phone-and-password-sign-in.zh-HK.md)
+
+**預覽** · 2026-10-13 · `0.1.1.5222`
+
+網頁支持手機號加密碼登錄，安全驗證會説明原因。
+
+![手機號與密碼登錄](assets/crm-phone-and-password-sign-in.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [iOS 原生圖表](releases/crm-2026-10-13-native-charts-on-ios.zh-HK.md)
+
+**預覽** · 2026-10-13 · `0.1.1.5222`
+
+iOS 原生繪製圖表與流程圖；選中回答文字可引用或朗讀。
+
+![iOS 原生圖表](assets/crm-native-charts-on-ios.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [回答不中斷](releases/crm-2026-10-13-answers-that-keep-going.zh-HK.md)
+
+**預覽** · 2026-10-13 · `0.1.1.5222`
+
+離開應用後回答繼續生成，失敗的輪次可重試。
+
+![回答不中斷](assets/crm-answers-that-keep-going.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [額度用完也不丟結果](releases/crm-2026-10-13-graceful-credit-limits.zh-HK.md)
+
+**預覽** · 2026-10-13 · `0.1.1.5222`
+
+額度用完時，當前輪次仍會交付已完成的結果，之後再暫停發送新消息。
+
+![額度用完也不丟結果](assets/crm-graceful-credit-limits.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [首次啓動即用你的語言](releases/crm-2026-10-13-your-language-from-the-start.zh-HK.md)
+
+**預覽** · 2026-10-13 · `0.1.1.5222`
+
+首次啓動跟隨設備語言，不支持時使用英文。
+
+![首次啓動即用你的語言](assets/crm-your-language-from-the-start.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [Mars iOS 應用](releases/crm-2026-10-10-mars-for-ios.zh-HK.md)
+
+**預覽** · 2026-10-10 · `0.1.1.4799`
+
+原生 iOS 應用：側邊抽屜、滑動操作、iPad 桌面工作區，輸入框支持生成圖片與深度研究。
+
+![Mars iOS 應用](assets/crm-mars-for-ios.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [原生通知](releases/crm-2026-10-10-native-notifications.zh-HK.md)
+
+**預覽** · 2026-10-10 · `0.1.1.4799`
+
+iOS 原生通知一次授權即可；「任務完成通知」可打開網頁與 iOS 的通知設置。
+
+![原生通知](assets/crm-native-notifications.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [每週起始日與日期格式](releases/crm-2026-10-10-week-start-and-date-format.zh-HK.md)
+
+**預覽** · 2026-10-10 · `0.1.1.4799`
+
+可設置每週第一天和日期格式，網頁與 iOS 的事件頁按此顯示。
+
+![每週起始日與日期格式](assets/crm-week-start-and-date-format.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [關係類型](releases/crm-2026-10-10-relationship-types.zh-HK.md)
+
+**預覽** · 2026-10-10 · `0.1.1.4799`
+
+關係類型支持階段與里程碑，可按類型或階段篩選關係。
+
+![關係類型](assets/crm-relationship-types.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [修訂 Office 文件](releases/crm-2026-10-10-revised-office-files.zh-HK.md)
+
+**預覽** · 2026-10-10 · `0.1.1.4799`
+
+修訂後的 Word、Excel、PowerPoint 另存為資料庫新文檔；Word 修訂以修訂痕跡呈現，可接受或拒絕。
+
+![修訂 Office 文件](assets/crm-revised-office-files.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [外觀設置](releases/crm-2026-10-10-appearance-settings.zh-HK.md)
+
+**預覽** · 2026-10-10 · `0.1.1.4799`
+
+外觀設置頁提供跟隨系統、淺色、深色；語言設置獨立成頁。
+
+![外觀設置](assets/crm-appearance-settings.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [壓縮包預覽](releases/crm-2026-10-10-archive-previews.zh-HK.md)
+
+**預覽** · 2026-10-10 · `0.1.1.4799`
+
+RAR 與 ZIP 文件預覽可列出壓縮包內容。
+
+![壓縮包預覽](assets/crm-archive-previews.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [時區設置](releases/crm-2026-10-07-time-zone-setting.zh-HK.md)
+
+**預覽** · 2026-10-07 · `0.1.1.4285`
+
+時區設置：跟隨設備或選擇城市，對話、提醒、事件與用量記錄都按此時區顯示。
+
+![時區設置](assets/crm-time-zone-setting.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [通知設置頁](releases/crm-2026-10-07-notifications-page.zh-HK.md)
+
+**預覽** · 2026-10-07 · `0.1.1.4285`
+
+通知設置頁：瀏覽器推送、回答完成通知與日程提醒。
+
+![通知設置頁](assets/crm-notifications-page.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [重複事件](releases/crm-2026-10-07-repeating-events.zh-HK.md)
+
+**預覽** · 2026-10-07 · `0.1.1.4285`
+
+重複事件與提醒：可設提前量、重複規則、星期、時間與結束日期，並支持自定義重複。
+
+![重複事件](assets/crm-repeating-events.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [字體大小](releases/crm-2026-10-07-text-size.zh-HK.md)
+
+**預覽** · 2026-10-07 · `0.1.1.4285`
+
+字體大小設置，可縮放對話、聯繫人頁、記憶、事件、資料庫與設置頁的文字。
+
+![字體大小](assets/crm-text-size.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [取消分享與更廣的搜索](releases/crm-2026-10-07-stop-sharing-and-wider-search.zh-HK.md)
+
+**預覽** · 2026-10-07 · `0.1.1.4285`
+
+分享鏈接可「取消分享」撤回；工作區搜索覆蓋對話正文。
+
+![取消分享與更廣的搜索](assets/crm-stop-sharing-and-wider-search.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [聯繫人之間的關係](releases/crm-2026-10-07-relationships-between-contacts.zh-HK.md)
+
+**預覽** · 2026-10-07 · `0.1.1.4285`
+
+可記錄兩位聯繫人之間的關係，包含獨立的類型與摘要。
+
+![聯繫人之間的關係](assets/crm-relationships-between-contacts.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [用量記錄](releases/crm-2026-10-07-usage-records.zh-HK.md)
+
+**預覽** · 2026-10-07 · `0.1.1.4285`
+
+用量記錄：按日/周/月查看，顯示最忙與最閒時段、退款，並可按調用類型排序和篩選。
+
+![用量記錄](assets/crm-usage-records.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [事件狀態](releases/crm-2026-10-07-event-status.zh-HK.md)
+
+**預覽** · 2026-10-07 · `0.1.1.4285`
+
+事件狀態分為計劃中、已發生、已取消；可滑動或右鍵完成、編輯、刪除事件。
+
+![事件狀態](assets/crm-event-status.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [個人記憶按組歸整](releases/crm-2026-09-30-grouped-personal-memory.zh-HK.md)
+
+**預覽** · 2026-09-30 · `0.1.1.3581`
+
+個人記憶把資料按同名分組歸在一起，相關信息不再分散。
+
+![個人記憶按組歸整](assets/crm-grouped-personal-memory.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [已瞭解的信息與來源](releases/crm-2026-09-28-what-mars-learned-with-sources.zh-HK.md)
+
+**預覽** · 2026-09-28 · `0.1.1.3543`
+
+聯繫人頁面展示 Mars 從對話中瞭解到的信息，並附上每條的來源。
+
+![已瞭解的信息與來源](assets/crm-what-mars-learned-with-sources.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [日視圖旁看整月日程](releases/crm-2026-09-23-month-events-beside-the-day.zh-HK.md)
+
+**預覽** · 2026-09-23 · `0.1.1.3475`
+
+日程的日視圖旁會列出整月日程，小日曆也會標出有日程的日期。
+
+![日視圖旁看整月日程](assets/crm-month-events-beside-the-day.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [連續閲讀 PDF](releases/crm-2026-09-12-continuous-pdf-reading.zh-HK.md)
+
+**預覽** · 2026-09-12 · `0.1.1.3383`
+
+資料庫裏的 PDF 可以連續滾動閲讀，並用頁面縮略圖跳轉；文件也會顯示首頁縮略圖。
+
+![連續閲讀 PDF](assets/crm-continuous-pdf-reading.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [更清楚的訂閲頁](releases/crm-2026-09-04-a-clearer-plans-page.zh-HK.md)
+
+**預覽** · 2026-09-04 · `0.1.1.3352`
+
+新的訂閲頁可以並排比較權益，從三個方案中選擇，並通過固定在底部的購買欄下單。
+
+![更清楚的訂閲頁](assets/crm-a-clearer-plans-page.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+
+<!-- mars-crm-preview:end -->
+
+## 已正式上線的歷史更新
 
 **Marsdata AI**（亦稱 Mars Agent）的每一次產品變化。Marsdata 是一個替你維護關係的 AI。本倉庫鏡像自 [https://marsdata.ai/changelog](https://marsdata.ai/changelog)。
 

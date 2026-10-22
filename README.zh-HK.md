@@ -1,4 +1,75 @@
-# Marsdata AI — 產品更新日誌
+<!-- mars-crm-preview:start -->
+# Mars — 產品更新
+
+> **預覽** — 以下功能目前處於預覽階段，尚未正式上線。
+
+[體驗預覽版](https://canary.marsdata.ai) · [English](./README.md) · [简体中文](./README.zh-CN.md) · [繁體中文](./README.zh-HK.md)
+
+## 預覽版更新
+
+![在地圖上規劃行程](assets/crm-plan-trips-on-a-map.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+- **2026-10-21** · [在地圖上規劃行程](releases/crm-2026-10-21-plan-trips-on-a-map.zh-HK.md) · 預覽 · `0.1.1.6886`
+- **2026-10-20** · [更快、自適應的圖表](releases/crm-2026-10-20-faster-adaptive-diagrams.zh-HK.md) · 預覽 · `0.1.1.6573`
+- **2026-10-19** · [引用鏈接顯示真實標題](releases/crm-2026-10-19-cited-link-titles.zh-HK.md) · 預覽 · `0.1.1.6479`
+- **2026-10-19** · [長錄音與大文件](releases/crm-2026-10-19-long-recordings.zh-HK.md) · 預覽 · `0.1.1.6479`
+- **2026-10-18** · [圖片網格與圖庫](releases/crm-2026-10-18-picture-grids-and-gallery.zh-HK.md) · 預覽 · `0.1.1.6118`
+- **2026-10-17** · [用 Apple 登錄](releases/crm-2026-10-17-sign-in-with-apple.zh-HK.md) · 預覽 · `0.1.1.5950`
+- **2026-10-17** · [Apple 健康同步](releases/crm-2026-10-17-apple-health-sync.zh-HK.md) · 預覽 · `0.1.1.5950`
+- **2026-10-17** · [更完整的健康問答](releases/crm-2026-10-17-richer-health-answers.zh-HK.md) · 預覽 · `0.1.1.5950`
+- **2026-10-17** · [提問面板](releases/crm-2026-10-17-question-panel.zh-HK.md) · 預覽 · `0.1.1.5950`
+- **2026-10-17** · [聊天內查找與新回答菜單](releases/crm-2026-10-17-find-in-chat-and-a-new-answer-menu.zh-HK.md) · 預覽 · `0.1.1.5950`
+- **2026-10-17** · [到點開啓對話的提醒](releases/crm-2026-10-17-reminders-that-start-a-conversation.zh-HK.md) · 預覽 · `0.1.1.5950`
+- **2026-10-17** · [實時繪製的圖表](releases/crm-2026-10-17-live-charts-and-diagrams.zh-HK.md) · 預覽 · `0.1.1.5950`
+- **2026-10-17** · [iWork 與 WPS 預覽](releases/crm-2026-10-17-iwork-and-wps-previews.zh-HK.md) · 預覽 · `0.1.1.5950`
+- **2026-10-17** · [對話狀態一目瞭然](releases/crm-2026-10-17-conversation-status-at-a-glance.zh-HK.md) · 預覽 · `0.1.1.5950`
+- **2026-10-17** · [微信日程提醒](releases/crm-2026-10-17-wechat-event-reminders.zh-HK.md) · 預覽 · `0.1.1.5950`
+- **2026-10-17** · [關係列表顯示最新動態](releases/crm-2026-10-17-relationship-activity-lines.zh-HK.md) · 預覽 · `0.1.1.5950`
+- **2026-10-17** · [更清晰的信息分組](releases/crm-2026-10-17-clearer-information-groups.zh-HK.md) · 預覽 · `0.1.1.5950`
+- **2026-10-17** · [編輯 Keynote、Pages 和 Numbers 文件](releases/crm-2026-10-17-convert-iwork-files.zh-HK.md) · 預覽 · `0.1.1.5950`
+- **2026-10-15** · [隱私鎖](releases/crm-2026-10-15-privacy-lock.zh-HK.md) · 預覽 · `0.1.1.5585`
+- **2026-10-15** · [Mars-2.0 Blaze](releases/crm-2026-10-15-mars-2-0-blaze.zh-HK.md) · 預覽 · `0.1.1.5585`
+- **2026-10-15** · [網頁與 iOS 套餐](releases/crm-2026-10-15-plans-on-web-and-ios.zh-HK.md) · 預覽 · `0.1.1.5585`
+- **2026-10-15** · [點踩即可反饋](releases/crm-2026-10-15-feedback-from-thumbs-down.zh-HK.md) · 預覽 · `0.1.1.5585`
+- **2026-10-15** · [看得見過程的深度研究](releases/crm-2026-10-15-deep-research-you-can-follow.zh-HK.md) · 預覽 · `0.1.1.5585`
+- **2026-10-15** · [結構化圖表](releases/crm-2026-10-15-structured-diagrams.zh-HK.md) · 預覽 · `0.1.1.5585`
+- **2026-10-15** · [寫入資料庫](releases/crm-2026-10-15-write-files-to-the-library.zh-HK.md) · 預覽 · `0.1.1.5585`
+- **2026-10-15** · [更安全的刪除](releases/crm-2026-10-15-safer-deletes.zh-HK.md) · 預覽 · `0.1.1.5585`
+- **2026-10-15** · [長按自己的消息](releases/crm-2026-10-15-long-press-your-messages.zh-HK.md) · 預覽 · `0.1.1.5585`
+- **2026-10-13** · [只讀連接 Gmail](releases/crm-2026-10-13-gmail-read-only.zh-HK.md) · 預覽 · `0.1.1.5222`
+- **2026-10-13** · [導入聯繫人](releases/crm-2026-10-13-import-contacts.zh-HK.md) · 預覽 · `0.1.1.5222`
+- **2026-10-13** · [實時讀取 iPhone 數據](releases/crm-2026-10-13-live-iphone-data.zh-HK.md) · 預覽 · `0.1.1.5222`
+- **2026-10-13** · [手機號與密碼登錄](releases/crm-2026-10-13-phone-and-password-sign-in.zh-HK.md) · 預覽 · `0.1.1.5222`
+- **2026-10-13** · [iOS 原生圖表](releases/crm-2026-10-13-native-charts-on-ios.zh-HK.md) · 預覽 · `0.1.1.5222`
+- **2026-10-13** · [回答不中斷](releases/crm-2026-10-13-answers-that-keep-going.zh-HK.md) · 預覽 · `0.1.1.5222`
+- **2026-10-13** · [額度用完也不丟結果](releases/crm-2026-10-13-graceful-credit-limits.zh-HK.md) · 預覽 · `0.1.1.5222`
+- **2026-10-13** · [首次啓動即用你的語言](releases/crm-2026-10-13-your-language-from-the-start.zh-HK.md) · 預覽 · `0.1.1.5222`
+- **2026-10-10** · [Mars iOS 應用](releases/crm-2026-10-10-mars-for-ios.zh-HK.md) · 預覽 · `0.1.1.4799`
+- **2026-10-10** · [原生通知](releases/crm-2026-10-10-native-notifications.zh-HK.md) · 預覽 · `0.1.1.4799`
+- **2026-10-10** · [每週起始日與日期格式](releases/crm-2026-10-10-week-start-and-date-format.zh-HK.md) · 預覽 · `0.1.1.4799`
+- **2026-10-10** · [關係類型](releases/crm-2026-10-10-relationship-types.zh-HK.md) · 預覽 · `0.1.1.4799`
+- **2026-10-10** · [修訂 Office 文件](releases/crm-2026-10-10-revised-office-files.zh-HK.md) · 預覽 · `0.1.1.4799`
+- **2026-10-10** · [外觀設置](releases/crm-2026-10-10-appearance-settings.zh-HK.md) · 預覽 · `0.1.1.4799`
+- **2026-10-10** · [壓縮包預覽](releases/crm-2026-10-10-archive-previews.zh-HK.md) · 預覽 · `0.1.1.4799`
+- **2026-10-07** · [時區設置](releases/crm-2026-10-07-time-zone-setting.zh-HK.md) · 預覽 · `0.1.1.4285`
+- **2026-10-07** · [通知設置頁](releases/crm-2026-10-07-notifications-page.zh-HK.md) · 預覽 · `0.1.1.4285`
+- **2026-10-07** · [重複事件](releases/crm-2026-10-07-repeating-events.zh-HK.md) · 預覽 · `0.1.1.4285`
+- **2026-10-07** · [字體大小](releases/crm-2026-10-07-text-size.zh-HK.md) · 預覽 · `0.1.1.4285`
+- **2026-10-07** · [取消分享與更廣的搜索](releases/crm-2026-10-07-stop-sharing-and-wider-search.zh-HK.md) · 預覽 · `0.1.1.4285`
+- **2026-10-07** · [聯繫人之間的關係](releases/crm-2026-10-07-relationships-between-contacts.zh-HK.md) · 預覽 · `0.1.1.4285`
+- **2026-10-07** · [用量記錄](releases/crm-2026-10-07-usage-records.zh-HK.md) · 預覽 · `0.1.1.4285`
+- **2026-10-07** · [事件狀態](releases/crm-2026-10-07-event-status.zh-HK.md) · 預覽 · `0.1.1.4285`
+- **2026-09-30** · [個人記憶按組歸整](releases/crm-2026-09-30-grouped-personal-memory.zh-HK.md) · 預覽 · `0.1.1.3581`
+- **2026-09-28** · [已瞭解的信息與來源](releases/crm-2026-09-28-what-mars-learned-with-sources.zh-HK.md) · 預覽 · `0.1.1.3543`
+- **2026-09-23** · [日視圖旁看整月日程](releases/crm-2026-09-23-month-events-beside-the-day.zh-HK.md) · 預覽 · `0.1.1.3475`
+- **2026-09-12** · [連續閲讀 PDF](releases/crm-2026-09-12-continuous-pdf-reading.zh-HK.md) · 預覽 · `0.1.1.3383`
+- **2026-09-04** · [更清楚的訂閲頁](releases/crm-2026-09-04-a-clearer-plans-page.zh-HK.md) · 預覽 · `0.1.1.3352`
+
+<!-- mars-crm-preview:end -->
+
+## 已正式上線的歷史更新
 
 **Marsdata AI**（亦稱 Mars Agent）的每一次產品變化。Marsdata 是一個替你維護關係的 AI。本倉庫鏡像自 [https://marsdata.ai/changelog](https://marsdata.ai/changelog)。
 
