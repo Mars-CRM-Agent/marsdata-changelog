@@ -7,12 +7,12 @@
 
 ## 预览版更新
 
-![Mars 替你看视频](assets/crm-mars-watches-social-videos.webp)
+![Mars 看懂社交媒体视频](assets/crm-mars-watches-social-videos.webp)
 
 *示意图，使用虚构演示数据。*
 
-- **2026-10-22** · [Mars 替你看视频](releases/crm-2026-10-22-mars-watches-social-videos.zh-CN.md) · 预览 · `0.1.1.7385`
-- **2026-10-22** · [带密码的分享链接](releases/crm-2026-10-22-share-links-with-a-password.zh-CN.md) · 预览 · `0.1.1.7385`
+- **2026-10-22** · [Mars 看懂社交媒体视频](releases/crm-2026-10-22-mars-watches-social-videos.zh-CN.md) · 预览 · `0.1.1.7433`
+- **2026-10-22** · [带密码的分享链接](releases/crm-2026-10-22-share-links-with-a-password.zh-CN.md) · 预览 · `0.1.1.7433`
 - **2026-10-21** · [在地图上规划行程](releases/crm-2026-10-21-plan-trips-on-a-map.zh-CN.md) · 预览 · `0.1.1.6886`
 - **2026-10-20** · [更快、自适应的图表](releases/crm-2026-10-20-faster-adaptive-diagrams.zh-CN.md) · 预览 · `0.1.1.6573`
 - **2026-10-19** · [引用链接显示真实标题](releases/crm-2026-10-19-cited-link-titles.zh-CN.md) · 预览 · `0.1.1.6479`

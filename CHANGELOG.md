@@ -7,19 +7,19 @@
 
 ## Preview updates
 
-### [Mars watches the videos for you](releases/crm-2026-10-22-mars-watches-social-videos.md)
+### [Mars understands social media videos](releases/crm-2026-10-22-mars-watches-social-videos.md)
 
-**Preview** · 2026-10-22 · `0.1.1.7385`
+**Preview** · 2026-10-22 · `0.1.1.7433`
 
-Mars watches Douyin and Xiaohongshu videos, quotes what people say on camera and saves them to your Library.
+Mars now understands videos on Douyin, Xiaohongshu, Bilibili, Kuaishou and Weibo: look someone up in a conversation and it watches their videos to tell you what they actually said.
 
-![Mars watches the videos for you](assets/crm-mars-watches-social-videos.en.webp)
+![Mars understands social media videos](assets/crm-mars-watches-social-videos.en.webp)
 
 *Illustration using fictional demo data.*
 
 ### [Share links with a password](releases/crm-2026-10-22-share-links-with-a-password.md)
 
-**Preview** · 2026-10-22 · `0.1.1.7385`
+**Preview** · 2026-10-22 · `0.1.1.7433`
 
 Protect a shared conversation with a six-character access password, on the web and iOS.
 

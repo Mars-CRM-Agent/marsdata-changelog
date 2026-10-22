@@ -1,6 +1,6 @@
 # Share links with a password
 
-> **Preview** · 2026-10-22 · `0.1.1.7385`
+> **Preview** · 2026-10-22 · `0.1.1.7433`
 > These features are available in the preview version and have not been generally released.
 
 Decide who can read a conversation you share.

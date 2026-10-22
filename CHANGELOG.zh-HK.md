@@ -7,19 +7,19 @@
 
 ## 預覽版更新
 
-### [Mars 替你看視頻](releases/crm-2026-10-22-mars-watches-social-videos.zh-HK.md)
+### [Mars 看懂社交媒體視頻](releases/crm-2026-10-22-mars-watches-social-videos.zh-HK.md)
 
-**預覽** · 2026-10-22 · `0.1.1.7385`
+**預覽** · 2026-10-22 · `0.1.1.7433`
 
-Mars 能看抖音和小紅書視頻，引用視頻裏的原話，並把視頻存進你的文件庫。
+Mars 現在能看懂抖音、小紅書、B站、快手和微博的視頻：在對話中搜索一個人，它會去看對方的視頻，告訴你本人在鏡頭前説了什麼。
 
-![Mars 替你看視頻](assets/crm-mars-watches-social-videos.zh-TW.webp)
+![Mars 看懂社交媒體視頻](assets/crm-mars-watches-social-videos.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
 ### [帶密碼的分享鏈接](releases/crm-2026-10-22-share-links-with-a-password.zh-HK.md)
 
-**預覽** · 2026-10-22 · `0.1.1.7385`
+**預覽** · 2026-10-22 · `0.1.1.7433`
 
 給分享的對話加上 6 位訪問密碼，網頁和 iOS 都能設置。
 

@@ -7,12 +7,12 @@
 
 ## Preview updates
 
-![Mars watches the videos for you](assets/crm-mars-watches-social-videos.en.webp)
+![Mars understands social media videos](assets/crm-mars-watches-social-videos.en.webp)
 
 *Illustration using fictional demo data.*
 
-- **2026-10-22** · [Mars watches the videos for you](releases/crm-2026-10-22-mars-watches-social-videos.md) · Preview · `0.1.1.7385`
-- **2026-10-22** · [Share links with a password](releases/crm-2026-10-22-share-links-with-a-password.md) · Preview · `0.1.1.7385`
+- **2026-10-22** · [Mars understands social media videos](releases/crm-2026-10-22-mars-watches-social-videos.md) · Preview · `0.1.1.7433`
+- **2026-10-22** · [Share links with a password](releases/crm-2026-10-22-share-links-with-a-password.md) · Preview · `0.1.1.7433`
 - **2026-10-21** · [Plan trips on a map](releases/crm-2026-10-21-plan-trips-on-a-map.md) · Preview · `0.1.1.6886`
 - **2026-10-20** · [Faster diagrams that fit any width](releases/crm-2026-10-20-faster-adaptive-diagrams.md) · Preview · `0.1.1.6573`
 - **2026-10-19** · [Real titles on cited links](releases/crm-2026-10-19-cited-link-titles.md) · Preview · `0.1.1.6479`
