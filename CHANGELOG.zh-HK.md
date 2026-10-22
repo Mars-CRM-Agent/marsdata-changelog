@@ -7,6 +7,26 @@
 
 ## 預覽版更新
 
+### [Mars 替你看視頻](releases/crm-2026-10-22-mars-watches-social-videos.zh-HK.md)
+
+**預覽** · 2026-10-22 · `0.1.1.7385`
+
+Mars 能看抖音和小紅書視頻，引用視頻裏的原話，並把視頻存進你的文件庫。
+
+![Mars 替你看視頻](assets/crm-mars-watches-social-videos.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [帶密碼的分享鏈接](releases/crm-2026-10-22-share-links-with-a-password.zh-HK.md)
+
+**預覽** · 2026-10-22 · `0.1.1.7385`
+
+給分享的對話加上 6 位訪問密碼，網頁和 iOS 都能設置。
+
+![帶密碼的分享鏈接](assets/crm-share-links-with-a-password.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
 ### [在地圖上規劃行程](releases/crm-2026-10-21-plan-trips-on-a-map.zh-HK.md)
 
 **預覽** · 2026-10-21 · `0.1.1.6886`

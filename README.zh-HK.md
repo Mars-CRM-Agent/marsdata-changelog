@@ -7,10 +7,12 @@
 
 ## 預覽版更新
 
-![在地圖上規劃行程](assets/crm-plan-trips-on-a-map.zh-TW.webp)
+![Mars 替你看視頻](assets/crm-mars-watches-social-videos.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
+- **2026-10-22** · [Mars 替你看視頻](releases/crm-2026-10-22-mars-watches-social-videos.zh-HK.md) · 預覽 · `0.1.1.7385`
+- **2026-10-22** · [帶密碼的分享鏈接](releases/crm-2026-10-22-share-links-with-a-password.zh-HK.md) · 預覽 · `0.1.1.7385`
 - **2026-10-21** · [在地圖上規劃行程](releases/crm-2026-10-21-plan-trips-on-a-map.zh-HK.md) · 預覽 · `0.1.1.6886`
 - **2026-10-20** · [更快、自適應的圖表](releases/crm-2026-10-20-faster-adaptive-diagrams.zh-HK.md) · 預覽 · `0.1.1.6573`
 - **2026-10-19** · [引用鏈接顯示真實標題](releases/crm-2026-10-19-cited-link-titles.zh-HK.md) · 預覽 · `0.1.1.6479`

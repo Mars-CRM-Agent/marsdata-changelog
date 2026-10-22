@@ -7,6 +7,26 @@
 
 ## 预览版更新
 
+### [Mars 替你看视频](releases/crm-2026-10-22-mars-watches-social-videos.zh-CN.md)
+
+**预览** · 2026-10-22 · `0.1.1.7385`
+
+Mars 能看抖音和小红书视频，引用视频里的原话，并把视频存进你的文件库。
+
+![Mars 替你看视频](assets/crm-mars-watches-social-videos.webp)
+
+*示意图，使用虚构演示数据。*
+
+### [带密码的分享链接](releases/crm-2026-10-22-share-links-with-a-password.zh-CN.md)
+
+**预览** · 2026-10-22 · `0.1.1.7385`
+
+给分享的对话加上 6 位访问密码，网页和 iOS 都能设置。
+
+![带密码的分享链接](assets/crm-share-links-with-a-password.webp)
+
+*示意图，使用虚构演示数据。*
+
 ### [在地图上规划行程](releases/crm-2026-10-21-plan-trips-on-a-map.zh-CN.md)
 
 **预览** · 2026-10-21 · `0.1.1.6886`

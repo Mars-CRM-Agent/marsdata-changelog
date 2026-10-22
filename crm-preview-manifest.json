@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://canary.marsdata.ai",
-  "updates": 55,
+  "updates": 57,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -77,6 +77,12 @@
     "assets/crm-mars-2-0-blaze.webp",
     "assets/crm-mars-2-0-blaze.zh-TW.webp",
     "assets/crm-mars-for-ios.webp",
+    "assets/crm-mars-watches-social-videos.en.webp",
+    "assets/crm-mars-watches-social-videos.phone.en.webp",
+    "assets/crm-mars-watches-social-videos.phone.webp",
+    "assets/crm-mars-watches-social-videos.phone.zh-TW.webp",
+    "assets/crm-mars-watches-social-videos.webp",
+    "assets/crm-mars-watches-social-videos.zh-TW.webp",
     "assets/crm-month-events-beside-the-day.en.webp",
     "assets/crm-month-events-beside-the-day.webp",
     "assets/crm-month-events-beside-the-day.zh-TW.webp",
@@ -125,6 +131,12 @@
     "assets/crm-safer-deletes.en.webp",
     "assets/crm-safer-deletes.webp",
     "assets/crm-safer-deletes.zh-TW.webp",
+    "assets/crm-share-links-with-a-password.en.webp",
+    "assets/crm-share-links-with-a-password.phone.en.webp",
+    "assets/crm-share-links-with-a-password.phone.webp",
+    "assets/crm-share-links-with-a-password.phone.zh-TW.webp",
+    "assets/crm-share-links-with-a-password.webp",
+    "assets/crm-share-links-with-a-password.zh-TW.webp",
     "assets/crm-sign-in-with-apple.webp",
     "assets/crm-stop-sharing-and-wider-search.en.webp",
     "assets/crm-stop-sharing-and-wider-search.webp",
@@ -317,6 +329,12 @@
     "releases/crm-2026-10-20-faster-adaptive-diagrams.zh-HK.md",
     "releases/crm-2026-10-21-plan-trips-on-a-map.md",
     "releases/crm-2026-10-21-plan-trips-on-a-map.zh-CN.md",
-    "releases/crm-2026-10-21-plan-trips-on-a-map.zh-HK.md"
+    "releases/crm-2026-10-21-plan-trips-on-a-map.zh-HK.md",
+    "releases/crm-2026-10-22-mars-watches-social-videos.md",
+    "releases/crm-2026-10-22-mars-watches-social-videos.zh-CN.md",
+    "releases/crm-2026-10-22-mars-watches-social-videos.zh-HK.md",
+    "releases/crm-2026-10-22-share-links-with-a-password.md",
+    "releases/crm-2026-10-22-share-links-with-a-password.zh-CN.md",
+    "releases/crm-2026-10-22-share-links-with-a-password.zh-HK.md"
   ]
 }

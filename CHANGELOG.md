@@ -7,6 +7,26 @@
 
 ## Preview updates
 
+### [Mars watches the videos for you](releases/crm-2026-10-22-mars-watches-social-videos.md)
+
+**Preview** · 2026-10-22 · `0.1.1.7385`
+
+Mars watches Douyin and Xiaohongshu videos, quotes what people say on camera and saves them to your Library.
+
+![Mars watches the videos for you](assets/crm-mars-watches-social-videos.en.webp)
+
+*Illustration using fictional demo data.*
+
+### [Share links with a password](releases/crm-2026-10-22-share-links-with-a-password.md)
+
+**Preview** · 2026-10-22 · `0.1.1.7385`
+
+Protect a shared conversation with a six-character access password, on the web and iOS.
+
+![Share links with a password](assets/crm-share-links-with-a-password.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [Plan trips on a map](releases/crm-2026-10-21-plan-trips-on-a-map.md)
 
 **Preview** · 2026-10-21 · `0.1.1.6886`
