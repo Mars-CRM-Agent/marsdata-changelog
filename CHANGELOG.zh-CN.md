@@ -9,11 +9,21 @@
 
 ### [不登录读取网页](releases/crm-2026-10-23-read-pages-without-your-login.zh-CN.md)
 
-**预览** · 2026-10-23 · `0.1.1.7576`
+**预览** · 2026-10-23 · `0.1.1.7618`
 
 Mars 不登录、一次请求读完网页；需要登录的内容，它会请你直接打开原文链接。
 
 ![不登录读取网页](assets/crm-read-pages-without-your-login.webp)
+
+*示意图，使用虚构演示数据。*
+
+### [按价值排序](releases/crm-2026-10-23-sort-by-value.zh-CN.md)
+
+**预览** · 2026-10-23 · `0.1.1.7618`
+
+按价值排序：事件和关系按对你的价值排列，网页与 iOS 同步上线。
+
+![按价值排序](assets/crm-sort-by-value.webp)
 
 *示意图，使用虚构演示数据。*
 

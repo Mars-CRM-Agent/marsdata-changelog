@@ -11,7 +11,8 @@
 
 *示意图，使用虚构演示数据。*
 
-- **2026-10-23** · [不登录读取网页](releases/crm-2026-10-23-read-pages-without-your-login.zh-CN.md) · 预览 · `0.1.1.7576`
+- **2026-10-23** · [不登录读取网页](releases/crm-2026-10-23-read-pages-without-your-login.zh-CN.md) · 预览 · `0.1.1.7618`
+- **2026-10-23** · [按价值排序](releases/crm-2026-10-23-sort-by-value.zh-CN.md) · 预览 · `0.1.1.7618`
 - **2026-10-22** · [Mars 看懂社交媒体视频](releases/crm-2026-10-22-mars-watches-social-videos.zh-CN.md) · 预览 · `0.1.1.7433`
 - **2026-10-22** · [带密码的分享链接](releases/crm-2026-10-22-share-links-with-a-password.zh-CN.md) · 预览 · `0.1.1.7433`
 - **2026-10-21** · [在地图上规划行程](releases/crm-2026-10-21-plan-trips-on-a-map.zh-CN.md) · 预览 · `0.1.1.6886`

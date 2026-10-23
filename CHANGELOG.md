@@ -9,11 +9,21 @@
 
 ### [Web pages read without your login](releases/crm-2026-10-23-read-pages-without-your-login.md)
 
-**Preview** · 2026-10-23 · `0.1.1.7576`
+**Preview** · 2026-10-23 · `0.1.1.7618`
 
 Mars reads a web page in one request without signing in, and points you to the original link for anything that needs your login.
 
 ![Web pages read without your login](assets/crm-read-pages-without-your-login.en.webp)
+
+*Illustration using fictional demo data.*
+
+### [Sort by value](releases/crm-2026-10-23-sort-by-value.md)
+
+**Preview** · 2026-10-23 · `0.1.1.7618`
+
+Sort by value lists your events and relationships by what they mean to you, on the web and iOS.
+
+![Sort by value](assets/crm-sort-by-value.en.webp)
 
 *Illustration using fictional demo data.*
 

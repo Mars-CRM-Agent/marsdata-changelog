@@ -1,6 +1,6 @@
 # Web pages read without your login
 
-> **Preview** · 2026-10-23 · `0.1.1.7576`
+> **Preview** · 2026-10-23 · `0.1.1.7618`
 > These features are available in the preview version and have not been generally released.
 
 Your accounts stay in your hands. Mars only looks at what is public.

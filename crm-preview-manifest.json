@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://canary.marsdata.ai",
-  "updates": 58,
+  "updates": 59,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -144,6 +144,12 @@
     "assets/crm-share-links-with-a-password.webp",
     "assets/crm-share-links-with-a-password.zh-TW.webp",
     "assets/crm-sign-in-with-apple.webp",
+    "assets/crm-sort-by-value.en.webp",
+    "assets/crm-sort-by-value.phone.en.webp",
+    "assets/crm-sort-by-value.phone.webp",
+    "assets/crm-sort-by-value.phone.zh-TW.webp",
+    "assets/crm-sort-by-value.webp",
+    "assets/crm-sort-by-value.zh-TW.webp",
     "assets/crm-stop-sharing-and-wider-search.en.webp",
     "assets/crm-stop-sharing-and-wider-search.webp",
     "assets/crm-stop-sharing-and-wider-search.zh-TW.webp",
@@ -344,6 +350,9 @@
     "releases/crm-2026-10-22-share-links-with-a-password.zh-HK.md",
     "releases/crm-2026-10-23-read-pages-without-your-login.md",
     "releases/crm-2026-10-23-read-pages-without-your-login.zh-CN.md",
-    "releases/crm-2026-10-23-read-pages-without-your-login.zh-HK.md"
+    "releases/crm-2026-10-23-read-pages-without-your-login.zh-HK.md",
+    "releases/crm-2026-10-23-sort-by-value.md",
+    "releases/crm-2026-10-23-sort-by-value.zh-CN.md",
+    "releases/crm-2026-10-23-sort-by-value.zh-HK.md"
   ]
 }
