@@ -7,6 +7,16 @@
 
 ## 預覽版更新
 
+### [不登錄讀取網頁](releases/crm-2026-10-23-read-pages-without-your-login.zh-HK.md)
+
+**預覽** · 2026-10-23 · `0.1.1.7576`
+
+Mars 不登錄、一次請求讀完網頁；需要登錄的內容，它會請你直接打開原文鏈接。
+
+![不登錄讀取網頁](assets/crm-read-pages-without-your-login.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
 ### [Mars 看懂社交媒體視頻](releases/crm-2026-10-22-mars-watches-social-videos.zh-HK.md)
 
 **預覽** · 2026-10-22 · `0.1.1.7433`

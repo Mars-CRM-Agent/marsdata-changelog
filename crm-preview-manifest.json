@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://canary.marsdata.ai",
-  "updates": 57,
+  "updates": 58,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -113,6 +113,12 @@
     "assets/crm-question-panel.en.webp",
     "assets/crm-question-panel.webp",
     "assets/crm-question-panel.zh-TW.webp",
+    "assets/crm-read-pages-without-your-login.en.webp",
+    "assets/crm-read-pages-without-your-login.phone.en.webp",
+    "assets/crm-read-pages-without-your-login.phone.webp",
+    "assets/crm-read-pages-without-your-login.phone.zh-TW.webp",
+    "assets/crm-read-pages-without-your-login.webp",
+    "assets/crm-read-pages-without-your-login.zh-TW.webp",
     "assets/crm-relationship-activity-lines.en.webp",
     "assets/crm-relationship-activity-lines.webp",
     "assets/crm-relationship-activity-lines.zh-TW.webp",
@@ -335,6 +341,9 @@
     "releases/crm-2026-10-22-mars-watches-social-videos.zh-HK.md",
     "releases/crm-2026-10-22-share-links-with-a-password.md",
     "releases/crm-2026-10-22-share-links-with-a-password.zh-CN.md",
-    "releases/crm-2026-10-22-share-links-with-a-password.zh-HK.md"
+    "releases/crm-2026-10-22-share-links-with-a-password.zh-HK.md",
+    "releases/crm-2026-10-23-read-pages-without-your-login.md",
+    "releases/crm-2026-10-23-read-pages-without-your-login.zh-CN.md",
+    "releases/crm-2026-10-23-read-pages-without-your-login.zh-HK.md"
   ]
 }

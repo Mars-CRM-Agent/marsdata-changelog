@@ -7,10 +7,11 @@
 
 ## 預覽版更新
 
-![Mars 看懂社交媒體視頻](assets/crm-mars-watches-social-videos.zh-TW.webp)
+![不登錄讀取網頁](assets/crm-read-pages-without-your-login.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
+- **2026-10-23** · [不登錄讀取網頁](releases/crm-2026-10-23-read-pages-without-your-login.zh-HK.md) · 預覽 · `0.1.1.7576`
 - **2026-10-22** · [Mars 看懂社交媒體視頻](releases/crm-2026-10-22-mars-watches-social-videos.zh-HK.md) · 預覽 · `0.1.1.7433`
 - **2026-10-22** · [帶密碼的分享鏈接](releases/crm-2026-10-22-share-links-with-a-password.zh-HK.md) · 預覽 · `0.1.1.7433`
 - **2026-10-21** · [在地圖上規劃行程](releases/crm-2026-10-21-plan-trips-on-a-map.zh-HK.md) · 預覽 · `0.1.1.6886`

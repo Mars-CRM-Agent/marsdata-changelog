@@ -7,6 +7,16 @@
 
 ## Preview updates
 
+### [Web pages read without your login](releases/crm-2026-10-23-read-pages-without-your-login.md)
+
+**Preview** · 2026-10-23 · `0.1.1.7576`
+
+Mars reads a web page in one request without signing in, and points you to the original link for anything that needs your login.
+
+![Web pages read without your login](assets/crm-read-pages-without-your-login.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [Mars understands social media videos](releases/crm-2026-10-22-mars-watches-social-videos.md)
 
 **Preview** · 2026-10-22 · `0.1.1.7433`

@@ -7,10 +7,11 @@
 
 ## Preview updates
 
-![Mars understands social media videos](assets/crm-mars-watches-social-videos.en.webp)
+![Web pages read without your login](assets/crm-read-pages-without-your-login.en.webp)
 
 *Illustration using fictional demo data.*
 
+- **2026-10-23** · [Web pages read without your login](releases/crm-2026-10-23-read-pages-without-your-login.md) · Preview · `0.1.1.7576`
 - **2026-10-22** · [Mars understands social media videos](releases/crm-2026-10-22-mars-watches-social-videos.md) · Preview · `0.1.1.7433`
 - **2026-10-22** · [Share links with a password](releases/crm-2026-10-22-share-links-with-a-password.md) · Preview · `0.1.1.7433`
 - **2026-10-21** · [Plan trips on a map](releases/crm-2026-10-21-plan-trips-on-a-map.md) · Preview · `0.1.1.6886`
