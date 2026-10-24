@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://canary.marsdata.ai",
-  "updates": 59,
+  "updates": 60,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -83,6 +83,12 @@
     "assets/crm-mars-watches-social-videos.phone.zh-TW.webp",
     "assets/crm-mars-watches-social-videos.webp",
     "assets/crm-mars-watches-social-videos.zh-TW.webp",
+    "assets/crm-mars-widgets-on-iphone.en.webp",
+    "assets/crm-mars-widgets-on-iphone.phone.en.webp",
+    "assets/crm-mars-widgets-on-iphone.phone.webp",
+    "assets/crm-mars-widgets-on-iphone.phone.zh-TW.webp",
+    "assets/crm-mars-widgets-on-iphone.webp",
+    "assets/crm-mars-widgets-on-iphone.zh-TW.webp",
     "assets/crm-month-events-beside-the-day.en.webp",
     "assets/crm-month-events-beside-the-day.webp",
     "assets/crm-month-events-beside-the-day.zh-TW.webp",
@@ -353,6 +359,9 @@
     "releases/crm-2026-10-23-read-pages-without-your-login.zh-HK.md",
     "releases/crm-2026-10-23-sort-by-value.md",
     "releases/crm-2026-10-23-sort-by-value.zh-CN.md",
-    "releases/crm-2026-10-23-sort-by-value.zh-HK.md"
+    "releases/crm-2026-10-23-sort-by-value.zh-HK.md",
+    "releases/crm-2026-10-24-mars-widgets-on-iphone.md",
+    "releases/crm-2026-10-24-mars-widgets-on-iphone.zh-CN.md",
+    "releases/crm-2026-10-24-mars-widgets-on-iphone.zh-HK.md"
   ]
 }
