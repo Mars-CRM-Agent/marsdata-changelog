@@ -11,7 +11,7 @@
 
 *示意圖，使用虛構演示資料。*
 
-- **2026-10-24** · [iPhone 和 Mac 桌面小組件](releases/crm-2026-10-24-mars-widgets-on-iphone.zh-HK.md) · 預覽 · `0.1.1.7924`
+- **2026-10-24** · [iPhone 和 Mac 桌面小組件](releases/crm-2026-10-24-mars-widgets-on-iphone.zh-HK.md) · 預覽 · `0.1.1.7939`
 - **2026-10-23** · [不登錄讀取網頁](releases/crm-2026-10-23-read-pages-without-your-login.zh-HK.md) · 預覽 · `0.1.1.7618`
 - **2026-10-23** · [按價值排序](releases/crm-2026-10-23-sort-by-value.zh-HK.md) · 預覽 · `0.1.1.7618`
 - **2026-10-22** · [Mars 看懂社交媒體視頻](releases/crm-2026-10-22-mars-watches-social-videos.zh-HK.md) · 預覽 · `0.1.1.7433`
