@@ -7,13 +7,13 @@
 
 ## 预览版更新
 
-### [iPhone 桌面小组件](releases/crm-2026-10-24-mars-widgets-on-iphone.zh-CN.md)
+### [iPhone 和 Mac 桌面小组件](releases/crm-2026-10-24-mars-widgets-on-iphone.zh-CN.md)
 
-**预览** · 2026-10-24 · `0.1.1.7865`
+**预览** · 2026-10-24 · `0.1.1.7924`
 
-Mars 小组件登陆 iPhone 主屏幕和锁屏：一键开始对话、语音或拍照，用量和剩余额度一眼可见。
+Mars 小组件登陆 iPhone 主屏幕、锁屏和 Mac 桌面：一键开始对话、语音或拍照，用量和剩余额度一眼可见。
 
-![iPhone 桌面小组件](assets/crm-mars-widgets-on-iphone.webp)
+![iPhone 和 Mac 桌面小组件](assets/crm-mars-widgets-on-iphone.webp)
 
 *示意图，使用虚构演示数据。*
 

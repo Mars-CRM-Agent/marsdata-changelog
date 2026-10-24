@@ -7,13 +7,13 @@
 
 ## Preview updates
 
-### [Mars widgets for iPhone](releases/crm-2026-10-24-mars-widgets-on-iphone.md)
+### [Mars widgets for iPhone and Mac](releases/crm-2026-10-24-mars-widgets-on-iphone.md)
 
-**Preview** · 2026-10-24 · `0.1.1.7865`
+**Preview** · 2026-10-24 · `0.1.1.7924`
 
-Mars widgets arrive on the iPhone Home Screen and Lock Screen: start a chat, voice note or photo in one tap, and see your usage and credits left at a glance.
+Mars widgets arrive on the iPhone Home Screen, the Lock Screen and the Mac desktop: start a chat, voice note or photo in one tap, and see your usage and credits left at a glance.
 
-![Mars widgets for iPhone](assets/crm-mars-widgets-on-iphone.en.webp)
+![Mars widgets for iPhone and Mac](assets/crm-mars-widgets-on-iphone.en.webp)
 
 *Illustration using fictional demo data.*
 

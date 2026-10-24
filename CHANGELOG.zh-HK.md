@@ -7,13 +7,13 @@
 
 ## 預覽版更新
 
-### [iPhone 桌面小組件](releases/crm-2026-10-24-mars-widgets-on-iphone.zh-HK.md)
+### [iPhone 和 Mac 桌面小組件](releases/crm-2026-10-24-mars-widgets-on-iphone.zh-HK.md)
 
-**預覽** · 2026-10-24 · `0.1.1.7865`
+**預覽** · 2026-10-24 · `0.1.1.7924`
 
-Mars 小組件登陸 iPhone 主屏幕和鎖屏：一鍵開始對話、語音或拍照，用量和剩餘額度一眼可見。
+Mars 小組件登陸 iPhone 主屏幕、鎖屏和 Mac 桌面：一鍵開始對話、語音或拍照，用量和剩餘額度一眼可見。
 
-![iPhone 桌面小組件](assets/crm-mars-widgets-on-iphone.zh-TW.webp)
+![iPhone 和 Mac 桌面小組件](assets/crm-mars-widgets-on-iphone.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 

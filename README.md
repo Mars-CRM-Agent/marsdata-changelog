@@ -7,11 +7,11 @@
 
 ## Preview updates
 
-![Mars widgets for iPhone](assets/crm-mars-widgets-on-iphone.en.webp)
+![Mars widgets for iPhone and Mac](assets/crm-mars-widgets-on-iphone.en.webp)
 
 *Illustration using fictional demo data.*
 
-- **2026-10-24** · [Mars widgets for iPhone](releases/crm-2026-10-24-mars-widgets-on-iphone.md) · Preview · `0.1.1.7865`
+- **2026-10-24** · [Mars widgets for iPhone and Mac](releases/crm-2026-10-24-mars-widgets-on-iphone.md) · Preview · `0.1.1.7924`
 - **2026-10-23** · [Web pages read without your login](releases/crm-2026-10-23-read-pages-without-your-login.md) · Preview · `0.1.1.7618`
 - **2026-10-23** · [Sort by value](releases/crm-2026-10-23-sort-by-value.md) · Preview · `0.1.1.7618`
 - **2026-10-22** · [Mars understands social media videos](releases/crm-2026-10-22-mars-watches-social-videos.md) · Preview · `0.1.1.7433`
