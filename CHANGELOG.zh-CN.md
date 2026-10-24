@@ -9,11 +9,21 @@
 
 ### [iPhone 和 Mac 桌面小组件](releases/crm-2026-10-24-mars-widgets-on-iphone.zh-CN.md)
 
-**预览** · 2026-10-24 · `0.1.1.7939`
+**预览** · 2026-10-24 · `0.1.1.7959`
 
 Mars 小组件登陆 iPhone 主屏幕、锁屏和 Mac 桌面：一键开始对话、语音或拍照，用量和剩余额度一眼可见。
 
 ![iPhone 和 Mac 桌面小组件](assets/crm-mars-widgets-on-iphone.webp)
+
+*示意图，使用虚构演示数据。*
+
+### [Mars 制作演示文稿和文档](releases/crm-2026-10-24-mars-makes-decks-and-documents.zh-CN.md)
+
+**预览** · 2026-10-24 · `0.1.1.7959`
+
+Mars 一句话做出可编辑的 PowerPoint 演示文稿，配图风格统一；也能写带插图的 Word 文档。
+
+![Mars 制作演示文稿和文档](assets/crm-mars-makes-decks-and-documents.webp)
 
 *示意图，使用虚构演示数据。*
 

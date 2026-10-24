@@ -1,6 +1,6 @@
 # Mars widgets for iPhone and Mac
 
-> **Preview** · 2026-10-24 · `0.1.1.7939`
+> **Preview** · 2026-10-24 · `0.1.1.7959`
 > These features are available in the preview version and have not been generally released.
 
 Reach Mars from the Home Screen or the desktop without hunting for the app.

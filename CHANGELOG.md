@@ -9,11 +9,21 @@
 
 ### [Mars widgets for iPhone and Mac](releases/crm-2026-10-24-mars-widgets-on-iphone.md)
 
-**Preview** · 2026-10-24 · `0.1.1.7939`
+**Preview** · 2026-10-24 · `0.1.1.7959`
 
 Mars widgets arrive on the iPhone Home Screen, the Lock Screen and the Mac desktop: start a chat, voice note or photo in one tap, and see your usage and credits left at a glance.
 
 ![Mars widgets for iPhone and Mac](assets/crm-mars-widgets-on-iphone.en.webp)
+
+*Illustration using fictional demo data.*
+
+### [Mars makes slide decks and documents](releases/crm-2026-10-24-mars-makes-decks-and-documents.md)
+
+**Preview** · 2026-10-24 · `0.1.1.7959`
+
+Mars makes editable PowerPoint decks with pictures drawn in one style, and Word documents with illustrations, from a single request.
+
+![Mars makes slide decks and documents](assets/crm-mars-makes-decks-and-documents.en.webp)
 
 *Illustration using fictional demo data.*
 
