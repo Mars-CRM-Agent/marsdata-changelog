@@ -7,6 +7,26 @@
 
 ## 預覽版更新
 
+### [回答中隨時補充](releases/crm-2026-10-25-add-to-a-running-answer.zh-HK.md)
+
+**預覽** · 2026-10-25 · `0.1.1.8208`
+
+Mars 回答時也能繼續輸入：中途補充細節或調整方向，Mars 會在你的消息下方接着回答。
+
+![回答中隨時補充](assets/crm-add-to-a-running-answer.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [從最新招聘查職位薪資](releases/crm-2026-10-25-what-a-role-pays.zh-HK.md)
+
+**預覽** · 2026-10-25 · `0.1.1.8208`
+
+問 Mars 某個職位薪資多少：它會搜索領英和 Google Jobs 上該職位和地點的最新招聘，彙總公開標註的薪資。
+
+![從最新招聘查職位薪資](assets/crm-what-a-role-pays.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
 ### [iPhone 和 Mac 桌面小組件](releases/crm-2026-10-24-mars-widgets-on-iphone.zh-HK.md)
 
 **預覽** · 2026-10-24 · `0.1.1.7959`

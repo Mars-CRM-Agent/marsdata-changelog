@@ -7,6 +7,26 @@
 
 ## Preview updates
 
+### [Add to an answer while it streams](releases/crm-2026-10-25-add-to-a-running-answer.md)
+
+**Preview** · 2026-10-25 · `0.1.1.8208`
+
+Keep typing while Mars answers: add a detail or change direction mid-answer, and Mars continues below your message with it taken into account.
+
+![Add to an answer while it streams](assets/crm-add-to-a-running-answer.en.webp)
+
+*Illustration using fictional demo data.*
+
+### [What a role pays, from live job postings](releases/crm-2026-10-25-what-a-role-pays.md)
+
+**Preview** · 2026-10-25 · `0.1.1.8208`
+
+Ask Mars what a role pays: it searches live LinkedIn and Google Jobs postings for the role and place, and sums up the advertised pay.
+
+![What a role pays, from live job postings](assets/crm-what-a-role-pays.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [Mars widgets for iPhone and Mac](releases/crm-2026-10-24-mars-widgets-on-iphone.md)
 
 **Preview** · 2026-10-24 · `0.1.1.7959`

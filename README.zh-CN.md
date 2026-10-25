@@ -7,10 +7,12 @@
 
 ## 预览版更新
 
-![iPhone 和 Mac 桌面小组件](assets/crm-mars-widgets-on-iphone.webp)
+![回答中随时补充](assets/crm-add-to-a-running-answer.webp)
 
 *示意图，使用虚构演示数据。*
 
+- **2026-10-25** · [回答中随时补充](releases/crm-2026-10-25-add-to-a-running-answer.zh-CN.md) · 预览 · `0.1.1.8208`
+- **2026-10-25** · [从最新招聘查职位薪资](releases/crm-2026-10-25-what-a-role-pays.zh-CN.md) · 预览 · `0.1.1.8208`
 - **2026-10-24** · [iPhone 和 Mac 桌面小组件](releases/crm-2026-10-24-mars-widgets-on-iphone.zh-CN.md) · 预览 · `0.1.1.7959`
 - **2026-10-24** · [Mars 制作演示文稿和文档](releases/crm-2026-10-24-mars-makes-decks-and-documents.zh-CN.md) · 预览 · `0.1.1.7959`
 - **2026-10-23** · [不登录读取网页](releases/crm-2026-10-23-read-pages-without-your-login.zh-CN.md) · 预览 · `0.1.1.7618`
