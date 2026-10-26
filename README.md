@@ -11,7 +11,8 @@
 
 *Illustration using fictional demo data.*
 
-- **2026-10-26** · [Mars for Mac](releases/crm-2026-10-26-mars-for-mac.md) · Preview · `0.1.1.8344`
+- **2026-10-26** · [Mars for Mac](releases/crm-2026-10-26-mars-for-mac.md) · Preview · `0.1.1.8385`
+- **2026-10-26** · [Open social accounts in one tap](releases/crm-2026-10-26-open-social-accounts-in-one-tap.md) · Preview · `0.1.1.8385`
 - **2026-10-25** · [Add to an answer while it streams](releases/crm-2026-10-25-add-to-a-running-answer.md) · Preview · `0.1.1.8208`
 - **2026-10-25** · [What a role pays, from live job postings](releases/crm-2026-10-25-what-a-role-pays.md) · Preview · `0.1.1.8208`
 - **2026-10-24** · [Mars widgets for iPhone and Mac](releases/crm-2026-10-24-mars-widgets-on-iphone.md) · Preview · `0.1.1.7959`

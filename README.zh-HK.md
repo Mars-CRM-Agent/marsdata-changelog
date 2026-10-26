@@ -11,7 +11,8 @@
 
 *示意圖，使用虛構演示資料。*
 
-- **2026-10-26** · [Mars Mac 原生應用](releases/crm-2026-10-26-mars-for-mac.zh-HK.md) · 預覽 · `0.1.1.8344`
+- **2026-10-26** · [Mars Mac 原生應用](releases/crm-2026-10-26-mars-for-mac.zh-HK.md) · 預覽 · `0.1.1.8385`
+- **2026-10-26** · [一鍵打開社交賬號](releases/crm-2026-10-26-open-social-accounts-in-one-tap.zh-HK.md) · 預覽 · `0.1.1.8385`
 - **2026-10-25** · [回答中隨時補充](releases/crm-2026-10-25-add-to-a-running-answer.zh-HK.md) · 預覽 · `0.1.1.8208`
 - **2026-10-25** · [從最新招聘查職位薪資](releases/crm-2026-10-25-what-a-role-pays.zh-HK.md) · 預覽 · `0.1.1.8208`
 - **2026-10-24** · [iPhone 和 Mac 桌面小組件](releases/crm-2026-10-24-mars-widgets-on-iphone.zh-HK.md) · 預覽 · `0.1.1.7959`

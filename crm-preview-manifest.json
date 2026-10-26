@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://canary.marsdata.ai",
-  "updates": 64,
+  "updates": 65,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -119,6 +119,12 @@
     "assets/crm-notifications-page.en.webp",
     "assets/crm-notifications-page.webp",
     "assets/crm-notifications-page.zh-TW.webp",
+    "assets/crm-open-social-accounts-in-one-tap.en.webp",
+    "assets/crm-open-social-accounts-in-one-tap.phone.en.webp",
+    "assets/crm-open-social-accounts-in-one-tap.phone.webp",
+    "assets/crm-open-social-accounts-in-one-tap.phone.zh-TW.webp",
+    "assets/crm-open-social-accounts-in-one-tap.webp",
+    "assets/crm-open-social-accounts-in-one-tap.zh-TW.webp",
     "assets/crm-phone-and-password-sign-in.en.webp",
     "assets/crm-phone-and-password-sign-in.webp",
     "assets/crm-phone-and-password-sign-in.zh-TW.webp",
@@ -398,6 +404,9 @@
     "releases/crm-2026-10-25-what-a-role-pays.zh-HK.md",
     "releases/crm-2026-10-26-mars-for-mac.md",
     "releases/crm-2026-10-26-mars-for-mac.zh-CN.md",
-    "releases/crm-2026-10-26-mars-for-mac.zh-HK.md"
+    "releases/crm-2026-10-26-mars-for-mac.zh-HK.md",
+    "releases/crm-2026-10-26-open-social-accounts-in-one-tap.md",
+    "releases/crm-2026-10-26-open-social-accounts-in-one-tap.zh-CN.md",
+    "releases/crm-2026-10-26-open-social-accounts-in-one-tap.zh-HK.md"
   ]
 }

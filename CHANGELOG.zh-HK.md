@@ -9,11 +9,21 @@
 
 ### [Mars Mac 原生應用](releases/crm-2026-10-26-mars-for-mac.zh-HK.md)
 
-**預覽** · 2026-10-26 · `0.1.1.8344`
+**預覽** · 2026-10-26 · `0.1.1.8385`
 
 Mars 推出以原生 Swift 構建的 Mac 應用：桌面三欄工作區，與 iPhone、iPad 使用同一賬號。
 
 ![Mars Mac 原生應用](assets/crm-mars-for-mac.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [一鍵打開社交賬號](releases/crm-2026-10-26-open-social-accounts-in-one-tap.zh-HK.md)
+
+**預覽** · 2026-10-26 · `0.1.1.8385`
+
+向 Mars 詢問某人的微信號或其他賬號，每個賬號都顯示為膠囊，點按即複製並打開對應應用。
+
+![一鍵打開社交賬號](assets/crm-open-social-accounts-in-one-tap.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 

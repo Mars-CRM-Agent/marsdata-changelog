@@ -1,6 +1,6 @@
 # Mars for Mac
 
-> **Preview** · 2026-10-26 · `0.1.1.8344`
+> **Preview** · 2026-10-26 · `0.1.1.8385`
 > These features are available in the preview version and have not been generally released.
 
 Mars now has a Mac app, built natively in Swift.

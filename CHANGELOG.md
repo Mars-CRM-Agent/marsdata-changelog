@@ -9,11 +9,21 @@
 
 ### [Mars for Mac](releases/crm-2026-10-26-mars-for-mac.md)
 
-**Preview** · 2026-10-26 · `0.1.1.8344`
+**Preview** · 2026-10-26 · `0.1.1.8385`
 
 Mars arrives on the Mac as a native app built in Swift, with the three-column desktop workspace and the same account as iPhone and iPad.
 
 ![Mars for Mac](assets/crm-mars-for-mac.en.webp)
+
+*Illustration using fictional demo data.*
+
+### [Open social accounts in one tap](releases/crm-2026-10-26-open-social-accounts-in-one-tap.md)
+
+**Preview** · 2026-10-26 · `0.1.1.8385`
+
+Ask Mars for someone's WeChat ID or other accounts and each one appears as a capsule that copies it and opens its app.
+
+![Open social accounts in one tap](assets/crm-open-social-accounts-in-one-tap.en.webp)
 
 *Illustration using fictional demo data.*
 
