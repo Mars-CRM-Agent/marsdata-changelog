@@ -7,6 +7,16 @@
 
 ## 预览版更新
 
+### [Mars Mac 原生应用](releases/crm-2026-10-26-mars-for-mac.zh-CN.md)
+
+**预览** · 2026-10-26 · `0.1.1.8344`
+
+Mars 推出以原生 Swift 构建的 Mac 应用：桌面三栏工作区，与 iPhone、iPad 使用同一账号。
+
+![Mars Mac 原生应用](assets/crm-mars-for-mac.webp)
+
+*示意图，使用虚构演示数据。*
+
 ### [回答中随时补充](releases/crm-2026-10-25-add-to-a-running-answer.zh-CN.md)
 
 **预览** · 2026-10-25 · `0.1.1.8208`

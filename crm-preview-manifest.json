@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://canary.marsdata.ai",
-  "updates": 63,
+  "updates": 64,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -83,6 +83,12 @@
     "assets/crm-mars-2-0-blaze.webp",
     "assets/crm-mars-2-0-blaze.zh-TW.webp",
     "assets/crm-mars-for-ios.webp",
+    "assets/crm-mars-for-mac.en.webp",
+    "assets/crm-mars-for-mac.phone.en.webp",
+    "assets/crm-mars-for-mac.phone.webp",
+    "assets/crm-mars-for-mac.phone.zh-TW.webp",
+    "assets/crm-mars-for-mac.webp",
+    "assets/crm-mars-for-mac.zh-TW.webp",
     "assets/crm-mars-makes-decks-and-documents.en.webp",
     "assets/crm-mars-makes-decks-and-documents.phone.en.webp",
     "assets/crm-mars-makes-decks-and-documents.phone.webp",
@@ -389,6 +395,9 @@
     "releases/crm-2026-10-25-add-to-a-running-answer.zh-HK.md",
     "releases/crm-2026-10-25-what-a-role-pays.md",
     "releases/crm-2026-10-25-what-a-role-pays.zh-CN.md",
-    "releases/crm-2026-10-25-what-a-role-pays.zh-HK.md"
+    "releases/crm-2026-10-25-what-a-role-pays.zh-HK.md",
+    "releases/crm-2026-10-26-mars-for-mac.md",
+    "releases/crm-2026-10-26-mars-for-mac.zh-CN.md",
+    "releases/crm-2026-10-26-mars-for-mac.zh-HK.md"
   ]
 }

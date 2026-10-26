@@ -7,6 +7,16 @@
 
 ## Preview updates
 
+### [Mars for Mac](releases/crm-2026-10-26-mars-for-mac.md)
+
+**Preview** · 2026-10-26 · `0.1.1.8344`
+
+Mars arrives on the Mac as a native app built in Swift, with the three-column desktop workspace and the same account as iPhone and iPad.
+
+![Mars for Mac](assets/crm-mars-for-mac.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [Add to an answer while it streams](releases/crm-2026-10-25-add-to-a-running-answer.md)
 
 **Preview** · 2026-10-25 · `0.1.1.8208`
