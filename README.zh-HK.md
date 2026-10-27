@@ -7,10 +7,11 @@
 
 ## 預覽版更新
 
-![Mars Mac 原生應用](assets/crm-mars-for-mac.zh-TW.webp)
+![從回答直接打開設置](assets/crm-open-settings-from-an-answer.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
+- **2026-10-27** · [從回答直接打開設置](releases/crm-2026-10-27-open-settings-from-an-answer.zh-HK.md) · 預覽 · `0.1.1.8292`
 - **2026-10-26** · [Mars Mac 原生應用](releases/crm-2026-10-26-mars-for-mac.zh-HK.md) · 預覽 · `0.1.1.8385`
 - **2026-10-26** · [一鍵打開社交賬號](releases/crm-2026-10-26-open-social-accounts-in-one-tap.zh-HK.md) · 預覽 · `0.1.1.8385`
 - **2026-10-25** · [回答中隨時補充](releases/crm-2026-10-25-add-to-a-running-answer.zh-HK.md) · 預覽 · `0.1.1.8208`

@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://canary.marsdata.ai",
-  "updates": 65,
+  "updates": 66,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -119,6 +119,12 @@
     "assets/crm-notifications-page.en.webp",
     "assets/crm-notifications-page.webp",
     "assets/crm-notifications-page.zh-TW.webp",
+    "assets/crm-open-settings-from-an-answer.en.webp",
+    "assets/crm-open-settings-from-an-answer.phone.en.webp",
+    "assets/crm-open-settings-from-an-answer.phone.webp",
+    "assets/crm-open-settings-from-an-answer.phone.zh-TW.webp",
+    "assets/crm-open-settings-from-an-answer.webp",
+    "assets/crm-open-settings-from-an-answer.zh-TW.webp",
     "assets/crm-open-social-accounts-in-one-tap.en.webp",
     "assets/crm-open-social-accounts-in-one-tap.phone.en.webp",
     "assets/crm-open-social-accounts-in-one-tap.phone.webp",
@@ -407,6 +413,9 @@
     "releases/crm-2026-10-26-mars-for-mac.zh-HK.md",
     "releases/crm-2026-10-26-open-social-accounts-in-one-tap.md",
     "releases/crm-2026-10-26-open-social-accounts-in-one-tap.zh-CN.md",
-    "releases/crm-2026-10-26-open-social-accounts-in-one-tap.zh-HK.md"
+    "releases/crm-2026-10-26-open-social-accounts-in-one-tap.zh-HK.md",
+    "releases/crm-2026-10-27-open-settings-from-an-answer.md",
+    "releases/crm-2026-10-27-open-settings-from-an-answer.zh-CN.md",
+    "releases/crm-2026-10-27-open-settings-from-an-answer.zh-HK.md"
   ]
 }

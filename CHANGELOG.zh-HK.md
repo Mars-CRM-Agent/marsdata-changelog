@@ -7,6 +7,16 @@
 
 ## 預覽版更新
 
+### [從回答直接打開設置](releases/crm-2026-10-27-open-settings-from-an-answer.zh-HK.md)
+
+**預覽** · 2026-10-27 · `0.1.1.8292`
+
+問 Mars 某個設置在哪、怎麼連接數據，回答裏會帶一個設置膠囊，點按即可打開那一頁。
+
+![從回答直接打開設置](assets/crm-open-settings-from-an-answer.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
 ### [Mars Mac 原生應用](releases/crm-2026-10-26-mars-for-mac.zh-HK.md)
 
 **預覽** · 2026-10-26 · `0.1.1.8385`

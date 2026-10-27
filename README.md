@@ -7,10 +7,11 @@
 
 ## Preview updates
 
-![Mars for Mac](assets/crm-mars-for-mac.en.webp)
+![Open settings from an answer](assets/crm-open-settings-from-an-answer.en.webp)
 
 *Illustration using fictional demo data.*
 
+- **2026-10-27** · [Open settings from an answer](releases/crm-2026-10-27-open-settings-from-an-answer.md) · Preview · `0.1.1.8292`
 - **2026-10-26** · [Mars for Mac](releases/crm-2026-10-26-mars-for-mac.md) · Preview · `0.1.1.8385`
 - **2026-10-26** · [Open social accounts in one tap](releases/crm-2026-10-26-open-social-accounts-in-one-tap.md) · Preview · `0.1.1.8385`
 - **2026-10-25** · [Add to an answer while it streams](releases/crm-2026-10-25-add-to-a-running-answer.md) · Preview · `0.1.1.8208`

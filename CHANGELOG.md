@@ -7,6 +7,16 @@
 
 ## Preview updates
 
+### [Open settings from an answer](releases/crm-2026-10-27-open-settings-from-an-answer.md)
+
+**Preview** · 2026-10-27 · `0.1.1.8292`
+
+Ask Mars where a setting is or how to connect a data source, and the answer carries a capsule that opens that settings page.
+
+![Open settings from an answer](assets/crm-open-settings-from-an-answer.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [Mars for Mac](releases/crm-2026-10-26-mars-for-mac.md)
 
 **Preview** · 2026-10-26 · `0.1.1.8385`
