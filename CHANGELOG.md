@@ -7,6 +7,26 @@
 
 ## Preview updates
 
+### [Mars, inside your Feishu](releases/crm-2026-10-28-mars-in-feishu.md)
+
+**Preview** · 2026-10-28 · `0.1.1.8920`
+
+Scan once to get your own Mars bot in Feishu: send text, images, files or voice and Mars answers, with reminders there too.
+
+![Mars, inside your Feishu](assets/crm-mars-in-feishu.en.webp)
+
+*Illustration using fictional demo data.*
+
+### [Build on what Mars already said](releases/crm-2026-10-28-quote-past-conversations.md)
+
+**Preview** · 2026-10-28 · `0.1.1.8920`
+
+Quote the exact line from this or an earlier chat; Mars answers with it, and one tap takes you back to it.
+
+![Build on what Mars already said](assets/crm-quote-past-conversations.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [Ask once, land on the right setting](releases/crm-2026-10-27-open-settings-from-an-answer.md)
 
 **Preview** · 2026-10-27 · `0.1.1.8292`

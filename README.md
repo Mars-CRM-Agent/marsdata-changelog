@@ -7,10 +7,12 @@
 
 ## Preview updates
 
-![Ask once, land on the right setting](assets/crm-open-settings-from-an-answer.en.webp)
+![Mars, inside your Feishu](assets/crm-mars-in-feishu.en.webp)
 
 *Illustration using fictional demo data.*
 
+- **2026-10-28** · [Mars, inside your Feishu](releases/crm-2026-10-28-mars-in-feishu.md) · Preview · `0.1.1.8920`
+- **2026-10-28** · [Build on what Mars already said](releases/crm-2026-10-28-quote-past-conversations.md) · Preview · `0.1.1.8920`
 - **2026-10-27** · [Ask once, land on the right setting](releases/crm-2026-10-27-open-settings-from-an-answer.md) · Preview · `0.1.1.8292`
 - **2026-10-26** · [Mars on your Mac, room to see it all](releases/crm-2026-10-26-mars-for-mac.md) · Preview · `0.1.1.8385`
 - **2026-10-26** · [From their handle to a chat in one tap](releases/crm-2026-10-26-open-social-accounts-in-one-tap.md) · Preview · `0.1.1.8385`

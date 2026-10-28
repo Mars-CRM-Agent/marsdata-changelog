@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://canary.marsdata.ai",
-  "updates": 66,
+  "updates": 68,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -89,6 +89,12 @@
     "assets/crm-mars-for-mac.phone.zh-TW.webp",
     "assets/crm-mars-for-mac.webp",
     "assets/crm-mars-for-mac.zh-TW.webp",
+    "assets/crm-mars-in-feishu.en.webp",
+    "assets/crm-mars-in-feishu.phone.en.webp",
+    "assets/crm-mars-in-feishu.phone.webp",
+    "assets/crm-mars-in-feishu.phone.zh-TW.webp",
+    "assets/crm-mars-in-feishu.webp",
+    "assets/crm-mars-in-feishu.zh-TW.webp",
     "assets/crm-mars-makes-decks-and-documents.en.webp",
     "assets/crm-mars-makes-decks-and-documents.phone.en.webp",
     "assets/crm-mars-makes-decks-and-documents.phone.webp",
@@ -149,6 +155,12 @@
     "assets/crm-question-panel.en.webp",
     "assets/crm-question-panel.webp",
     "assets/crm-question-panel.zh-TW.webp",
+    "assets/crm-quote-past-conversations.en.webp",
+    "assets/crm-quote-past-conversations.phone.en.webp",
+    "assets/crm-quote-past-conversations.phone.webp",
+    "assets/crm-quote-past-conversations.phone.zh-TW.webp",
+    "assets/crm-quote-past-conversations.webp",
+    "assets/crm-quote-past-conversations.zh-TW.webp",
     "assets/crm-read-pages-without-your-login.en.webp",
     "assets/crm-read-pages-without-your-login.phone.en.webp",
     "assets/crm-read-pages-without-your-login.phone.webp",
@@ -416,6 +428,12 @@
     "releases/crm-2026-10-26-open-social-accounts-in-one-tap.zh-HK.md",
     "releases/crm-2026-10-27-open-settings-from-an-answer.md",
     "releases/crm-2026-10-27-open-settings-from-an-answer.zh-CN.md",
-    "releases/crm-2026-10-27-open-settings-from-an-answer.zh-HK.md"
+    "releases/crm-2026-10-27-open-settings-from-an-answer.zh-HK.md",
+    "releases/crm-2026-10-28-mars-in-feishu.md",
+    "releases/crm-2026-10-28-mars-in-feishu.zh-CN.md",
+    "releases/crm-2026-10-28-mars-in-feishu.zh-HK.md",
+    "releases/crm-2026-10-28-quote-past-conversations.md",
+    "releases/crm-2026-10-28-quote-past-conversations.zh-CN.md",
+    "releases/crm-2026-10-28-quote-past-conversations.zh-HK.md"
   ]
 }

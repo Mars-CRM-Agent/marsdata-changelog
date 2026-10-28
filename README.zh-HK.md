@@ -7,10 +7,12 @@
 
 ## 預覽版更新
 
-![問一句，直達那頁設置](assets/crm-open-settings-from-an-answer.zh-TW.webp)
+![不用切應用，飛書裏就能問 Mars](assets/crm-mars-in-feishu.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
+- **2026-10-28** · [不用切應用，飛書裏就能問 Mars](releases/crm-2026-10-28-mars-in-feishu.zh-HK.md) · 預覽 · `0.1.1.8920`
+- **2026-10-28** · [説過的那句話，直接拿來接着問](releases/crm-2026-10-28-quote-past-conversations.zh-HK.md) · 預覽 · `0.1.1.8920`
 - **2026-10-27** · [問一句，直達那頁設置](releases/crm-2026-10-27-open-settings-from-an-answer.zh-HK.md) · 預覽 · `0.1.1.8292`
 - **2026-10-26** · [Mars 上 Mac，大屏一眼看全](releases/crm-2026-10-26-mars-for-mac.zh-HK.md) · 預覽 · `0.1.1.8385`
 - **2026-10-26** · [問到賬號，一點就聯繫上](releases/crm-2026-10-26-open-social-accounts-in-one-tap.zh-HK.md) · 預覽 · `0.1.1.8385`

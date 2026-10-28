@@ -7,6 +7,26 @@
 
 ## 预览版更新
 
+### [不用切应用，飞书里就能问 Mars](releases/crm-2026-10-28-mars-in-feishu.zh-CN.md)
+
+**预览** · 2026-10-28 · `0.1.1.8920`
+
+扫一次码，飞书里就有你的专属 Mars：发文字、图片、文件、语音都能回，提醒也到飞书。
+
+![不用切应用，飞书里就能问 Mars](assets/crm-mars-in-feishu.webp)
+
+*示意图，使用虚构演示数据。*
+
+### [说过的那句话，直接拿来接着问](releases/crm-2026-10-28-quote-past-conversations.zh-CN.md)
+
+**预览** · 2026-10-28 · `0.1.1.8920`
+
+从这次或以前的对话里引用原句提问，Mars 按原话回答，点一下就回到原处。
+
+![说过的那句话，直接拿来接着问](assets/crm-quote-past-conversations.webp)
+
+*示意图，使用虚构演示数据。*
+
 ### [问一句，直达那页设置](releases/crm-2026-10-27-open-settings-from-an-answer.zh-CN.md)
 
 **预览** · 2026-10-27 · `0.1.1.8292`
