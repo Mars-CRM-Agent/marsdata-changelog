@@ -1,15 +1,15 @@
-# Your language from the start
+# Your language from the first screen
 
 > **Preview** · 2026-10-13 · `0.1.1.5222`
 > These features are available in the preview version and have not been generally released.
 
-Mars starts in your device language, so you can read it from the first screen.
+No hunting for a language menu before you can read anything.
 
-On first launch, Mars follows the language of your device. If that language is not supported, Mars uses English instead.
+On first launch, Mars follows your device's language, and uses English when that language is not supported. No settings to change first: you can read it the moment it opens.
 
-You can start using Mars right away, in a language you know.
+Start using Mars right away, in a language you know.
 
-![Your language from the start — Desktop](../assets/crm-your-language-from-the-start.en.webp)
+![Your language from the first screen — Desktop](../assets/crm-your-language-from-the-start.en.webp)
 
 *Illustration using fictional demo data.*
 

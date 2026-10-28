@@ -1,15 +1,15 @@
-# Privacy lock
+# Lend your device, keep Mars locked
 
 > **Preview** · 2026-10-15 · `0.1.1.5585`
 > These features are available in the preview version and have not been generally released.
 
-Keep Mars private, even on a shared or unlocked device.
+Handing someone your phone shouldn't hand them your conversations.
 
-Set a 6-digit PIN in Settings. Mars then asks for it, or for Face ID or Touch ID on iOS, or a passkey in the browser, before it opens.
+Set a 6-digit PIN in Settings, and Mars asks for it before it opens, or for Face ID or Touch ID on iOS, or a passkey in the browser. Even on a shared or unlocked device, what is in Mars opens only for you.
 
-Your conversations and memory stay yours when someone else picks up your device.
+Your conversations and memory stay yours, whoever picks up your device.
 
-![Privacy lock — Desktop](../assets/crm-privacy-lock.en.webp)
+![Lend your device, keep Mars locked — Desktop](../assets/crm-privacy-lock.en.webp)
 
 *Illustration using fictional demo data.*
 

@@ -1,15 +1,15 @@
-# Reminders that start a conversation
+# On time, Mars gets started on its own
 
 > **Preview** · 2026-10-17 · `0.1.1.5950`
 > These features are available in the preview version and have not been generally released.
 
-Let a reminder start a Mars conversation from your prompt at the set time.
+Daily reviews and regular check-ins shouldn't depend on you remembering them.
 
-When a reminder reaches its time, Mars opens a conversation with the prompt you wrote. You can also add a Daily review skill from the reminder editor.
+When a reminder reaches its time, Mars opens a conversation with the prompt you wrote. You can also add a Daily review skill straight from the reminder editor. Write the prompt once, and you never have to kick it off by hand again.
 
-Recurring check-ins start on their own, so you do not have to open Mars first.
+Recurring check-ins start on their own, without you opening Mars first.
 
-![Reminders that start a conversation — Desktop](../assets/crm-reminders-that-start-a-conversation.en.webp)
+![On time, Mars gets started on its own — Desktop](../assets/crm-reminders-that-start-a-conversation.en.webp)
 
 *Illustration using fictional demo data.*
 

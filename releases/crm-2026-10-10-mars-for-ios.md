@@ -1,15 +1,15 @@
-# Mars for iOS
+# Mars in your pocket, on iPhone and iPad
 
 > **Preview** · 2026-10-10 · `0.1.1.4799`
 > These features are available in the preview version and have not been generally released.
 
-Use Mars on iPhone and iPad, with a sidebar drawer, swipe actions and an iPad desktop workspace.
+Ideas and people don't wait until you're back at your desk.
 
-The sidebar opens as a drawer, and swipe actions work on rows. On iPad, the desktop workspace shows more at once. The composer can generate images and start deep research.
+Use Mars on iPhone and iPad: the sidebar opens as a drawer and rows take swipe actions, while on iPad the desktop workspace shows more at once. The composer can generate images and start deep research. Built for touch, so it feels right in your hand.
 
-The same Mars work fits your iPhone and iPad.
+The same Mars work, wherever you take your iPhone or iPad.
 
-![Mars for iOS — iPhone](../assets/crm-mars-for-ios.webp)
+![Mars in your pocket, on iPhone and iPad — iPhone](../assets/crm-mars-for-ios.webp)
 
 *Illustration using fictional demo data. Screenshot interface: Simplified Chinese.*
 

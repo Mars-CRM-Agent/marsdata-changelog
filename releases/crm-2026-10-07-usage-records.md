@@ -1,15 +1,15 @@
-# Usage records
+# Peak hours and refunds on one page
 
 > **Preview** · 2026-10-07 · `0.1.1.4285`
 > These features are available in the preview version and have not been generally released.
 
-See when you use Mars most, and filter the records by call type.
+Where do your credits go, and when? Now you can see.
 
-Usage records now show day, week and month views, your busiest and quietest hours, and refunds. Sort and filter the list by call type.
+Usage records now show day, week and month views, your busiest and quietest hours, and refunds, and you can sort and filter by call type. No combing through raw entries to reconcile.
 
-You can spot your heaviest hours and check refunds in one place.
+Spot your heaviest hours and check refunds in one place.
 
-![Usage records — Desktop](../assets/crm-usage-records.en.webp)
+![Peak hours and refunds on one page — Desktop](../assets/crm-usage-records.en.webp)
 
 *Illustration using fictional demo data.*
 

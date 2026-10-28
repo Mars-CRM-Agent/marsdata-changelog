@@ -1,15 +1,15 @@
-# Clearer information groups
+# Find what you know about anyone, fast
 
 > **Preview** · 2026-10-17 · `0.1.1.5950`
 > These features are available in the preview version and have not been generally released.
 
-Find what you know about a person faster.
+When everything lands in Other, the detail you need is always buried.
 
-The crowded Work and Other groups are split into Business & Team, Tech & Tools, and Mindset & Preferences. A custom field goes into the group its name describes and takes that group's colour, on the web and on iOS.
+The crowded Work and Other groups are split into Business & Team, Tech & Tools, and Mindset & Preferences. A custom field goes into the group its name describes and takes that group's colour, on the web and on iOS. Every group is shorter, so there is no long list to wade through.
 
-Each group stays short enough to scan at a glance.
+Each group is short enough to scan at a glance, so you find the detail fast.
 
-![Clearer information groups — Desktop](../assets/crm-clearer-information-groups.en.webp)
+![Find what you know about anyone, fast — Desktop](../assets/crm-clearer-information-groups.en.webp)
 
 *Illustration using fictional demo data.*
 

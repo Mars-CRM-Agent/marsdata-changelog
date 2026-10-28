@@ -1,15 +1,15 @@
-# Live iPhone data
+# Answers that use your iPhone, live
 
 > **Preview** · 2026-10-13 · `0.1.1.5222`
 > These features are available in the preview version and have not been generally released.
 
-On iOS, Mars reads your contacts, calendar, and Apple Health and Fitness live.
+Your calendar, contacts and health data are on your phone. Your answers should know them.
 
-You allow each source separately, and Mars reads only the sources you allow, live in the iOS app.
+On iOS, Mars can read your contacts, calendar, and Apple Health and Fitness data live. You allow each source separately, and Mars reads only the ones you allow, in the iOS app. No exporting or copying, and you decide how much it sees.
 
-Answers can use the information on your phone, with control over each source.
+Answers use what is on your phone, with you in control of each source.
 
-![Live iPhone data — iPhone](../assets/crm-live-iphone-data.webp)
+![Answers that use your iPhone, live — iPhone](../assets/crm-live-iphone-data.webp)
 
 *Illustration using fictional demo data. Screenshot interface: Simplified Chinese.*
 

@@ -1,15 +1,15 @@
-# Plan trips on a map
+# See every day of your trip on one map
 
 > **Preview** · 2026-10-21 · `0.1.1.6886`
 > These features are available in the preview version and have not been generally released.
 
-Tell Mars where you want to go and how many days you have.
+A list of places can't show you which ones are close together. A map can.
 
-Ask for a trip such as “Plan a half-day walk around Marina Bay in Singapore.” Mars shows the itinerary as an interactive map in your conversation, on the web and on iOS. Switch between days to see each day's stops and route. Tap a place on the map or in the list to locate it, with photos, ratings and addresses where available. Open the route in a maps app when you are ready to go.
+Tell Mars where you want to go and for how long, such as “Plan a half-day walk around Marina Bay in Singapore.” Mars shows the itinerary as an interactive map in your conversation, on the web and on iOS. Switch between days to see each day's stops and route; tap a place on the map or in the list to locate it, with photos, ratings and addresses where available. No more checking a list against a separate map. When you are ready, open the route in a maps app.
 
 See where each stop is and how the day fits together, before you set off.
 
-![Plan trips on a map — Desktop](../assets/crm-plan-trips-on-a-map.en.webp)
+![See every day of your trip on one map — Desktop](../assets/crm-plan-trips-on-a-map.en.webp)
 
 *Illustration using fictional demo data.*
 

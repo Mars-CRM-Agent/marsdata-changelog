@@ -1,15 +1,15 @@
-# Graceful credit limits
+# Out of credits? Keep finished work
 
 > **Preview** · 2026-10-13 · `0.1.1.5222`
 > These features are available in the preview version and have not been generally released.
 
-When credits run out, Mars still delivers the turn it has already finished.
+Running out of credits shouldn't throw away work already done.
 
-Mars completes the work it had already done in the current turn and delivers those results. New messages are paused after that.
+When credits run out, Mars completes the work it had already done in the current turn and delivers those results; only after that are new messages paused. The turn you already started is never wasted.
 
-You keep the results of a turn that was already running when credits ran out.
+You keep the results of the turn that was running when credits ran out.
 
-![Graceful credit limits — Desktop](../assets/crm-graceful-credit-limits.en.webp)
+![Out of credits? Keep finished work — Desktop](../assets/crm-graceful-credit-limits.en.webp)
 
 *Illustration using fictional demo data.*
 

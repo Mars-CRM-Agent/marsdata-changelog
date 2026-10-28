@@ -1,15 +1,15 @@
-# Continuous PDF reading
+# Read a PDF like a long page
 
 > **Preview** · 2026-09-12 · `0.1.1.3383`
 > These features are available in the preview version and have not been generally released.
 
-Read a PDF in your Library the way you read a long page: just keep scrolling.
+Page-by-page PDF reading is slow, and finding one page is slower.
 
-Pages follow one another instead of turning one at a time, and a row of page thumbnails lets you jump straight to the page you want. PDF and Office files also show their first page as a thumbnail in the Library.
+In the Library, PDF pages follow one another instead of turning one at a time, and a row of page thumbnails jumps you straight to the page you want. PDF and Office files also show their first page as a thumbnail, so you can spot a file without opening each one.
 
 Find the right page, and the right file, at a glance.
 
-![Continuous PDF reading — Desktop](../assets/crm-continuous-pdf-reading.en.webp)
+![Read a PDF like a long page — Desktop](../assets/crm-continuous-pdf-reading.en.webp)
 
 *Illustration using fictional demo data.*
 

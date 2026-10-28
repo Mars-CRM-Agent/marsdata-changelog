@@ -1,15 +1,15 @@
-# 修訂 Office 文件
+# 改過的文件，每一版都留得住
 
 > **預覽** · 2026-10-10 · `0.1.1.4799`
 > 以下功能目前處於預覽階段，尚未正式上線。
 
-修改後的 Word、Excel 和 PowerPoint 文件，會以新文檔保存到資料庫。
+讓人改文件，最怕改完找不回原版。
 
-修訂 Office 文件後，Mars 會將其保存為資料庫中的新文檔。Word 修訂以修訂痕跡顯示，你可以接受或拒絕。
+讓 Mars 修改 Word、Excel 或 PowerPoint 文件，修訂版會作為新文檔保存到資料庫；Word 修訂以修訂痕跡顯示，你可以逐條接受或拒絕。原版不被覆蓋，改了哪裏一清二楚。
 
-每個版本都會保留，接受 Word 修改前也可先行審閲。
+每個版本都保留，Word 修改先審後收。
 
-![修訂 Office 文件 — 電腦端](../assets/crm-revised-office-files.zh-TW.webp)
+![改過的文件，每一版都留得住 — 電腦端](../assets/crm-revised-office-files.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 

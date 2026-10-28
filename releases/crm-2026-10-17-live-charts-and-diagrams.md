@@ -1,15 +1,15 @@
-# Live charts and diagrams
+# Charts that draw as the answer arrives
 
 > **Preview** · 2026-10-17 · `0.1.1.5950`
 > These features are available in the preview version and have not been generally released.
 
-Watch charts and diagrams draw as the answer streams in.
+A wall of numbers rarely shows you the trend.
 
-Charts and diagrams draw while the answer streams, with insights and follow-up questions alongside. Open any chart at full size to read it closely.
+Charts and diagrams draw while the answer streams, with insights and follow-up questions alongside. Open any chart at full size to read it closely. No waiting for the full answer to see the point: the picture forms as the numbers do.
 
-Visual answers take shape as they form, and you can inspect them at full size.
+Visual answers take shape as they form, and open full size when you want detail.
 
-![Live charts and diagrams — Desktop](../assets/crm-live-charts-and-diagrams.en.webp)
+![Charts that draw as the answer arrives — Desktop](../assets/crm-live-charts-and-diagrams.en.webp)
 
 *Illustration using fictional demo data.*
 

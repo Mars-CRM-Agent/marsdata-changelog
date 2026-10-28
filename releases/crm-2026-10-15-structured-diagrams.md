@@ -1,15 +1,15 @@
-# Structured diagrams
+# Complex ideas, clear at a glance
 
 > **Preview** · 2026-10-15 · `0.1.1.5585`
 > These features are available in the preview version and have not been generally released.
 
-Turn answers into flowcharts, mind maps, sequence and timeline diagrams.
+Processes and timelines are hard to follow in paragraphs.
 
-Mars now draws structured diagrams: flowcharts, mind maps, sequence diagrams and timelines. On mobile web, download any diagram as a PNG.
+Mars now draws structured diagrams in its answers: flowcharts, mind maps, sequence diagrams and timelines. On mobile web, download any diagram as a PNG. No separate drawing tool: complex content becomes one clear picture.
 
-Complex ideas become a diagram you can read at a glance.
+Complex ideas become a diagram you read at a glance and can share with ease.
 
-![Structured diagrams — Desktop](../assets/crm-structured-diagrams.en.webp)
+![Complex ideas, clear at a glance — Desktop](../assets/crm-structured-diagrams.en.webp)
 
 *Illustration using fictional demo data.*
 

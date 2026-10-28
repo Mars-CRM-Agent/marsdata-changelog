@@ -1,19 +1,19 @@
-# Mars for Mac
+# Mars on your Mac, room to see it all
 
 > **Preview** · 2026-10-26 · `0.1.1.8385`
 > These features are available in the preview version and have not been generally released.
 
-Mars now has a Mac app, built natively in Swift.
+Too many people and threads for a phone screen? Spread them out on your Mac.
 
-The Mars Mac app comes from the same native Swift code as the iPhone and iPad apps and runs in its own window on the Mac. It opens in the desktop workspace: navigation and recent conversations on the left, lists such as relationships or files in the middle, and the conversation on the right. Sign in with the same account and your conversations, people, files and memory match the web, iPhone and iPad. On the Mac, Contact us opens the support conversation in a dialog inside the app. The Mac app installs through TestFlight. Widgets, sharing to Mars from other apps and Apple Health are available on iPhone and iPad only.
+The Mars Mac app comes from the same native code as the iPhone and iPad apps and runs in its own window. It opens in the three-column desktop workspace: navigation and recent conversations on the left, lists such as relationships or files in the middle, the conversation on the right. Lists and conversation sit side by side, so there is no flipping between pages. Sign in with the same account and your conversations, people, files and memory match the web, iPhone and iPad; Contact us opens the support conversation right inside the app. The Mac app installs through TestFlight. Widgets, sharing to Mars from other apps and Apple Health are available on iPhone and iPad only.
 
-Work through relationships and conversations on a large screen, then carry on from your iPhone.
+Sort out people and conversations on a big screen, then pick up on your iPhone without missing a beat.
 
-![Mars for Mac — Desktop](../assets/crm-mars-for-mac.en.webp)
+![Mars on your Mac, room to see it all — Desktop](../assets/crm-mars-for-mac.en.webp)
 
 *Illustration using fictional demo data.*
 
-![Mars for Mac — iPhone](../assets/crm-mars-for-mac.phone.en.webp)
+![Mars on your Mac, room to see it all — iPhone](../assets/crm-mars-for-mac.phone.en.webp)
 
 *Illustration using fictional demo data.*
 

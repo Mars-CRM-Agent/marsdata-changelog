@@ -7,647 +7,647 @@
 
 ## 預覽版更新
 
-### [從回答直接打開設置](releases/crm-2026-10-27-open-settings-from-an-answer.zh-HK.md)
+### [問一句，直達那頁設置](releases/crm-2026-10-27-open-settings-from-an-answer.zh-HK.md)
 
 **預覽** · 2026-10-27 · `0.1.1.8292`
 
-問 Mars 某個設置在哪、怎麼連接數據，回答裏會帶一個設置膠囊，點按即可打開那一頁。
+問 Mars 設置在哪、怎麼連數據，回答裏的設置膠囊一點直達，不用再翻菜單。
 
-![從回答直接打開設置](assets/crm-open-settings-from-an-answer.zh-TW.webp)
+![問一句，直達那頁設置](assets/crm-open-settings-from-an-answer.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [Mars Mac 原生應用](releases/crm-2026-10-26-mars-for-mac.zh-HK.md)
+### [Mars 上 Mac，大屏一眼看全](releases/crm-2026-10-26-mars-for-mac.zh-HK.md)
 
 **預覽** · 2026-10-26 · `0.1.1.8385`
 
-Mars 推出以原生 Swift 構建的 Mac 應用：桌面三欄工作區，與 iPhone、iPad 使用同一賬號。
+Mars 推出 Mac 原生應用：三欄桌面工作區大屏一眼看全，與 iPhone、iPad 同一賬號接着用。
 
-![Mars Mac 原生應用](assets/crm-mars-for-mac.zh-TW.webp)
+![Mars 上 Mac，大屏一眼看全](assets/crm-mars-for-mac.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [一鍵打開社交賬號](releases/crm-2026-10-26-open-social-accounts-in-one-tap.zh-HK.md)
+### [問到賬號，一點就聯繫上](releases/crm-2026-10-26-open-social-accounts-in-one-tap.zh-HK.md)
 
 **預覽** · 2026-10-26 · `0.1.1.8385`
 
-向 Mars 詢問某人的微信號或其他賬號，每個賬號都顯示為膠囊，點按即複製並打開對應應用。
+問到某人的微信號或其他賬號，點一下膠囊即複製並打開對應應用，馬上就能聯繫。
 
-![一鍵打開社交賬號](assets/crm-open-social-accounts-in-one-tap.zh-TW.webp)
+![問到賬號，一點就聯繫上](assets/crm-open-social-accounts-in-one-tap.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [回答中隨時補充](releases/crm-2026-10-25-add-to-a-running-answer.zh-HK.md)
+### [回答沒寫完，想法隨時補](releases/crm-2026-10-25-add-to-a-running-answer.zh-HK.md)
 
 **預覽** · 2026-10-25 · `0.1.1.8208`
 
-Mars 回答時也能繼續輸入：中途補充細節或調整方向，Mars 會在你的消息下方接着回答。
+Mars 回答時也能繼續輸入：中途補充或改方向，它在你的消息下方接着答，不用等也不用重問。
 
-![回答中隨時補充](assets/crm-add-to-a-running-answer.zh-TW.webp)
+![回答沒寫完，想法隨時補](assets/crm-add-to-a-running-answer.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [從最新招聘查職位薪資](releases/crm-2026-10-25-what-a-role-pays.zh-HK.md)
+### [職位值多少錢，看真實招聘](releases/crm-2026-10-25-what-a-role-pays.zh-HK.md)
 
 **預覽** · 2026-10-25 · `0.1.1.8208`
 
-問 Mars 某個職位薪資多少：它會搜索領英和 Google Jobs 上該職位和地點的最新招聘，彙總公開標註的薪資。
+問某個職位在某地的薪資，Mars 彙總領英和 Google Jobs 當前招聘的公開薪資，每個數字都有出處。
 
-![從最新招聘查職位薪資](assets/crm-what-a-role-pays.zh-TW.webp)
+![職位值多少錢，看真實招聘](assets/crm-what-a-role-pays.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [iPhone 和 Mac 桌面小組件](releases/crm-2026-10-24-mars-widgets-on-iphone.zh-HK.md)
+### [不開應用，一點就叫出 Mars](releases/crm-2026-10-24-mars-widgets-on-iphone.zh-HK.md)
 
 **預覽** · 2026-10-24 · `0.1.1.7959`
 
-Mars 小組件登陸 iPhone 主屏幕、鎖屏和 Mac 桌面：一鍵開始對話、語音或拍照，用量和剩餘額度一眼可見。
+Mars 小組件登陸 iPhone 主屏幕、鎖屏和 Mac 桌面：不開應用，一點就能拍照、語音或研究，額度隨時可見。
 
-![iPhone 和 Mac 桌面小組件](assets/crm-mars-widgets-on-iphone.zh-TW.webp)
+![不開應用，一點就叫出 Mars](assets/crm-mars-widgets-on-iphone.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [Mars 製作演示文稿和文檔](releases/crm-2026-10-24-mars-makes-decks-and-documents.zh-HK.md)
+### [一句話，做出能直接上台的演示文稿](releases/crm-2026-10-24-mars-makes-decks-and-documents.zh-HK.md)
 
 **預覽** · 2026-10-24 · `0.1.1.7959`
 
-Mars 一句話做出可編輯的 PowerPoint 演示文稿，配圖風格統一；也能寫帶插圖的 Word 文檔。
+一句話，Mars 做出可編輯的 PowerPoint 演示文稿，配圖風格統一；也能寫帶插圖的 Word 文檔，省下找圖排版的時間。
 
-![Mars 製作演示文稿和文檔](assets/crm-mars-makes-decks-and-documents.zh-TW.webp)
+![一句話，做出能直接上台的演示文稿](assets/crm-mars-makes-decks-and-documents.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [不登錄讀取網頁](releases/crm-2026-10-23-read-pages-without-your-login.zh-HK.md)
+### [賬號不交出去，網頁照樣讀](releases/crm-2026-10-23-read-pages-without-your-login.zh-HK.md)
 
 **預覽** · 2026-10-23 · `0.1.1.7618`
 
-Mars 不登錄、一次請求讀完網頁；需要登錄的內容，它會請你直接打開原文鏈接。
+Mars 不用你的賬號也能讀公開網頁；需要登錄的內容，請你打開原文鏈接，賬號始終在你手裏。
 
-![不登錄讀取網頁](assets/crm-read-pages-without-your-login.zh-TW.webp)
+![賬號不交出去，網頁照樣讀](assets/crm-read-pages-without-your-login.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [按價值排序](releases/crm-2026-10-23-sort-by-value.zh-HK.md)
+### [值得投入的事和人，排在前面](releases/crm-2026-10-23-sort-by-value.zh-HK.md)
 
 **預覽** · 2026-10-23 · `0.1.1.7618`
 
-按價值排序：事件和關係按對你的價值排列，網頁與 iOS 同步上線。
+按價值排序：簽約、融資和引薦排在瑣事前面，值得投入的事和人先看見，網頁與 iOS 都支持。
 
-![按價值排序](assets/crm-sort-by-value.zh-TW.webp)
+![值得投入的事和人，排在前面](assets/crm-sort-by-value.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [Mars 看懂社交媒體視頻](releases/crm-2026-10-22-mars-watches-social-videos.zh-HK.md)
+### [見面之前，先看懂對方的視頻](releases/crm-2026-10-22-mars-watches-social-videos.zh-HK.md)
 
 **預覽** · 2026-10-22 · `0.1.1.7433`
 
-Mars 現在能看懂抖音、小紅書、B站、快手和微博的視頻：在對話中搜索一個人，它會去看對方的視頻，告訴你本人在鏡頭前説了什麼。
+Mars 能看懂抖音、小紅書、B站、快手和微博的視頻：問起一個人，它替你看完視頻，引用本人在鏡頭前的原話。
 
-![Mars 看懂社交媒體視頻](assets/crm-mars-watches-social-videos.zh-TW.webp)
+![見面之前，先看懂對方的視頻](assets/crm-mars-watches-social-videos.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [帶密碼的分享鏈接](releases/crm-2026-10-22-share-links-with-a-password.zh-HK.md)
+### [分享對話，只給你想給的人看](releases/crm-2026-10-22-share-links-with-a-password.zh-HK.md)
 
 **預覽** · 2026-10-22 · `0.1.1.7433`
 
-給分享的對話加上 6 位訪問密碼，網頁和 iOS 都能設置。
+給分享的對話加上 6 位訪問密碼，鏈接被轉發也打不開，網頁和 iOS 都能設置。
 
-![帶密碼的分享鏈接](assets/crm-share-links-with-a-password.zh-TW.webp)
+![分享對話，只給你想給的人看](assets/crm-share-links-with-a-password.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [在地圖上規劃行程](releases/crm-2026-10-21-plan-trips-on-a-map.zh-HK.md)
+### [行程畫在地圖上，每天怎麼走一目瞭然](releases/crm-2026-10-21-plan-trips-on-a-map.zh-HK.md)
 
 **預覽** · 2026-10-21 · `0.1.1.6886`
 
-在對話中規劃旅行，在交互地圖上查看每天的地點與路線。
+在對話中規劃旅行，每天的地點與路線畫在交互地圖上，哪裏挨着哪裏一目瞭然。
 
-![在地圖上規劃行程](assets/crm-plan-trips-on-a-map.zh-TW.webp)
+![行程畫在地圖上，每天怎麼走一目瞭然](assets/crm-plan-trips-on-a-map.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [更快、自適應的圖表](releases/crm-2026-10-20-faster-adaptive-diagrams.zh-HK.md)
+### [圖表下載少約 86%，幾毫秒畫好](releases/crm-2026-10-20-faster-adaptive-diagrams.zh-HK.md)
 
 **預覽** · 2026-10-20 · `0.1.1.6573`
 
-回答中的圖表下載量減少約 86%，幾毫秒內繪製完成，並自動適應對話寬度。
+回答中的圖表下載量減少約 86%，幾毫秒內畫好，窄屏自動改為上下排列，在哪都看得清。
 
-![更快、自適應的圖表](assets/crm-faster-adaptive-diagrams.zh-TW.webp)
+![圖表下載少約 86%，幾毫秒畫好](assets/crm-faster-adaptive-diagrams.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [引用鏈接顯示真實標題](releases/crm-2026-10-19-cited-link-titles.zh-HK.md)
+### [點開之前，就知道來源是什麼](releases/crm-2026-10-19-cited-link-titles.zh-HK.md)
 
 **預覽** · 2026-10-19 · `0.1.1.6479`
 
-Mars 引用的每個鏈接都顯示其頁面的真實標題。
+Mars 引用的每個鏈接都顯示真實標題，點開之前就知道來源值不值得看。
 
-![引用鏈接顯示真實標題](assets/crm-cited-link-titles.zh-TW.webp)
+![點開之前，就知道來源是什麼](assets/crm-cited-link-titles.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [長錄音與大文件](releases/crm-2026-10-19-long-recordings.zh-HK.md)
+### [2 GB 長錄音，每句話都能定位](releases/crm-2026-10-19-long-recordings.zh-HK.md)
 
 **預覽** · 2026-10-19 · `0.1.1.6479`
 
-可發送最大 2 GB 的音視頻，超過 20 分鐘的錄音也能獲得完整時間點。
+音視頻上限提高到 2 GB，超過 20 分鐘的錄音也能問到每一句、定位到幾分幾秒。
 
-![長錄音與大文件](assets/crm-long-recordings.zh-TW.webp)
+![2 GB 長錄音，每句話都能定位](assets/crm-long-recordings.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [圖片網格與圖庫](releases/crm-2026-10-18-picture-grids-and-gallery.zh-HK.md)
+### [一組圖片，一條整潔消息](releases/crm-2026-10-18-picture-grids-and-gallery.zh-HK.md)
 
 **預覽** · 2026-10-18 · `0.1.1.6118`
 
-一起發送的多張圖片以網格顯示，並可在圖庫中瀏覽。
+一起發送的多張圖片合成一個整潔網格，點任意圖塊就能在圖庫裏翻看，對話不再被刷屏。
 
-![圖片網格與圖庫](assets/crm-picture-grids-and-gallery.zh-TW.webp)
-
-*示意圖，使用虛構演示資料。*
-
-### [用 Apple 登錄](releases/crm-2026-10-17-sign-in-with-apple.zh-HK.md)
-
-**預覽** · 2026-10-17 · `0.1.1.5950`
-
-iOS 支持通過 Apple 登錄。
-
-![用 Apple 登錄](assets/crm-sign-in-with-apple.webp)
+![一組圖片，一條整潔消息](assets/crm-picture-grids-and-gallery.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [Apple 健康同步](releases/crm-2026-10-17-apple-health-sync.zh-HK.md)
+### [用 Apple ID，一點就登錄](releases/crm-2026-10-17-sign-in-with-apple.zh-HK.md)
 
 **預覽** · 2026-10-17 · `0.1.1.5950`
 
-iOS 可將 Apple 健康每日彙總同步到 Mars，網頁和其他設備也能查看。
+iOS 支持用 Apple 登錄：用已有的 Apple ID 一點進入，不用另設密碼。
 
-![Apple 健康同步](assets/crm-apple-health-sync.webp)
+![用 Apple ID，一點就登錄](assets/crm-sign-in-with-apple.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [更完整的健康問答](releases/crm-2026-10-17-richer-health-answers.zh-HK.md)
+### [健康數據在手機，到哪兒都能問](releases/crm-2026-10-17-apple-health-sync.zh-HK.md)
 
 **預覽** · 2026-10-17 · `0.1.1.5950`
 
-健康問答新增睡眠階段、飲水、飲食熱量、蛋白質與碳水；體脂秤讀數連同體脂、肌肉、水分一起保存。
+iOS 把 Apple 健康每日彙總同步到 Mars，在網頁和其他設備上也能問健康問題。
 
-![更完整的健康問答](assets/crm-richer-health-answers.zh-TW.webp)
+![健康數據在手機，到哪兒都能問](assets/crm-apple-health-sync.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [提問面板](releases/crm-2026-10-17-question-panel.zh-HK.md)
+### [睡眠、飲水、營養，健康回答更完整](releases/crm-2026-10-17-richer-health-answers.zh-HK.md)
 
 **預覽** · 2026-10-17 · `0.1.1.5950`
 
-提問面板：Mars 需要你決定時，用編號選項或自填內容回答最多五個問題。
+健康問答新增睡眠階段、飲水、熱量、蛋白質與碳水，體脂秤讀數完整保存，回答參考的數據更全面。
 
-![提問面板](assets/crm-question-panel.zh-TW.webp)
+![睡眠、飲水、營養，健康回答更完整](assets/crm-richer-health-answers.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [聊天內查找與新回答菜單](releases/crm-2026-10-17-find-in-chat-and-a-new-answer-menu.zh-HK.md)
+### [拿不準時，Mars 先問你](releases/crm-2026-10-17-question-panel.zh-HK.md)
 
 **預覽** · 2026-10-17 · `0.1.1.5950`
 
-新增聊天內查找；回答菜單支持分支對話、朗讀（暫停、跳 15 秒、調速）、模型、重試與聯網搜索。
+需要你做決定時，Mars 在提問面板裏一次問清最多五個問題，嚴格按你的選擇繼續，長任務少走彎路。
 
-![聊天內查找與新回答菜單](assets/crm-find-in-chat-and-a-new-answer-menu.zh-TW.webp)
+![拿不準時，Mars 先問你](assets/crm-question-panel.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [到點開啓對話的提醒](releases/crm-2026-10-17-reminders-that-start-a-conversation.zh-HK.md)
+### [長對話一搜就到，回答操作一處搞定](releases/crm-2026-10-17-find-in-chat-and-a-new-answer-menu.zh-HK.md)
 
 **預覽** · 2026-10-17 · `0.1.1.5950`
 
-提醒可在到點時按你的提示詞開啓 Mars 對話；可在提醒編輯器中創建「每日復盤」技能。
+長對話裏一搜就到；回答菜單集中了分支對話、朗讀、切換模型、重試與聯網搜索，操作一處搞定。
 
-![到點開啓對話的提醒](assets/crm-reminders-that-start-a-conversation.zh-TW.webp)
+![長對話一搜就到，回答操作一處搞定](assets/crm-find-in-chat-and-a-new-answer-menu.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [實時繪製的圖表](releases/crm-2026-10-17-live-charts-and-diagrams.zh-HK.md)
+### [到點了，Mars 自己開工](releases/crm-2026-10-17-reminders-that-start-a-conversation.zh-HK.md)
 
 **預覽** · 2026-10-17 · `0.1.1.5950`
 
-圖表與流程圖隨回答流式繪製，附帶洞察與追問，可全屏查看。
+提醒到點，Mars 按你寫好的提示詞自動開啓對話，每日復盤、定期檢查不用再手動發起。
 
-![實時繪製的圖表](assets/crm-live-charts-and-diagrams.zh-TW.webp)
+![到點了，Mars 自己開工](assets/crm-reminders-that-start-a-conversation.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [iWork 與 WPS 預覽](releases/crm-2026-10-17-iwork-and-wps-previews.zh-HK.md)
+### [回答還在寫，圖表已經畫出來](releases/crm-2026-10-17-live-charts-and-diagrams.zh-HK.md)
 
 **預覽** · 2026-10-17 · `0.1.1.5950`
 
-Keynote、Pages、Numbers、WPS 文件顯示首頁預覽；Mars 通過轉換為 Office 格式來編輯 iWork 文件。
+圖表與流程圖隨回答實時畫出，附帶洞察與追問，可全屏細看，趨勢一眼看懂。
 
-![iWork 與 WPS 預覽](assets/crm-iwork-and-wps-previews.zh-TW.webp)
+![回答還在寫，圖表已經畫出來](assets/crm-live-charts-and-diagrams.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [對話狀態一目瞭然](releases/crm-2026-10-17-conversation-status-at-a-glance.zh-HK.md)
+### [iWork、WPS 文件，對話裏直接看](releases/crm-2026-10-17-iwork-and-wps-previews.zh-HK.md)
 
 **預覽** · 2026-10-17 · `0.1.1.5950`
 
-最近對話顯示運行中進度環、未讀圓點和完成提示。
+Keynote、Pages、Numbers 和 WPS 文件在對話裏直接顯示首頁，不用另裝軟件就能確認內容。
 
-![對話狀態一目瞭然](assets/crm-conversation-status-at-a-glance.zh-TW.webp)
+![iWork、WPS 文件，對話裏直接看](assets/crm-iwork-and-wps-previews.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [微信日程提醒](releases/crm-2026-10-17-wechat-event-reminders.zh-HK.md)
+### [哪段對話在等你，一眼看出](releases/crm-2026-10-17-conversation-status-at-a-glance.zh-HK.md)
 
 **預覽** · 2026-10-17 · `0.1.1.5950`
 
-日程提醒可發送到微信，網頁和 iOS 都有微信提醒開關。
+近期對話顯示進度環、未讀圓點和完成提示，哪段對話在等你，不用點開就知道。
 
-### [關係列表顯示最新動態](releases/crm-2026-10-17-relationship-activity-lines.zh-HK.md)
-
-**預覽** · 2026-10-17 · `0.1.1.5950`
-
-關係列表的每一行顯示最新動態和最近一次互動的時間。
-
-![關係列表顯示最新動態](assets/crm-relationship-activity-lines.zh-TW.webp)
+![哪段對話在等你，一眼看出](assets/crm-conversation-status-at-a-glance.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [更清晰的信息分組](releases/crm-2026-10-17-clearer-information-groups.zh-HK.md)
+### [日程提醒，直接發到微信](releases/crm-2026-10-17-wechat-event-reminders.zh-HK.md)
 
 **預覽** · 2026-10-17 · `0.1.1.5950`
 
-記錄的信息分到更清晰的分組，例如事業與團隊、技術與工具、觀念與偏好。
+日程提醒直接發到你綁定的微信，在每天都打開的地方收到提醒，重要日程不再錯過。
 
-![更清晰的信息分組](assets/crm-clearer-information-groups.zh-TW.webp)
-
-*示意圖，使用虛構演示資料。*
-
-### [編輯 Keynote、Pages 和 Numbers 文件](releases/crm-2026-10-17-convert-iwork-files.zh-HK.md)
+### [打開列表，就知道今天該聯繫誰](releases/crm-2026-10-17-relationship-activity-lines.zh-HK.md)
 
 **預覽** · 2026-10-17 · `0.1.1.5950`
 
-Mars 可在對話中把 Keynote、Pages 或 Numbers 文件轉換為 PowerPoint、Word 或 Excel，並編輯轉換後的副本。
+關係列表每一行顯示近期動態和最近一次互動的時間，打開列表就知道今天該聯繫誰。
 
-![編輯 Keynote、Pages 和 Numbers 文件](assets/crm-convert-iwork-files.zh-TW.webp)
+![打開列表，就知道今天該聯繫誰](assets/crm-relationship-activity-lines.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [隱私鎖](releases/crm-2026-10-15-privacy-lock.zh-HK.md)
+### [一個人的信息，分組清楚好找](releases/crm-2026-10-17-clearer-information-groups.zh-HK.md)
+
+**預覽** · 2026-10-17 · `0.1.1.5950`
+
+一個人的信息拆成「事業與團隊」「技術與工具」「觀念與偏好」，每組更短，想找的一眼就到。
+
+![一個人的信息，分組清楚好找](assets/crm-clearer-information-groups.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [Keynote、Pages、Numbers 也能改](releases/crm-2026-10-17-convert-iwork-files.zh-HK.md)
+
+**預覽** · 2026-10-17 · `0.1.1.5950`
+
+讓 Mars 修改 Keynote、Pages 或 Numbers 文件，它轉換成 Office 副本再改，原件保持不變。
+
+![Keynote、Pages、Numbers 也能改](assets/crm-convert-iwork-files.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [設備借出去，Mars 照樣上鎖](releases/crm-2026-10-15-privacy-lock.zh-HK.md)
 
 **預覽** · 2026-10-15 · `0.1.1.5585`
 
-隱私登錄：用 6 位隱私密碼解鎖 Mars，iOS 支持面容 ID / 觸控 ID，網頁支持通行密鑰。
+隱私鎖：用 6 位隱私密碼、面容 ID / 觸控 ID 或通行密鑰解鎖 Mars，設備借給別人也不怕。
 
-![隱私鎖](assets/crm-privacy-lock.zh-TW.webp)
+![設備借出去，Mars 照樣上鎖](assets/crm-privacy-lock.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [Mars-2.0 Blaze](releases/crm-2026-10-15-mars-2-0-blaze.zh-HK.md)
+### [更高一檔的 Mars-2.0 Blaze](releases/crm-2026-10-15-mars-2-0-blaze.zh-HK.md)
 
 **預覽** · 2026-10-15 · `0.1.1.5585`
 
-新增頂級模型 Mars-2.0 Blaze，排在 Flare 與 Ember 之上。
+新增頂級模型 Mars-2.0 Blaze，位於 Flare 與 Ember 之上，關鍵問題隨時換上更高一檔。
 
-![Mars-2.0 Blaze](assets/crm-mars-2-0-blaze.zh-TW.webp)
+![更高一檔的 Mars-2.0 Blaze](assets/crm-mars-2-0-blaze.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [網頁與 iOS 套餐](releases/crm-2026-10-15-plans-on-web-and-ios.zh-HK.md)
+### [網頁、iOS 都能訂閲，用熟悉的方式付](releases/crm-2026-10-15-plans-on-web-and-ios.zh-HK.md)
 
 **預覽** · 2026-10-15 · `0.1.1.5585`
 
-網頁通過 Stripe Checkout 購買套餐，iOS 使用 App Store 訂閲；網頁可用優惠券，iOS 可用優惠代碼。
+網頁用 Stripe Checkout、iOS 用 App Store 訂閲，在哪兒用就在哪兒訂，優惠券和優惠代碼各自兑換。
 
-![網頁與 iOS 套餐](assets/crm-plans-on-web-and-ios.zh-TW.webp)
+![網頁、iOS 都能訂閲，用熟悉的方式付](assets/crm-plans-on-web-and-ios.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [點踩即可反饋](releases/crm-2026-10-15-feedback-from-thumbs-down.zh-HK.md)
+### [點一下踩，問題直達客服](releases/crm-2026-10-15-feedback-from-thumbs-down.zh-HK.md)
 
 **預覽** · 2026-10-15 · `0.1.1.5585`
 
-點踩會打開反饋表單，連同對話一起發送給客服。
+點一下踩就能反饋，報告連同整段對話發給客服，不用截圖、不用重述。
 
-![點踩即可反饋](assets/crm-feedback-from-thumbs-down.webp)
+![點一下踩，問題直達客服](assets/crm-feedback-from-thumbs-down.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [看得見過程的深度研究](releases/crm-2026-10-15-deep-research-you-can-follow.zh-HK.md)
+### [深度研究，每一步都看得見](releases/crm-2026-10-15-deep-research-you-can-follow.zh-HK.md)
 
 **預覽** · 2026-10-15 · `0.1.1.5585`
 
-深度研究以卡片展示每個研究助手的實時步驟，調研提案以問題卡片形式確認。
+深度研究的每位助手以卡片實時展示步驟，調研提案由你確認，過程看得見、方向你把關。
 
-![看得見過程的深度研究](assets/crm-deep-research-you-can-follow.zh-TW.webp)
+![深度研究，每一步都看得見](assets/crm-deep-research-you-can-follow.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [結構化圖表](releases/crm-2026-10-15-structured-diagrams.zh-HK.md)
+### [複雜想法，畫成一眼能懂的圖](releases/crm-2026-10-15-structured-diagrams.zh-HK.md)
 
 **預覽** · 2026-10-15 · `0.1.1.5585`
 
-支持結構化流程圖、思維導圖、時序圖和時間線；手機網頁可將圖下載為 PNG。
+Mars 能畫流程圖、思維導圖、時序圖和時間線，複雜想法一眼看懂；手機網頁可下載為 PNG。
 
-![結構化圖表](assets/crm-structured-diagrams.zh-TW.webp)
+![複雜想法，畫成一眼能懂的圖](assets/crm-structured-diagrams.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [寫入資料庫](releases/crm-2026-10-15-write-files-to-the-library.zh-HK.md)
+### [Mars 的成果，直接存成文件](releases/crm-2026-10-15-write-files-to-the-library.zh-HK.md)
 
 **預覽** · 2026-10-15 · `0.1.1.5585`
 
-Mars 可向資料庫寫入 Markdown、文本和 JSON 文件，支持富文本預覽與打印。
+Mars 把成果寫成 Markdown、文本和 JSON 文件存進資料庫，隨時預覽或打印，不再散落在對話裏。
 
-![寫入資料庫](assets/crm-write-files-to-the-library.zh-TW.webp)
+![Mars 的成果，直接存成文件](assets/crm-write-files-to-the-library.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [更安全的刪除](releases/crm-2026-10-15-safer-deletes.zh-HK.md)
+### [手一滑，目標和技能也不會丟](releases/crm-2026-10-15-safer-deletes.zh-HK.md)
 
 **預覽** · 2026-10-15 · `0.1.1.5585`
 
-刪除目標或技能前會先確認（網頁與 iOS）。
+刪除目標或技能前先確認，誤觸不會再丟東西，網頁與 iOS 都適用。
 
-![更安全的刪除](assets/crm-safer-deletes.zh-TW.webp)
+![手一滑，目標和技能也不會丟](assets/crm-safer-deletes.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [長按自己的消息](releases/crm-2026-10-15-long-press-your-messages.zh-HK.md)
+### [自己説過的話，長按就能再用](releases/crm-2026-10-15-long-press-your-messages.zh-HK.md)
 
 **預覽** · 2026-10-15 · `0.1.1.5585`
 
-長按自己的消息可複製、選擇或分享。
+長按自己的消息即可複製、選擇或分享，説過的話不用重打。
 
-![長按自己的消息](assets/crm-long-press-your-messages.zh-TW.webp)
+![自己説過的話，長按就能再用](assets/crm-long-press-your-messages.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [只讀連接 Gmail](releases/crm-2026-10-13-gmail-read-only.zh-HK.md)
+### [郵件裏的答案，Mars 幫你找](releases/crm-2026-10-13-gmail-read-only.zh-HK.md)
 
 **預覽** · 2026-10-13 · `0.1.1.5222`
 
-可只讀連接 Gmail：Mars 能在對話中搜索和閲讀你的郵件。
+以只讀方式連接 Gmail，Mars 在對話中幫你搜索和閲讀郵件，收件箱原封不動。
 
-### [導入聯繫人](releases/crm-2026-10-13-import-contacts.zh-HK.md)
-
-**預覽** · 2026-10-13 · `0.1.1.5222`
-
-可在「連接平台」導入選定的 Google 或 iPhone 聯繫人。
-
-![導入聯繫人](assets/crm-import-contacts.zh-TW.webp)
-
-*示意圖，使用虛構演示資料。*
-
-### [實時讀取 iPhone 數據](releases/crm-2026-10-13-live-iphone-data.zh-HK.md)
+### [現有聯繫人，一次帶進 Mars](releases/crm-2026-10-13-import-contacts.zh-HK.md)
 
 **預覽** · 2026-10-13 · `0.1.1.5222`
 
-在 iOS 應用中，Mars 可按你授權的來源實時讀取 iPhone 通訊錄、日曆、Apple 健康與健身數據。
+從「連接平台」導入你選定的 Google 或 iPhone 聯繫人，不用一個個重新錄入。
 
-![實時讀取 iPhone 數據](assets/crm-live-iphone-data.webp)
+![現有聯繫人，一次帶進 Mars](assets/crm-import-contacts.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [手機號與密碼登錄](releases/crm-2026-10-13-phone-and-password-sign-in.zh-HK.md)
+### [手機上的信息，回答實時用上](releases/crm-2026-10-13-live-iphone-data.zh-HK.md)
 
 **預覽** · 2026-10-13 · `0.1.1.5222`
 
-網頁支持手機號加密碼登錄，安全驗證會説明原因。
+在 iOS 上，Mars 按你逐項授權實時讀取通訊錄、日曆和 Apple 健康與健身數據，回答用得上手機裏的信息。
 
-![手機號與密碼登錄](assets/crm-phone-and-password-sign-in.zh-TW.webp)
+![手機上的信息，回答實時用上](assets/crm-live-iphone-data.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [iOS 原生圖表](releases/crm-2026-10-13-native-charts-on-ios.zh-HK.md)
+### [手機號加密碼，登錄清清楚楚](releases/crm-2026-10-13-phone-and-password-sign-in.zh-HK.md)
 
 **預覽** · 2026-10-13 · `0.1.1.5222`
 
-iOS 原生繪製圖表與流程圖；選中回答文字可引用或朗讀。
+網頁支持手機號加密碼登錄；需要安全驗證時説明原因，登錄過程清清楚楚。
 
-![iOS 原生圖表](assets/crm-native-charts-on-ios.zh-TW.webp)
+![手機號加密碼，登錄清清楚楚](assets/crm-phone-and-password-sign-in.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [回答不中斷](releases/crm-2026-10-13-answers-that-keep-going.zh-HK.md)
+### [iPhone 上的圖表，清晰順手](releases/crm-2026-10-13-native-charts-on-ios.zh-HK.md)
 
 **預覽** · 2026-10-13 · `0.1.1.5222`
 
-離開應用後回答繼續生成，失敗的輪次可重試。
+iOS 上的圖表與流程圖原生繪製、清晰順手；選中回答文字即可引用或朗讀。
 
-![回答不中斷](assets/crm-answers-that-keep-going.zh-TW.webp)
+![iPhone 上的圖表，清晰順手](assets/crm-native-charts-on-ios.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [額度用完也不丟結果](releases/crm-2026-10-13-graceful-credit-limits.zh-HK.md)
+### [切走應用，回答照樣寫完](releases/crm-2026-10-13-answers-that-keep-going.zh-HK.md)
 
 **預覽** · 2026-10-13 · `0.1.1.5222`
 
-額度用完時，當前輪次仍會交付已完成的結果，之後再暫停發送新消息。
+切換到其他應用，回答照樣寫完；某一輪失敗，可在同一對話中重試。
 
-![額度用完也不丟結果](assets/crm-graceful-credit-limits.zh-TW.webp)
+![切走應用，回答照樣寫完](assets/crm-answers-that-keep-going.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [首次啓動即用你的語言](releases/crm-2026-10-13-your-language-from-the-start.zh-HK.md)
+### [額度用完，做好的結果照樣交付](releases/crm-2026-10-13-graceful-credit-limits.zh-HK.md)
 
 **預覽** · 2026-10-13 · `0.1.1.5222`
 
-首次啓動跟隨設備語言，不支持時使用英文。
+額度用完時，當前這一輪已完成的結果照樣交付，之後才暫停新消息，已投入的不會白費。
 
-![首次啓動即用你的語言](assets/crm-your-language-from-the-start.zh-TW.webp)
+![額度用完，做好的結果照樣交付](assets/crm-graceful-credit-limits.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [Mars iOS 應用](releases/crm-2026-10-10-mars-for-ios.zh-HK.md)
+### [第一眼，就是你的語言](releases/crm-2026-10-13-your-language-from-the-start.zh-HK.md)
+
+**預覽** · 2026-10-13 · `0.1.1.5222`
+
+首次啓動就跟隨設備語言，打開即可看懂；不支持的語言使用英文。
+
+![第一眼，就是你的語言](assets/crm-your-language-from-the-start.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [Mars 裝進 iPhone 和 iPad](releases/crm-2026-10-10-mars-for-ios.zh-HK.md)
 
 **預覽** · 2026-10-10 · `0.1.1.4799`
 
-原生 iOS 應用：側邊抽屜、滑動操作、iPad 桌面工作區，輸入框支持生成圖片與深度研究。
+Mars iOS 應用上線：側邊抽屜、滑動操作、iPad 桌面工作區，生成圖片和深度研究隨身可用。
 
-![Mars iOS 應用](assets/crm-mars-for-ios.webp)
+![Mars 裝進 iPhone 和 iPad](assets/crm-mars-for-ios.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [原生通知](releases/crm-2026-10-10-native-notifications.zh-HK.md)
+### [任務完成，Mars 主動告訴你](releases/crm-2026-10-10-native-notifications.zh-HK.md)
 
 **預覽** · 2026-10-10 · `0.1.1.4799`
 
-iOS 原生通知一次授權即可；「任務完成通知」可打開網頁與 iOS 的通知設置。
+開啓任務完成通知，任務一完成就提醒你；iOS 只需授權一次，網頁與 iOS 都能調整。
 
-![原生通知](assets/crm-native-notifications.zh-TW.webp)
+![任務完成，Mars 主動告訴你](assets/crm-native-notifications.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [每週起始日與日期格式](releases/crm-2026-10-10-week-start-and-date-format.zh-HK.md)
+### [日期按你的習慣來](releases/crm-2026-10-10-week-start-and-date-format.zh-HK.md)
 
 **預覽** · 2026-10-10 · `0.1.1.4799`
 
-可設置每週第一天和日期格式，網頁與 iOS 的事件頁按此顯示。
+設置每週起始日和日期格式，網頁與 iOS 的事件都按你的習慣顯示。
 
-![每週起始日與日期格式](assets/crm-week-start-and-date-format.zh-TW.webp)
+![日期按你的習慣來](assets/crm-week-start-and-date-format.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [關係類型](releases/crm-2026-10-10-relationship-types.zh-HK.md)
+### [按類型和階段，管好每段關係](releases/crm-2026-10-10-relationship-types.zh-HK.md)
 
 **預覽** · 2026-10-10 · `0.1.1.4799`
 
-關係類型支持階段與里程碑，可按類型或階段篩選關係。
+關係按類型分組，設置各自的階段與里程碑，按類型或階段篩選，每段關係走到哪步一目瞭然。
 
-### [修訂 Office 文件](releases/crm-2026-10-10-revised-office-files.zh-HK.md)
-
-**預覽** · 2026-10-10 · `0.1.1.4799`
-
-修訂後的 Word、Excel、PowerPoint 另存為資料庫新文檔；Word 修訂以修訂痕跡呈現，可接受或拒絕。
-
-![修訂 Office 文件](assets/crm-revised-office-files.zh-TW.webp)
-
-*示意圖，使用虛構演示資料。*
-
-### [外觀設置](releases/crm-2026-10-10-appearance-settings.zh-HK.md)
+### [改過的文件，每一版都留得住](releases/crm-2026-10-10-revised-office-files.zh-HK.md)
 
 **預覽** · 2026-10-10 · `0.1.1.4799`
 
-外觀設置頁提供跟隨系統、淺色、深色；語言設置獨立成頁。
+修訂後的 Word、Excel、PowerPoint 另存為新文檔，原版不被覆蓋；Word 修改以修訂痕跡呈現，先審後收。
 
-![外觀設置](assets/crm-appearance-settings.zh-TW.webp)
+![改過的文件，每一版都留得住](assets/crm-revised-office-files.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [壓縮包預覽](releases/crm-2026-10-10-archive-previews.zh-HK.md)
+### [淺色、深色，隨你選](releases/crm-2026-10-10-appearance-settings.zh-HK.md)
 
 **預覽** · 2026-10-10 · `0.1.1.4799`
 
-RAR 與 ZIP 文件預覽可列出壓縮包內容。
+「外觀」頁可選跟隨系統、淺色或深色，Mars 跟着你的習慣來；語言設置單獨成頁。
 
-![壓縮包預覽](assets/crm-archive-previews.zh-TW.webp)
-
-*示意圖，使用虛構演示資料。*
-
-### [時區設置](releases/crm-2026-10-07-time-zone-setting.zh-HK.md)
-
-**預覽** · 2026-10-07 · `0.1.1.4285`
-
-時區設置：跟隨設備或選擇城市，對話、提醒、事件與用量記錄都按此時區顯示。
-
-![時區設置](assets/crm-time-zone-setting.zh-TW.webp)
+![淺色、深色，隨你選](assets/crm-appearance-settings.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [通知設置頁](releases/crm-2026-10-07-notifications-page.zh-HK.md)
+### [壓縮包裏有什麼，不解壓就知道](releases/crm-2026-10-10-archive-previews.zh-HK.md)
 
-**預覽** · 2026-10-07 · `0.1.1.4285`
+**預覽** · 2026-10-10 · `0.1.1.4799`
 
-通知設置頁：瀏覽器推送、回答完成通知與日程提醒。
+預覽 RAR 和 ZIP 文件即可列出包內文件，不用下載解壓就知道里面有什麼。
 
-![通知設置頁](assets/crm-notifications-page.zh-TW.webp)
-
-*示意圖，使用虛構演示資料。*
-
-### [重複事件](releases/crm-2026-10-07-repeating-events.zh-HK.md)
-
-**預覽** · 2026-10-07 · `0.1.1.4285`
-
-重複事件與提醒：可設提前量、重複規則、星期、時間與結束日期，並支持自定義重複。
-
-![重複事件](assets/crm-repeating-events.zh-TW.webp)
+![壓縮包裏有什麼，不解壓就知道](assets/crm-archive-previews.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [字體大小](releases/crm-2026-10-07-text-size.zh-HK.md)
+### [人在哪裏，時間就對到哪裏](releases/crm-2026-10-07-time-zone-setting.zh-HK.md)
 
 **預覽** · 2026-10-07 · `0.1.1.4285`
 
-字體大小設置，可縮放對話、聯繫人頁、記憶、事件、資料庫與設置頁的文字。
+時區可跟隨設備或選擇城市，對話、提醒、事件與用量記錄都按你所在地顯示，不用換算時差。
 
-![字體大小](assets/crm-text-size.zh-TW.webp)
+![人在哪裏，時間就對到哪裏](assets/crm-time-zone-setting.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [取消分享與更廣的搜索](releases/crm-2026-10-07-stop-sharing-and-wider-search.zh-HK.md)
+### [不開着 Mars，也不錯過消息](releases/crm-2026-10-07-notifications-page.zh-HK.md)
 
 **預覽** · 2026-10-07 · `0.1.1.4285`
 
-分享鏈接可「取消分享」撤回；工作區搜索覆蓋對話正文。
+設置中的「通知」頁集中管理瀏覽器推送、回答完成提醒和日程提醒，不開着 Mars 也不錯過。
 
-![取消分享與更廣的搜索](assets/crm-stop-sharing-and-wider-search.zh-TW.webp)
+![不開着 Mars，也不錯過消息](assets/crm-notifications-page.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [聯繫人之間的關係](releases/crm-2026-10-07-relationships-between-contacts.zh-HK.md)
+### [週期安排，設一次就夠](releases/crm-2026-10-07-repeating-events.zh-HK.md)
 
 **預覽** · 2026-10-07 · `0.1.1.4285`
 
-可記錄兩位聯繫人之間的關係，包含獨立的類型與摘要。
+事件和提醒可按提前量、重複規則、星期、時間和結束日期自動重複，週期安排設一次就夠。
 
-### [用量記錄](releases/crm-2026-10-07-usage-records.zh-HK.md)
-
-**預覽** · 2026-10-07 · `0.1.1.4285`
-
-用量記錄：按日/周/月查看，顯示最忙與最閒時段、退款，並可按調用類型排序和篩選。
-
-![用量記錄](assets/crm-usage-records.zh-TW.webp)
+![週期安排，設一次就夠](assets/crm-repeating-events.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [事件狀態](releases/crm-2026-10-07-event-status.zh-HK.md)
+### [字號隨你調，長對話讀得舒服](releases/crm-2026-10-07-text-size.zh-HK.md)
 
 **預覽** · 2026-10-07 · `0.1.1.4285`
 
-事件狀態分為計劃中、已發生、已取消；可滑動或右鍵完成、編輯、刪除事件。
+一個字體大小設置，統一縮放對話、聯繫人、記憶、事件、資料庫和設置頁，長對話讀得更舒服。
 
-![事件狀態](assets/crm-event-status.zh-TW.webp)
+![字號隨你調，長對話讀得舒服](assets/crm-text-size.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [個人記憶按組歸整](releases/crm-2026-09-30-grouped-personal-memory.zh-HK.md)
+### [分享隨時收回，舊回答一搜就到](releases/crm-2026-10-07-stop-sharing-and-wider-search.zh-HK.md)
+
+**預覽** · 2026-10-07 · `0.1.1.4285`
+
+分享鏈接可隨時「取消分享」收回；工作區搜索覆蓋對話正文，憑一句原話就能找回舊回答。
+
+![分享隨時收回，舊回答一搜就到](assets/crm-stop-sharing-and-wider-search.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [誰和誰認識，Mars 幫你記着](releases/crm-2026-10-07-relationships-between-contacts.zh-HK.md)
+
+**預覽** · 2026-10-07 · `0.1.1.4285`
+
+記錄兩位聯繫人之間的關係，各有類型與摘要，誰和誰認識清清楚楚。
+
+### [用量高峯和退款，一頁看清](releases/crm-2026-10-07-usage-records.zh-HK.md)
+
+**預覽** · 2026-10-07 · `0.1.1.4285`
+
+用量記錄支持日、周、月視圖，標出高峯與低谷時段和退款，可按調用類型篩選，花在哪裏一頁看清。
+
+![用量高峯和退款，一頁看清](assets/crm-usage-records.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [日曆記下真正發生的事](releases/crm-2026-10-07-event-status.zh-HK.md)
+
+**預覽** · 2026-10-07 · `0.1.1.4285`
+
+事件可標記為計劃中、已發生或已取消，日曆記下真正發生的事；滑動或右鍵即可完成、編輯、刪除。
+
+![日曆記下真正發生的事](assets/crm-event-status.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [關於你的信息，一個主題一張卡](releases/crm-2026-09-30-grouped-personal-memory.zh-HK.md)
 
 **預覽** · 2026-09-30 · `0.1.1.3581`
 
-個人記憶把資料按同名分組歸在一起，相關信息不再分散。
+個人記憶按主題合併成一張張卡片，空字段不再佔行，關於你的信息一處看全。
 
-![個人記憶按組歸整](assets/crm-grouped-personal-memory.zh-TW.webp)
+![關於你的信息，一個主題一張卡](assets/crm-grouped-personal-memory.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [已瞭解的信息與來源](releases/crm-2026-09-28-what-mars-learned-with-sources.zh-HK.md)
+### [每條信息，都能回到出處核對](releases/crm-2026-09-28-what-mars-learned-with-sources.zh-HK.md)
 
 **預覽** · 2026-09-28 · `0.1.1.3543`
 
-聯繫人頁面展示 Mars 從對話中瞭解到的信息，並附上每條的來源。
+聯繫人頁面列出 Mars 瞭解到的信息，每條附原話和來源鏈接，自動識別的由你確認，有據可查。
 
-![已瞭解的信息與來源](assets/crm-what-mars-learned-with-sources.zh-TW.webp)
+![每條信息，都能回到出處核對](assets/crm-what-mars-learned-with-sources.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [日視圖旁看整月日程](releases/crm-2026-09-23-month-events-beside-the-day.zh-HK.md)
+### [看一天的同時，整月盡收眼底](releases/crm-2026-09-23-month-events-beside-the-day.zh-HK.md)
 
 **預覽** · 2026-09-23 · `0.1.1.3475`
 
-日程的日視圖旁會列出整月日程，小日曆也會標出有日程的日期。
+日視圖旁列出整月日程，小日曆用圓點標出有日程的日子，哪天忙一目瞭然。
 
-![日視圖旁看整月日程](assets/crm-month-events-beside-the-day.zh-TW.webp)
+![看一天的同時，整月盡收眼底](assets/crm-month-events-beside-the-day.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [連續閲讀 PDF](releases/crm-2026-09-12-continuous-pdf-reading.zh-HK.md)
+### [PDF 一路往下滾，像讀長文一樣](releases/crm-2026-09-12-continuous-pdf-reading.zh-HK.md)
 
 **預覽** · 2026-09-12 · `0.1.1.3383`
 
-資料庫裏的 PDF 可以連續滾動閲讀，並用頁面縮略圖跳轉；文件也會顯示首頁縮略圖。
+資料庫裏的 PDF 一路往下滾着讀，縮略圖一點就跳頁；文件都以首頁作縮略圖，一眼認出。
 
-![連續閲讀 PDF](assets/crm-continuous-pdf-reading.zh-TW.webp)
+![PDF 一路往下滾，像讀長文一樣](assets/crm-continuous-pdf-reading.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-### [更清楚的訂閲頁](releases/crm-2026-09-04-a-clearer-plans-page.zh-HK.md)
+### [方案並排比，買前看清楚](releases/crm-2026-09-04-a-clearer-plans-page.zh-HK.md)
 
 **預覽** · 2026-09-04 · `0.1.1.3352`
 
-新的訂閲頁可以並排比較權益，從三個方案中選擇，並通過固定在底部的購買欄下單。
+新的訂閲頁三個方案並排比較，權益一點就看全，購買欄固定在底部，付款前就清楚能得到什麼。
 
-![更清楚的訂閲頁](assets/crm-a-clearer-plans-page.zh-TW.webp)
+![方案並排比，買前看清楚](assets/crm-a-clearer-plans-page.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 

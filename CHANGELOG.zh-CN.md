@@ -7,647 +7,647 @@
 
 ## 预览版更新
 
-### [从回答直接打开设置](releases/crm-2026-10-27-open-settings-from-an-answer.zh-CN.md)
+### [问一句，直达那页设置](releases/crm-2026-10-27-open-settings-from-an-answer.zh-CN.md)
 
 **预览** · 2026-10-27 · `0.1.1.8292`
 
-问 Mars 某个设置在哪、怎么连接数据，回答里会带一个设置胶囊，点按即可打开那一页。
+问 Mars 设置在哪、怎么连数据，回答里的设置胶囊一点直达，不用再翻菜单。
 
-![从回答直接打开设置](assets/crm-open-settings-from-an-answer.webp)
+![问一句，直达那页设置](assets/crm-open-settings-from-an-answer.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [Mars Mac 原生应用](releases/crm-2026-10-26-mars-for-mac.zh-CN.md)
+### [Mars 上 Mac，大屏一眼看全](releases/crm-2026-10-26-mars-for-mac.zh-CN.md)
 
 **预览** · 2026-10-26 · `0.1.1.8385`
 
-Mars 推出以原生 Swift 构建的 Mac 应用：桌面三栏工作区，与 iPhone、iPad 使用同一账号。
+Mars 推出 Mac 原生应用：三栏桌面工作区大屏一眼看全，与 iPhone、iPad 同一账号接着用。
 
-![Mars Mac 原生应用](assets/crm-mars-for-mac.webp)
+![Mars 上 Mac，大屏一眼看全](assets/crm-mars-for-mac.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [一键打开社交账号](releases/crm-2026-10-26-open-social-accounts-in-one-tap.zh-CN.md)
+### [问到账号，一点就联系上](releases/crm-2026-10-26-open-social-accounts-in-one-tap.zh-CN.md)
 
 **预览** · 2026-10-26 · `0.1.1.8385`
 
-向 Mars 询问某人的微信号或其他账号，每个账号都显示为胶囊，点按即复制并打开对应应用。
+问到某人的微信号或其他账号，点一下胶囊即复制并打开对应应用，马上就能联系。
 
-![一键打开社交账号](assets/crm-open-social-accounts-in-one-tap.webp)
+![问到账号，一点就联系上](assets/crm-open-social-accounts-in-one-tap.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [回答中随时补充](releases/crm-2026-10-25-add-to-a-running-answer.zh-CN.md)
+### [回答没写完，想法随时补](releases/crm-2026-10-25-add-to-a-running-answer.zh-CN.md)
 
 **预览** · 2026-10-25 · `0.1.1.8208`
 
-Mars 回答时也能继续输入：中途补充细节或调整方向，Mars 会在你的消息下方接着回答。
+Mars 回答时也能继续输入：中途补充或改方向，它在你的消息下方接着答，不用等也不用重问。
 
-![回答中随时补充](assets/crm-add-to-a-running-answer.webp)
+![回答没写完，想法随时补](assets/crm-add-to-a-running-answer.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [从最新招聘查职位薪资](releases/crm-2026-10-25-what-a-role-pays.zh-CN.md)
+### [职位值多少钱，看真实招聘](releases/crm-2026-10-25-what-a-role-pays.zh-CN.md)
 
 **预览** · 2026-10-25 · `0.1.1.8208`
 
-问 Mars 某个职位薪资多少：它会搜索领英和 Google Jobs 上该职位和地点的最新招聘，汇总公开标注的薪资。
+问某个职位在某地的薪资，Mars 汇总领英和 Google Jobs 当前招聘的公开薪资，每个数字都有出处。
 
-![从最新招聘查职位薪资](assets/crm-what-a-role-pays.webp)
+![职位值多少钱，看真实招聘](assets/crm-what-a-role-pays.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [iPhone 和 Mac 桌面小组件](releases/crm-2026-10-24-mars-widgets-on-iphone.zh-CN.md)
+### [不开应用，一点就叫出 Mars](releases/crm-2026-10-24-mars-widgets-on-iphone.zh-CN.md)
 
 **预览** · 2026-10-24 · `0.1.1.7959`
 
-Mars 小组件登陆 iPhone 主屏幕、锁屏和 Mac 桌面：一键开始对话、语音或拍照，用量和剩余额度一眼可见。
+Mars 小组件登陆 iPhone 主屏幕、锁屏和 Mac 桌面：不开应用，一点就能拍照、语音或研究，额度随时可见。
 
-![iPhone 和 Mac 桌面小组件](assets/crm-mars-widgets-on-iphone.webp)
+![不开应用，一点就叫出 Mars](assets/crm-mars-widgets-on-iphone.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [Mars 制作演示文稿和文档](releases/crm-2026-10-24-mars-makes-decks-and-documents.zh-CN.md)
+### [一句话，做出能直接上台的演示文稿](releases/crm-2026-10-24-mars-makes-decks-and-documents.zh-CN.md)
 
 **预览** · 2026-10-24 · `0.1.1.7959`
 
-Mars 一句话做出可编辑的 PowerPoint 演示文稿，配图风格统一；也能写带插图的 Word 文档。
+一句话，Mars 做出可编辑的 PowerPoint 演示文稿，配图风格统一；也能写带插图的 Word 文档，省下找图排版的时间。
 
-![Mars 制作演示文稿和文档](assets/crm-mars-makes-decks-and-documents.webp)
+![一句话，做出能直接上台的演示文稿](assets/crm-mars-makes-decks-and-documents.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [不登录读取网页](releases/crm-2026-10-23-read-pages-without-your-login.zh-CN.md)
+### [账号不交出去，网页照样读](releases/crm-2026-10-23-read-pages-without-your-login.zh-CN.md)
 
 **预览** · 2026-10-23 · `0.1.1.7618`
 
-Mars 不登录、一次请求读完网页；需要登录的内容，它会请你直接打开原文链接。
+Mars 不用你的账号也能读公开网页；需要登录的内容，请你打开原文链接，账号始终在你手里。
 
-![不登录读取网页](assets/crm-read-pages-without-your-login.webp)
+![账号不交出去，网页照样读](assets/crm-read-pages-without-your-login.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [按价值排序](releases/crm-2026-10-23-sort-by-value.zh-CN.md)
+### [值得投入的事和人，排在前面](releases/crm-2026-10-23-sort-by-value.zh-CN.md)
 
 **预览** · 2026-10-23 · `0.1.1.7618`
 
-按价值排序：事件和关系按对你的价值排列，网页与 iOS 同步上线。
+按价值排序：签约、融资和引荐排在琐事前面，值得投入的事和人先看见，网页与 iOS 都支持。
 
-![按价值排序](assets/crm-sort-by-value.webp)
+![值得投入的事和人，排在前面](assets/crm-sort-by-value.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [Mars 看懂社交媒体视频](releases/crm-2026-10-22-mars-watches-social-videos.zh-CN.md)
+### [见面之前，先看懂对方的视频](releases/crm-2026-10-22-mars-watches-social-videos.zh-CN.md)
 
 **预览** · 2026-10-22 · `0.1.1.7433`
 
-Mars 现在能看懂抖音、小红书、B站、快手和微博的视频：在对话中搜索一个人，它会去看对方的视频，告诉你本人在镜头前说了什么。
+Mars 能看懂抖音、小红书、B站、快手和微博的视频：问起一个人，它替你看完视频，引用本人在镜头前的原话。
 
-![Mars 看懂社交媒体视频](assets/crm-mars-watches-social-videos.webp)
+![见面之前，先看懂对方的视频](assets/crm-mars-watches-social-videos.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [带密码的分享链接](releases/crm-2026-10-22-share-links-with-a-password.zh-CN.md)
+### [分享对话，只给你想给的人看](releases/crm-2026-10-22-share-links-with-a-password.zh-CN.md)
 
 **预览** · 2026-10-22 · `0.1.1.7433`
 
-给分享的对话加上 6 位访问密码，网页和 iOS 都能设置。
+给分享的对话加上 6 位访问密码，链接被转发也打不开，网页和 iOS 都能设置。
 
-![带密码的分享链接](assets/crm-share-links-with-a-password.webp)
+![分享对话，只给你想给的人看](assets/crm-share-links-with-a-password.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [在地图上规划行程](releases/crm-2026-10-21-plan-trips-on-a-map.zh-CN.md)
+### [行程画在地图上，每天怎么走一目了然](releases/crm-2026-10-21-plan-trips-on-a-map.zh-CN.md)
 
 **预览** · 2026-10-21 · `0.1.1.6886`
 
-在对话中规划旅行，在交互地图上查看每天的地点与路线。
+在对话中规划旅行，每天的地点与路线画在交互地图上，哪里挨着哪里一目了然。
 
-![在地图上规划行程](assets/crm-plan-trips-on-a-map.webp)
+![行程画在地图上，每天怎么走一目了然](assets/crm-plan-trips-on-a-map.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [更快、自适应的图表](releases/crm-2026-10-20-faster-adaptive-diagrams.zh-CN.md)
+### [图表下载少约 86%，几毫秒画好](releases/crm-2026-10-20-faster-adaptive-diagrams.zh-CN.md)
 
 **预览** · 2026-10-20 · `0.1.1.6573`
 
-回答中的图表下载量减少约 86%，几毫秒内绘制完成，并自动适应对话宽度。
+回答中的图表下载量减少约 86%，几毫秒内画好，窄屏自动改为上下排列，在哪都看得清。
 
-![更快、自适应的图表](assets/crm-faster-adaptive-diagrams.webp)
+![图表下载少约 86%，几毫秒画好](assets/crm-faster-adaptive-diagrams.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [引用链接显示真实标题](releases/crm-2026-10-19-cited-link-titles.zh-CN.md)
+### [点开之前，就知道来源是什么](releases/crm-2026-10-19-cited-link-titles.zh-CN.md)
 
 **预览** · 2026-10-19 · `0.1.1.6479`
 
-Mars 引用的每个链接都显示其页面的真实标题。
+Mars 引用的每个链接都显示真实标题，点开之前就知道来源值不值得看。
 
-![引用链接显示真实标题](assets/crm-cited-link-titles.webp)
+![点开之前，就知道来源是什么](assets/crm-cited-link-titles.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [长录音与大文件](releases/crm-2026-10-19-long-recordings.zh-CN.md)
+### [2 GB 长录音，每句话都能定位](releases/crm-2026-10-19-long-recordings.zh-CN.md)
 
 **预览** · 2026-10-19 · `0.1.1.6479`
 
-可发送最大 2 GB 的音视频，超过 20 分钟的录音也能获得完整时间点。
+音视频上限提高到 2 GB，超过 20 分钟的录音也能问到每一句、定位到几分几秒。
 
-![长录音与大文件](assets/crm-long-recordings.webp)
+![2 GB 长录音，每句话都能定位](assets/crm-long-recordings.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [图片网格与图库](releases/crm-2026-10-18-picture-grids-and-gallery.zh-CN.md)
+### [一组图片，一条整洁消息](releases/crm-2026-10-18-picture-grids-and-gallery.zh-CN.md)
 
 **预览** · 2026-10-18 · `0.1.1.6118`
 
-一起发送的多张图片以网格显示，并可在图库中浏览。
+一起发送的多张图片合成一个整洁网格，点任意图块就能在图库里翻看，对话不再被刷屏。
 
-![图片网格与图库](assets/crm-picture-grids-and-gallery.webp)
-
-*示意图，使用虚构演示数据。*
-
-### [用 Apple 登录](releases/crm-2026-10-17-sign-in-with-apple.zh-CN.md)
-
-**预览** · 2026-10-17 · `0.1.1.5950`
-
-iOS 支持通过 Apple 登录。
-
-![用 Apple 登录](assets/crm-sign-in-with-apple.webp)
+![一组图片，一条整洁消息](assets/crm-picture-grids-and-gallery.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [Apple 健康同步](releases/crm-2026-10-17-apple-health-sync.zh-CN.md)
+### [用 Apple ID，一点就登录](releases/crm-2026-10-17-sign-in-with-apple.zh-CN.md)
 
 **预览** · 2026-10-17 · `0.1.1.5950`
 
-iOS 可将 Apple 健康每日汇总同步到 Mars，网页和其他设备也能查看。
+iOS 支持用 Apple 登录：用已有的 Apple ID 一点进入，不用另设密码。
 
-![Apple 健康同步](assets/crm-apple-health-sync.webp)
+![用 Apple ID，一点就登录](assets/crm-sign-in-with-apple.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [更完整的健康问答](releases/crm-2026-10-17-richer-health-answers.zh-CN.md)
+### [健康数据在手机，到哪儿都能问](releases/crm-2026-10-17-apple-health-sync.zh-CN.md)
 
 **预览** · 2026-10-17 · `0.1.1.5950`
 
-健康问答新增睡眠阶段、饮水、饮食热量、蛋白质与碳水；体脂秤读数连同体脂、肌肉、水分一起保存。
+iOS 把 Apple 健康每日汇总同步到 Mars，在网页和其他设备上也能问健康问题。
 
-![更完整的健康问答](assets/crm-richer-health-answers.webp)
+![健康数据在手机，到哪儿都能问](assets/crm-apple-health-sync.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [提问面板](releases/crm-2026-10-17-question-panel.zh-CN.md)
+### [睡眠、饮水、营养，健康回答更完整](releases/crm-2026-10-17-richer-health-answers.zh-CN.md)
 
 **预览** · 2026-10-17 · `0.1.1.5950`
 
-提问面板：Mars 需要你决定时，用编号选项或自填内容回答最多五个问题。
+健康问答新增睡眠阶段、饮水、热量、蛋白质与碳水，体脂秤读数完整保存，回答参考的数据更全面。
 
-![提问面板](assets/crm-question-panel.webp)
+![睡眠、饮水、营养，健康回答更完整](assets/crm-richer-health-answers.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [聊天内查找与新回答菜单](releases/crm-2026-10-17-find-in-chat-and-a-new-answer-menu.zh-CN.md)
+### [拿不准时，Mars 先问你](releases/crm-2026-10-17-question-panel.zh-CN.md)
 
 **预览** · 2026-10-17 · `0.1.1.5950`
 
-新增聊天内查找；回答菜单支持分支对话、朗读（暂停、跳 15 秒、调速）、模型、重试与联网搜索。
+需要你做决定时，Mars 在提问面板里一次问清最多五个问题，严格按你的选择继续，长任务少走弯路。
 
-![聊天内查找与新回答菜单](assets/crm-find-in-chat-and-a-new-answer-menu.webp)
+![拿不准时，Mars 先问你](assets/crm-question-panel.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [到点开启对话的提醒](releases/crm-2026-10-17-reminders-that-start-a-conversation.zh-CN.md)
+### [长对话一搜就到，回答操作一处搞定](releases/crm-2026-10-17-find-in-chat-and-a-new-answer-menu.zh-CN.md)
 
 **预览** · 2026-10-17 · `0.1.1.5950`
 
-提醒可在到点时按你的提示词开启 Mars 对话；可在提醒编辑器中创建「每日复盘」技能。
+长对话里一搜就到；回答菜单集中了分支对话、朗读、切换模型、重试与联网搜索，操作一处搞定。
 
-![到点开启对话的提醒](assets/crm-reminders-that-start-a-conversation.webp)
+![长对话一搜就到，回答操作一处搞定](assets/crm-find-in-chat-and-a-new-answer-menu.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [实时绘制的图表](releases/crm-2026-10-17-live-charts-and-diagrams.zh-CN.md)
+### [到点了，Mars 自己开工](releases/crm-2026-10-17-reminders-that-start-a-conversation.zh-CN.md)
 
 **预览** · 2026-10-17 · `0.1.1.5950`
 
-图表与流程图随回答流式绘制，附带洞察与追问，可全屏查看。
+提醒到点，Mars 按你写好的提示词自动开启对话，每日复盘、定期检查不用再手动发起。
 
-![实时绘制的图表](assets/crm-live-charts-and-diagrams.webp)
+![到点了，Mars 自己开工](assets/crm-reminders-that-start-a-conversation.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [iWork 与 WPS 预览](releases/crm-2026-10-17-iwork-and-wps-previews.zh-CN.md)
+### [回答还在写，图表已经画出来](releases/crm-2026-10-17-live-charts-and-diagrams.zh-CN.md)
 
 **预览** · 2026-10-17 · `0.1.1.5950`
 
-Keynote、Pages、Numbers、WPS 文件显示首页预览；Mars 通过转换为 Office 格式来编辑 iWork 文件。
+图表与流程图随回答实时画出，附带洞察与追问，可全屏细看，趋势一眼看懂。
 
-![iWork 与 WPS 预览](assets/crm-iwork-and-wps-previews.webp)
+![回答还在写，图表已经画出来](assets/crm-live-charts-and-diagrams.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [对话状态一目了然](releases/crm-2026-10-17-conversation-status-at-a-glance.zh-CN.md)
+### [iWork、WPS 文件，对话里直接看](releases/crm-2026-10-17-iwork-and-wps-previews.zh-CN.md)
 
 **预览** · 2026-10-17 · `0.1.1.5950`
 
-最近对话显示运行中进度环、未读圆点和完成提示。
+Keynote、Pages、Numbers 和 WPS 文件在对话里直接显示首页，不用另装软件就能确认内容。
 
-![对话状态一目了然](assets/crm-conversation-status-at-a-glance.webp)
+![iWork、WPS 文件，对话里直接看](assets/crm-iwork-and-wps-previews.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [微信日程提醒](releases/crm-2026-10-17-wechat-event-reminders.zh-CN.md)
+### [哪段对话在等你，一眼看出](releases/crm-2026-10-17-conversation-status-at-a-glance.zh-CN.md)
 
 **预览** · 2026-10-17 · `0.1.1.5950`
 
-日程提醒可发送到微信，网页和 iOS 都有微信提醒开关。
+近期对话显示进度环、未读圆点和完成提示，哪段对话在等你，不用点开就知道。
 
-### [关系列表显示最新动态](releases/crm-2026-10-17-relationship-activity-lines.zh-CN.md)
-
-**预览** · 2026-10-17 · `0.1.1.5950`
-
-关系列表的每一行显示最新动态和最近一次互动的时间。
-
-![关系列表显示最新动态](assets/crm-relationship-activity-lines.webp)
+![哪段对话在等你，一眼看出](assets/crm-conversation-status-at-a-glance.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [更清晰的信息分组](releases/crm-2026-10-17-clearer-information-groups.zh-CN.md)
+### [日程提醒，直接发到微信](releases/crm-2026-10-17-wechat-event-reminders.zh-CN.md)
 
 **预览** · 2026-10-17 · `0.1.1.5950`
 
-记录的信息分到更清晰的分组，例如事业与团队、技术与工具、观念与偏好。
+日程提醒直接发到你绑定的微信，在每天都打开的地方收到提醒，重要日程不再错过。
 
-![更清晰的信息分组](assets/crm-clearer-information-groups.webp)
-
-*示意图，使用虚构演示数据。*
-
-### [编辑 Keynote、Pages 和 Numbers 文件](releases/crm-2026-10-17-convert-iwork-files.zh-CN.md)
+### [打开列表，就知道今天该联系谁](releases/crm-2026-10-17-relationship-activity-lines.zh-CN.md)
 
 **预览** · 2026-10-17 · `0.1.1.5950`
 
-Mars 可在对话中把 Keynote、Pages 或 Numbers 文件转换为 PowerPoint、Word 或 Excel，并编辑转换后的副本。
+关系列表每一行显示近期动态和最近一次互动的时间，打开列表就知道今天该联系谁。
 
-![编辑 Keynote、Pages 和 Numbers 文件](assets/crm-convert-iwork-files.webp)
+![打开列表，就知道今天该联系谁](assets/crm-relationship-activity-lines.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [隐私锁](releases/crm-2026-10-15-privacy-lock.zh-CN.md)
+### [一个人的信息，分组清楚好找](releases/crm-2026-10-17-clearer-information-groups.zh-CN.md)
+
+**预览** · 2026-10-17 · `0.1.1.5950`
+
+一个人的信息拆成「事业与团队」「技术与工具」「观念与偏好」，每组更短，想找的一眼就到。
+
+![一个人的信息，分组清楚好找](assets/crm-clearer-information-groups.webp)
+
+*示意图，使用虚构演示数据。*
+
+### [Keynote、Pages、Numbers 也能改](releases/crm-2026-10-17-convert-iwork-files.zh-CN.md)
+
+**预览** · 2026-10-17 · `0.1.1.5950`
+
+让 Mars 修改 Keynote、Pages 或 Numbers 文件，它转换成 Office 副本再改，原件保持不变。
+
+![Keynote、Pages、Numbers 也能改](assets/crm-convert-iwork-files.webp)
+
+*示意图，使用虚构演示数据。*
+
+### [设备借出去，Mars 照样上锁](releases/crm-2026-10-15-privacy-lock.zh-CN.md)
 
 **预览** · 2026-10-15 · `0.1.1.5585`
 
-隐私登录：用 6 位隐私密码解锁 Mars，iOS 支持面容 ID / 触控 ID，网页支持通行密钥。
+隐私锁：用 6 位隐私密码、面容 ID / 触控 ID 或通行密钥解锁 Mars，设备借给别人也不怕。
 
-![隐私锁](assets/crm-privacy-lock.webp)
+![设备借出去，Mars 照样上锁](assets/crm-privacy-lock.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [Mars-2.0 Blaze](releases/crm-2026-10-15-mars-2-0-blaze.zh-CN.md)
+### [更高一档的 Mars-2.0 Blaze](releases/crm-2026-10-15-mars-2-0-blaze.zh-CN.md)
 
 **预览** · 2026-10-15 · `0.1.1.5585`
 
-新增顶级模型 Mars-2.0 Blaze，排在 Flare 与 Ember 之上。
+新增顶级模型 Mars-2.0 Blaze，位于 Flare 与 Ember 之上，关键问题随时换上更高一档。
 
-![Mars-2.0 Blaze](assets/crm-mars-2-0-blaze.webp)
+![更高一档的 Mars-2.0 Blaze](assets/crm-mars-2-0-blaze.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [网页与 iOS 套餐](releases/crm-2026-10-15-plans-on-web-and-ios.zh-CN.md)
+### [网页、iOS 都能订阅，用熟悉的方式付](releases/crm-2026-10-15-plans-on-web-and-ios.zh-CN.md)
 
 **预览** · 2026-10-15 · `0.1.1.5585`
 
-网页通过 Stripe Checkout 购买套餐，iOS 使用 App Store 订阅；网页可用优惠券，iOS 可用优惠代码。
+网页用 Stripe Checkout、iOS 用 App Store 订阅，在哪儿用就在哪儿订，优惠券和优惠代码各自兑换。
 
-![网页与 iOS 套餐](assets/crm-plans-on-web-and-ios.webp)
+![网页、iOS 都能订阅，用熟悉的方式付](assets/crm-plans-on-web-and-ios.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [点踩即可反馈](releases/crm-2026-10-15-feedback-from-thumbs-down.zh-CN.md)
+### [点一下踩，问题直达客服](releases/crm-2026-10-15-feedback-from-thumbs-down.zh-CN.md)
 
 **预览** · 2026-10-15 · `0.1.1.5585`
 
-点踩会打开反馈表单，连同对话一起发送给客服。
+点一下踩就能反馈，报告连同整段对话发给客服，不用截图、不用重述。
 
-![点踩即可反馈](assets/crm-feedback-from-thumbs-down.webp)
+![点一下踩，问题直达客服](assets/crm-feedback-from-thumbs-down.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [看得见过程的深度研究](releases/crm-2026-10-15-deep-research-you-can-follow.zh-CN.md)
+### [深度研究，每一步都看得见](releases/crm-2026-10-15-deep-research-you-can-follow.zh-CN.md)
 
 **预览** · 2026-10-15 · `0.1.1.5585`
 
-深度研究以卡片展示每个研究助手的实时步骤，调研提案以问题卡片形式确认。
+深度研究的每位助手以卡片实时展示步骤，调研提案由你确认，过程看得见、方向你把关。
 
-![看得见过程的深度研究](assets/crm-deep-research-you-can-follow.webp)
+![深度研究，每一步都看得见](assets/crm-deep-research-you-can-follow.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [结构化图表](releases/crm-2026-10-15-structured-diagrams.zh-CN.md)
+### [复杂想法，画成一眼能懂的图](releases/crm-2026-10-15-structured-diagrams.zh-CN.md)
 
 **预览** · 2026-10-15 · `0.1.1.5585`
 
-支持结构化流程图、思维导图、时序图和时间线；手机网页可将图下载为 PNG。
+Mars 能画流程图、思维导图、时序图和时间线，复杂想法一眼看懂；手机网页可下载为 PNG。
 
-![结构化图表](assets/crm-structured-diagrams.webp)
+![复杂想法，画成一眼能懂的图](assets/crm-structured-diagrams.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [写入资料库](releases/crm-2026-10-15-write-files-to-the-library.zh-CN.md)
+### [Mars 的成果，直接存成文件](releases/crm-2026-10-15-write-files-to-the-library.zh-CN.md)
 
 **预览** · 2026-10-15 · `0.1.1.5585`
 
-Mars 可向资料库写入 Markdown、文本和 JSON 文件，支持富文本预览与打印。
+Mars 把成果写成 Markdown、文本和 JSON 文件存进资料库，随时预览或打印，不再散落在对话里。
 
-![写入资料库](assets/crm-write-files-to-the-library.webp)
+![Mars 的成果，直接存成文件](assets/crm-write-files-to-the-library.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [更安全的删除](releases/crm-2026-10-15-safer-deletes.zh-CN.md)
+### [手一滑，目标和技能也不会丢](releases/crm-2026-10-15-safer-deletes.zh-CN.md)
 
 **预览** · 2026-10-15 · `0.1.1.5585`
 
-删除目标或技能前会先确认（网页与 iOS）。
+删除目标或技能前先确认，误触不会再丢东西，网页与 iOS 都适用。
 
-![更安全的删除](assets/crm-safer-deletes.webp)
+![手一滑，目标和技能也不会丢](assets/crm-safer-deletes.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [长按自己的消息](releases/crm-2026-10-15-long-press-your-messages.zh-CN.md)
+### [自己说过的话，长按就能再用](releases/crm-2026-10-15-long-press-your-messages.zh-CN.md)
 
 **预览** · 2026-10-15 · `0.1.1.5585`
 
-长按自己的消息可复制、选择或分享。
+长按自己的消息即可复制、选择或分享，说过的话不用重打。
 
-![长按自己的消息](assets/crm-long-press-your-messages.webp)
+![自己说过的话，长按就能再用](assets/crm-long-press-your-messages.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [只读连接 Gmail](releases/crm-2026-10-13-gmail-read-only.zh-CN.md)
+### [邮件里的答案，Mars 帮你找](releases/crm-2026-10-13-gmail-read-only.zh-CN.md)
 
 **预览** · 2026-10-13 · `0.1.1.5222`
 
-可只读连接 Gmail：Mars 能在对话中搜索和阅读你的邮件。
+以只读方式连接 Gmail，Mars 在对话中帮你搜索和阅读邮件，收件箱原封不动。
 
-### [导入联系人](releases/crm-2026-10-13-import-contacts.zh-CN.md)
-
-**预览** · 2026-10-13 · `0.1.1.5222`
-
-可在「连接平台」导入选定的 Google 或 iPhone 联系人。
-
-![导入联系人](assets/crm-import-contacts.webp)
-
-*示意图，使用虚构演示数据。*
-
-### [实时读取 iPhone 数据](releases/crm-2026-10-13-live-iphone-data.zh-CN.md)
+### [现有联系人，一次带进 Mars](releases/crm-2026-10-13-import-contacts.zh-CN.md)
 
 **预览** · 2026-10-13 · `0.1.1.5222`
 
-在 iOS 应用中，Mars 可按你授权的来源实时读取 iPhone 通讯录、日历、Apple 健康与健身数据。
+从「连接平台」导入你选定的 Google 或 iPhone 联系人，不用一个个重新录入。
 
-![实时读取 iPhone 数据](assets/crm-live-iphone-data.webp)
+![现有联系人，一次带进 Mars](assets/crm-import-contacts.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [手机号与密码登录](releases/crm-2026-10-13-phone-and-password-sign-in.zh-CN.md)
+### [手机上的信息，回答实时用上](releases/crm-2026-10-13-live-iphone-data.zh-CN.md)
 
 **预览** · 2026-10-13 · `0.1.1.5222`
 
-网页支持手机号加密码登录，安全验证会说明原因。
+在 iOS 上，Mars 按你逐项授权实时读取通讯录、日历和 Apple 健康与健身数据，回答用得上手机里的信息。
 
-![手机号与密码登录](assets/crm-phone-and-password-sign-in.webp)
+![手机上的信息，回答实时用上](assets/crm-live-iphone-data.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [iOS 原生图表](releases/crm-2026-10-13-native-charts-on-ios.zh-CN.md)
+### [手机号加密码，登录清清楚楚](releases/crm-2026-10-13-phone-and-password-sign-in.zh-CN.md)
 
 **预览** · 2026-10-13 · `0.1.1.5222`
 
-iOS 原生绘制图表与流程图；选中回答文字可引用或朗读。
+网页支持手机号加密码登录；需要安全验证时说明原因，登录过程清清楚楚。
 
-![iOS 原生图表](assets/crm-native-charts-on-ios.webp)
+![手机号加密码，登录清清楚楚](assets/crm-phone-and-password-sign-in.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [回答不中断](releases/crm-2026-10-13-answers-that-keep-going.zh-CN.md)
+### [iPhone 上的图表，清晰顺手](releases/crm-2026-10-13-native-charts-on-ios.zh-CN.md)
 
 **预览** · 2026-10-13 · `0.1.1.5222`
 
-离开应用后回答继续生成，失败的轮次可重试。
+iOS 上的图表与流程图原生绘制、清晰顺手；选中回答文字即可引用或朗读。
 
-![回答不中断](assets/crm-answers-that-keep-going.webp)
+![iPhone 上的图表，清晰顺手](assets/crm-native-charts-on-ios.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [额度用完也不丢结果](releases/crm-2026-10-13-graceful-credit-limits.zh-CN.md)
+### [切走应用，回答照样写完](releases/crm-2026-10-13-answers-that-keep-going.zh-CN.md)
 
 **预览** · 2026-10-13 · `0.1.1.5222`
 
-额度用完时，当前轮次仍会交付已完成的结果，之后再暂停发送新消息。
+切换到其他应用，回答照样写完；某一轮失败，可在同一对话中重试。
 
-![额度用完也不丢结果](assets/crm-graceful-credit-limits.webp)
+![切走应用，回答照样写完](assets/crm-answers-that-keep-going.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [首次启动即用你的语言](releases/crm-2026-10-13-your-language-from-the-start.zh-CN.md)
+### [额度用完，做好的结果照样交付](releases/crm-2026-10-13-graceful-credit-limits.zh-CN.md)
 
 **预览** · 2026-10-13 · `0.1.1.5222`
 
-首次启动跟随设备语言，不支持时使用英文。
+额度用完时，当前这一轮已完成的结果照样交付，之后才暂停新消息，已投入的不会白费。
 
-![首次启动即用你的语言](assets/crm-your-language-from-the-start.webp)
+![额度用完，做好的结果照样交付](assets/crm-graceful-credit-limits.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [Mars iOS 应用](releases/crm-2026-10-10-mars-for-ios.zh-CN.md)
+### [第一眼，就是你的语言](releases/crm-2026-10-13-your-language-from-the-start.zh-CN.md)
+
+**预览** · 2026-10-13 · `0.1.1.5222`
+
+首次启动就跟随设备语言，打开即可看懂；不支持的语言使用英文。
+
+![第一眼，就是你的语言](assets/crm-your-language-from-the-start.webp)
+
+*示意图，使用虚构演示数据。*
+
+### [Mars 装进 iPhone 和 iPad](releases/crm-2026-10-10-mars-for-ios.zh-CN.md)
 
 **预览** · 2026-10-10 · `0.1.1.4799`
 
-原生 iOS 应用：侧边抽屉、滑动操作、iPad 桌面工作区，输入框支持生成图片与深度研究。
+Mars iOS 应用上线：侧边抽屉、滑动操作、iPad 桌面工作区，生成图片和深度研究随身可用。
 
-![Mars iOS 应用](assets/crm-mars-for-ios.webp)
+![Mars 装进 iPhone 和 iPad](assets/crm-mars-for-ios.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [原生通知](releases/crm-2026-10-10-native-notifications.zh-CN.md)
+### [任务完成，Mars 主动告诉你](releases/crm-2026-10-10-native-notifications.zh-CN.md)
 
 **预览** · 2026-10-10 · `0.1.1.4799`
 
-iOS 原生通知一次授权即可；「任务完成通知」可打开网页与 iOS 的通知设置。
+开启任务完成通知，任务一完成就提醒你；iOS 只需授权一次，网页与 iOS 都能调整。
 
-![原生通知](assets/crm-native-notifications.webp)
+![任务完成，Mars 主动告诉你](assets/crm-native-notifications.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [每周起始日与日期格式](releases/crm-2026-10-10-week-start-and-date-format.zh-CN.md)
+### [日期按你的习惯来](releases/crm-2026-10-10-week-start-and-date-format.zh-CN.md)
 
 **预览** · 2026-10-10 · `0.1.1.4799`
 
-可设置每周第一天和日期格式，网页与 iOS 的事件页按此显示。
+设置每周起始日和日期格式，网页与 iOS 的事件都按你的习惯显示。
 
-![每周起始日与日期格式](assets/crm-week-start-and-date-format.webp)
+![日期按你的习惯来](assets/crm-week-start-and-date-format.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [关系类型](releases/crm-2026-10-10-relationship-types.zh-CN.md)
+### [按类型和阶段，管好每段关系](releases/crm-2026-10-10-relationship-types.zh-CN.md)
 
 **预览** · 2026-10-10 · `0.1.1.4799`
 
-关系类型支持阶段与里程碑，可按类型或阶段筛选关系。
+关系按类型分组，设置各自的阶段与里程碑，按类型或阶段筛选，每段关系走到哪步一目了然。
 
-### [修订 Office 文件](releases/crm-2026-10-10-revised-office-files.zh-CN.md)
-
-**预览** · 2026-10-10 · `0.1.1.4799`
-
-修订后的 Word、Excel、PowerPoint 另存为资料库新文档；Word 修订以修订痕迹呈现，可接受或拒绝。
-
-![修订 Office 文件](assets/crm-revised-office-files.webp)
-
-*示意图，使用虚构演示数据。*
-
-### [外观设置](releases/crm-2026-10-10-appearance-settings.zh-CN.md)
+### [改过的文件，每一版都留得住](releases/crm-2026-10-10-revised-office-files.zh-CN.md)
 
 **预览** · 2026-10-10 · `0.1.1.4799`
 
-外观设置页提供跟随系统、浅色、深色；语言设置独立成页。
+修订后的 Word、Excel、PowerPoint 另存为新文档，原版不被覆盖；Word 修改以修订痕迹呈现，先审后收。
 
-![外观设置](assets/crm-appearance-settings.webp)
+![改过的文件，每一版都留得住](assets/crm-revised-office-files.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [压缩包预览](releases/crm-2026-10-10-archive-previews.zh-CN.md)
+### [浅色、深色，随你选](releases/crm-2026-10-10-appearance-settings.zh-CN.md)
 
 **预览** · 2026-10-10 · `0.1.1.4799`
 
-RAR 与 ZIP 文件预览可列出压缩包内容。
+「外观」页可选跟随系统、浅色或深色，Mars 跟着你的习惯来；语言设置单独成页。
 
-![压缩包预览](assets/crm-archive-previews.webp)
-
-*示意图，使用虚构演示数据。*
-
-### [时区设置](releases/crm-2026-10-07-time-zone-setting.zh-CN.md)
-
-**预览** · 2026-10-07 · `0.1.1.4285`
-
-时区设置：跟随设备或选择城市，对话、提醒、事件与用量记录都按此时区显示。
-
-![时区设置](assets/crm-time-zone-setting.webp)
+![浅色、深色，随你选](assets/crm-appearance-settings.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [通知设置页](releases/crm-2026-10-07-notifications-page.zh-CN.md)
+### [压缩包里有什么，不解压就知道](releases/crm-2026-10-10-archive-previews.zh-CN.md)
 
-**预览** · 2026-10-07 · `0.1.1.4285`
+**预览** · 2026-10-10 · `0.1.1.4799`
 
-通知设置页：浏览器推送、回答完成通知与日程提醒。
+预览 RAR 和 ZIP 文件即可列出包内文件，不用下载解压就知道里面有什么。
 
-![通知设置页](assets/crm-notifications-page.webp)
-
-*示意图，使用虚构演示数据。*
-
-### [重复事件](releases/crm-2026-10-07-repeating-events.zh-CN.md)
-
-**预览** · 2026-10-07 · `0.1.1.4285`
-
-重复事件与提醒：可设提前量、重复规则、星期、时间与结束日期，并支持自定义重复。
-
-![重复事件](assets/crm-repeating-events.webp)
+![压缩包里有什么，不解压就知道](assets/crm-archive-previews.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [字体大小](releases/crm-2026-10-07-text-size.zh-CN.md)
+### [人在哪里，时间就对到哪里](releases/crm-2026-10-07-time-zone-setting.zh-CN.md)
 
 **预览** · 2026-10-07 · `0.1.1.4285`
 
-字体大小设置，可缩放对话、联系人页、记忆、事件、资料库与设置页的文字。
+时区可跟随设备或选择城市，对话、提醒、事件与用量记录都按你所在地显示，不用换算时差。
 
-![字体大小](assets/crm-text-size.webp)
+![人在哪里，时间就对到哪里](assets/crm-time-zone-setting.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [取消分享与更广的搜索](releases/crm-2026-10-07-stop-sharing-and-wider-search.zh-CN.md)
+### [不开着 Mars，也不错过消息](releases/crm-2026-10-07-notifications-page.zh-CN.md)
 
 **预览** · 2026-10-07 · `0.1.1.4285`
 
-分享链接可「取消分享」撤回；工作区搜索覆盖对话正文。
+设置中的「通知」页集中管理浏览器推送、回答完成提醒和日程提醒，不开着 Mars 也不错过。
 
-![取消分享与更广的搜索](assets/crm-stop-sharing-and-wider-search.webp)
+![不开着 Mars，也不错过消息](assets/crm-notifications-page.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [联系人之间的关系](releases/crm-2026-10-07-relationships-between-contacts.zh-CN.md)
+### [周期安排，设一次就够](releases/crm-2026-10-07-repeating-events.zh-CN.md)
 
 **预览** · 2026-10-07 · `0.1.1.4285`
 
-可记录两位联系人之间的关系，包含独立的类型与摘要。
+事件和提醒可按提前量、重复规则、星期、时间和结束日期自动重复，周期安排设一次就够。
 
-### [用量记录](releases/crm-2026-10-07-usage-records.zh-CN.md)
-
-**预览** · 2026-10-07 · `0.1.1.4285`
-
-用量记录：按日/周/月查看，显示最忙与最闲时段、退款，并可按调用类型排序和筛选。
-
-![用量记录](assets/crm-usage-records.webp)
+![周期安排，设一次就够](assets/crm-repeating-events.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [事件状态](releases/crm-2026-10-07-event-status.zh-CN.md)
+### [字号随你调，长对话读得舒服](releases/crm-2026-10-07-text-size.zh-CN.md)
 
 **预览** · 2026-10-07 · `0.1.1.4285`
 
-事件状态分为计划中、已发生、已取消；可滑动或右键完成、编辑、删除事件。
+一个字体大小设置，统一缩放对话、联系人、记忆、事件、资料库和设置页，长对话读得更舒服。
 
-![事件状态](assets/crm-event-status.webp)
+![字号随你调，长对话读得舒服](assets/crm-text-size.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [个人记忆按组归整](releases/crm-2026-09-30-grouped-personal-memory.zh-CN.md)
+### [分享随时收回，旧回答一搜就到](releases/crm-2026-10-07-stop-sharing-and-wider-search.zh-CN.md)
+
+**预览** · 2026-10-07 · `0.1.1.4285`
+
+分享链接可随时「取消分享」收回；工作区搜索覆盖对话正文，凭一句原话就能找回旧回答。
+
+![分享随时收回，旧回答一搜就到](assets/crm-stop-sharing-and-wider-search.webp)
+
+*示意图，使用虚构演示数据。*
+
+### [谁和谁认识，Mars 帮你记着](releases/crm-2026-10-07-relationships-between-contacts.zh-CN.md)
+
+**预览** · 2026-10-07 · `0.1.1.4285`
+
+记录两位联系人之间的关系，各有类型与摘要，谁和谁认识清清楚楚。
+
+### [用量高峰和退款，一页看清](releases/crm-2026-10-07-usage-records.zh-CN.md)
+
+**预览** · 2026-10-07 · `0.1.1.4285`
+
+用量记录支持日、周、月视图，标出高峰与低谷时段和退款，可按调用类型筛选，花在哪里一页看清。
+
+![用量高峰和退款，一页看清](assets/crm-usage-records.webp)
+
+*示意图，使用虚构演示数据。*
+
+### [日历记下真正发生的事](releases/crm-2026-10-07-event-status.zh-CN.md)
+
+**预览** · 2026-10-07 · `0.1.1.4285`
+
+事件可标记为计划中、已发生或已取消，日历记下真正发生的事；滑动或右键即可完成、编辑、删除。
+
+![日历记下真正发生的事](assets/crm-event-status.webp)
+
+*示意图，使用虚构演示数据。*
+
+### [关于你的信息，一个主题一张卡](releases/crm-2026-09-30-grouped-personal-memory.zh-CN.md)
 
 **预览** · 2026-09-30 · `0.1.1.3581`
 
-个人记忆把资料按同名分组归在一起，相关信息不再分散。
+个人记忆按主题合并成一张张卡片，空字段不再占行，关于你的信息一处看全。
 
-![个人记忆按组归整](assets/crm-grouped-personal-memory.webp)
+![关于你的信息，一个主题一张卡](assets/crm-grouped-personal-memory.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [已了解的信息与来源](releases/crm-2026-09-28-what-mars-learned-with-sources.zh-CN.md)
+### [每条信息，都能回到出处核对](releases/crm-2026-09-28-what-mars-learned-with-sources.zh-CN.md)
 
 **预览** · 2026-09-28 · `0.1.1.3543`
 
-联系人页面展示 Mars 从对话中了解到的信息，并附上每条的来源。
+联系人页面列出 Mars 了解到的信息，每条附原话和来源链接，自动识别的由你确认，有据可查。
 
-![已了解的信息与来源](assets/crm-what-mars-learned-with-sources.webp)
+![每条信息，都能回到出处核对](assets/crm-what-mars-learned-with-sources.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [日视图旁看整月日程](releases/crm-2026-09-23-month-events-beside-the-day.zh-CN.md)
+### [看一天的同时，整月尽收眼底](releases/crm-2026-09-23-month-events-beside-the-day.zh-CN.md)
 
 **预览** · 2026-09-23 · `0.1.1.3475`
 
-日程的日视图旁会列出整月日程，小日历也会标出有日程的日期。
+日视图旁列出整月日程，小日历用圆点标出有日程的日子，哪天忙一目了然。
 
-![日视图旁看整月日程](assets/crm-month-events-beside-the-day.webp)
+![看一天的同时，整月尽收眼底](assets/crm-month-events-beside-the-day.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [连续阅读 PDF](releases/crm-2026-09-12-continuous-pdf-reading.zh-CN.md)
+### [PDF 一路往下滚，像读长文一样](releases/crm-2026-09-12-continuous-pdf-reading.zh-CN.md)
 
 **预览** · 2026-09-12 · `0.1.1.3383`
 
-资料库里的 PDF 可以连续滚动阅读，并用页面缩略图跳转；文件也会显示首页缩略图。
+资料库里的 PDF 一路往下滚着读，缩略图一点就跳页；文件都以首页作缩略图，一眼认出。
 
-![连续阅读 PDF](assets/crm-continuous-pdf-reading.webp)
+![PDF 一路往下滚，像读长文一样](assets/crm-continuous-pdf-reading.webp)
 
 *示意图，使用虚构演示数据。*
 
-### [更清楚的订阅页](releases/crm-2026-09-04-a-clearer-plans-page.zh-CN.md)
+### [方案并排比，买前看清楚](releases/crm-2026-09-04-a-clearer-plans-page.zh-CN.md)
 
 **预览** · 2026-09-04 · `0.1.1.3352`
 
-新的订阅页可以并排比较权益，从三个方案中选择，并通过固定在底部的购买栏下单。
+新的订阅页三个方案并排比较，权益一点就看全，购买栏固定在底部，付款前就清楚能得到什么。
 
-![更清楚的订阅页](assets/crm-a-clearer-plans-page.webp)
+![方案并排比，买前看清楚](assets/crm-a-clearer-plans-page.webp)
 
 *示意图，使用虚构演示数据。*
 

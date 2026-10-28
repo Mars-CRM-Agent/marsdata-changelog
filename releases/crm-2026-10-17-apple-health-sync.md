@@ -1,15 +1,15 @@
-# Apple Health sync
+# Apple Health summaries, everywhere
 
 > **Preview** · 2026-10-17 · `0.1.1.5950`
 > These features are available in the preview version and have not been generally released.
 
-Share your Apple Health daily summaries with Mars from iOS.
+Your health data shouldn't be stuck on your phone.
 
-Mars syncs your Apple Health daily summaries from iOS. The web and your other devices can then read them.
+Mars syncs your Apple Health daily summaries from iOS, and the web and your other devices can then read them. Ask about your health from your computer without picking up your phone.
 
 Your health summaries follow you to every device where you use Mars.
 
-![Apple Health sync — iPhone](../assets/crm-apple-health-sync.webp)
+![Apple Health summaries, everywhere — iPhone](../assets/crm-apple-health-sync.webp)
 
 *Illustration using fictional demo data. Screenshot interface: Simplified Chinese.*
 

@@ -1,15 +1,15 @@
-# Archive previews
+# See inside a RAR or ZIP, no unpacking
 
 > **Preview** · 2026-10-10 · `0.1.1.4799`
 > These features are available in the preview version and have not been generally released.
 
-Preview a RAR or ZIP file and see the files it contains.
+You shouldn't have to unpack an archive just to see what's in it.
 
-Open a RAR or ZIP file and the preview lists the files inside the archive.
+Open a RAR or ZIP file and the preview lists the files inside. No download, no unpacking: see what is there before you decide.
 
-You can check an archive's contents quickly in Mars.
+Check an archive's contents quickly, right in Mars.
 
-![Archive previews — Desktop](../assets/crm-archive-previews.en.webp)
+![See inside a RAR or ZIP, no unpacking — Desktop](../assets/crm-archive-previews.en.webp)
 
 *Illustration using fictional demo data.*
 

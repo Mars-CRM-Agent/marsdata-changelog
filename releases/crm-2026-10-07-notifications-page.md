@@ -1,15 +1,15 @@
-# Notifications page
+# Hear about answers and events in time
 
 > **Preview** · 2026-10-07 · `0.1.1.4285`
 > These features are available in the preview version and have not been generally released.
 
-Choose how Mars reaches you, from browser alerts to event reminders.
+Keeping a tab open just to catch an answer is no way to work.
 
-The Notifications page in Settings holds three options: browser push, an alert when an answer finishes, and event reminders.
+The Notifications page in Settings brings together three options: browser push, an alert when an answer finishes, and event reminders. Turn on what you need, and Mars reaches you when it matters.
 
-You hear about finished answers and upcoming events without keeping Mars open.
+Hear about finished answers and upcoming events without keeping Mars open.
 
-![Notifications page — Desktop](../assets/crm-notifications-page.en.webp)
+![Hear about answers and events in time — Desktop](../assets/crm-notifications-page.en.webp)
 
 *Illustration using fictional demo data.*
 

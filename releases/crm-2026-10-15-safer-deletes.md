@@ -1,15 +1,15 @@
-# Safer deletes
+# A slip won't cost you a goal or skill
 
 > **Preview** · 2026-10-15 · `0.1.1.5585`
 > These features are available in the preview version and have not been generally released.
 
-Deleting a goal or skill now asks you to confirm first.
+Goals and skills take effort to set up. One stray tap shouldn't erase them.
 
-Choose delete on a goal or skill and Mars shows a confirmation before anything is removed. This applies on both web and iOS.
+Choose delete on a goal or skill and Mars asks you to confirm before anything is removed, on both the web and iOS.
 
 An accidental tap no longer removes your goals or skills.
 
-![Safer deletes — Desktop](../assets/crm-safer-deletes.en.webp)
+![A slip won't cost you a goal or skill — Desktop](../assets/crm-safer-deletes.en.webp)
 
 *Illustration using fictional demo data.*
 

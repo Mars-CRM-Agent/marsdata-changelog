@@ -1,15 +1,15 @@
-# Real titles on cited links
+# Know every source before you click
 
 > **Preview** · 2026-10-19 · `0.1.1.6479`
 > These features are available in the preview version and have not been generally released.
 
-Know what a source is before you open it.
+A row of bare links means clicking each one to find out what it is.
 
-When Mars searches the web and reads pages, each link it cites carries the real title of that page, on the web and in the iOS app. Pages that only show a security check are left out instead of being quoted.
+When Mars searches the web and reads pages, each link it cites carries the real title of that page, on the web and in the iOS app; pages that only show a security check are left out instead of being quoted. No guessing what a link holds, and no time lost on a verification screen.
 
-You can judge each source at a glance.
+Judge each source at a glance and open only the ones worth reading.
 
-![Real titles on cited links — Desktop](../assets/crm-cited-link-titles.en.webp)
+![Know every source before you click — Desktop](../assets/crm-cited-link-titles.en.webp)
 
 *Illustration using fictional demo data.*
 

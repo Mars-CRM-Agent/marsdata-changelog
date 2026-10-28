@@ -1,15 +1,15 @@
-# Plans on web and iOS
+# Subscribe the way you already pay
 
 > **Preview** · 2026-10-15 · `0.1.1.5585`
 > These features are available in the preview version and have not been generally released.
 
-Subscribe on the web with Stripe Checkout or on iOS with the App Store.
+Subscribe right where you use Mars.
 
-On the web, plans are sold through Stripe Checkout, and coupons redeem there. On iOS, plans are App Store subscriptions, and offer codes redeem there.
+On the web, plans are sold through Stripe Checkout, where coupons redeem too. On iOS, plans are App Store subscriptions, where offer codes redeem. No switching devices: pay the way you are used to.
 
-Each platform uses its own checkout, so you pay the way your device supports.
+Each platform has its own checkout, so you pay the way your device supports.
 
-![Plans on web and iOS — Desktop](../assets/crm-plans-on-web-and-ios.en.webp)
+![Subscribe the way you already pay — Desktop](../assets/crm-plans-on-web-and-ios.en.webp)
 
 *Illustration using fictional demo data.*
 

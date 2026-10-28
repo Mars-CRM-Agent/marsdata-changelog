@@ -1,13 +1,13 @@
-# Relationship types
+# Every relationship, by type and stage
 
 > **Preview** · 2026-10-10 · `0.1.1.4799`
 > These features are available in the preview version and have not been generally released.
 
-Group relationships by type, track stages and milestones, and filter the list by type or stage.
+Clients, investors and friends in one list, with progress kept in your head?
 
-Each relationship type can have its own stages and milestones. Use the type or stage filter to narrow the list to the people you need.
+Group relationships by type, each with its own stages and milestones, and filter by type or stage to narrow the list to the people you need. Not one jumbled list: every relationship shows how far it has come.
 
-You see where each relationship stands at a glance.
+See where each relationship stands at a glance.
 
 [Explore the preview](https://canary.marsdata.ai/changelog/relationship-types) · [All updates](../README.md)
 

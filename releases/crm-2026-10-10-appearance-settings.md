@@ -1,15 +1,15 @@
-# Appearance settings
+# Light, dark or automatic: your call
 
 > **Preview** · 2026-10-10 · `0.1.1.4799`
 > These features are available in the preview version and have not been generally released.
 
-Choose Follow system, Light or Dark for Mars on its own Appearance page.
+Bright by day, dark by night: Mars follows your preference.
 
-Open Settings and select Appearance. Pick Follow system, Light or Dark. Language has its own page, so you can change it separately.
+In Settings, the Appearance page lets you choose Follow system, Light or Dark for Mars, and Language has its own page so you can change it separately. No settling for the default look.
 
 Mars matches your device or the look you prefer.
 
-![Appearance settings — Desktop](../assets/crm-appearance-settings.en.webp)
+![Light, dark or automatic: your call — Desktop](../assets/crm-appearance-settings.en.webp)
 
 *Illustration using fictional demo data.*
 

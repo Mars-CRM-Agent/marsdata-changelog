@@ -1,15 +1,15 @@
-# A clearer plans page
+# Compare plans, then buy with confidence
 
 > **Preview** · 2026-09-04 · `0.1.1.3352`
 > These features are available in the preview version and have not been generally released.
 
-Choose a plan on one page that shows what each plan includes.
+Choosing a plan shouldn't feel like guesswork.
 
-Three plan cards sit side by side, and a full benefits comparison is one tap away. The purchase bar stays pinned at the bottom and follows the plan you selected. After you buy, the page shows your receipt.
+Three plan cards sit side by side, and a full benefits comparison is one tap away. The purchase bar stays pinned at the bottom and follows the plan you select, and after you buy, the page shows your receipt. No flipping between pages: every benefit is right in front of you.
 
-Know what you get before you pay.
+Know exactly what you get before you pay.
 
-![A clearer plans page — Desktop](../assets/crm-a-clearer-plans-page.en.webp)
+![Compare plans, then buy with confidence — Desktop](../assets/crm-a-clearer-plans-page.en.webp)
 
 *Illustration using fictional demo data.*
 

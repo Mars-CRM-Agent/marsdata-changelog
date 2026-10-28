@@ -1,15 +1,15 @@
-# What Mars learned, with sources
+# Every fact Mars learned, with its source
 
 > **Preview** · 2026-09-28 · `0.1.1.3543`
 > These features are available in the preview version and have not been generally released.
 
-Every contact page now shows what Mars has learned about that person, and where it came from.
+Mars remembers something about a person. Where did it come from?
 
-Facts and relationship signals appear by topic, newest first, each with its quote and a link to the message or file it came from. Details Mars picked up on its own wait for you to accept or edit them.
+Every contact page now shows what Mars has learned: facts and relationship signals by topic, newest first, each with its quote and a link to the message or file it came from. Details Mars picked up on its own wait for you to accept or edit them. No mystery conclusions: every fact is sourced and you have the final say.
 
-You can check any fact against the conversation it came from.
+Check any fact against the conversation it came from, and use it with confidence.
 
-![What Mars learned, with sources — Desktop](../assets/crm-what-mars-learned-with-sources.en.webp)
+![Every fact Mars learned, with its source — Desktop](../assets/crm-what-mars-learned-with-sources.en.webp)
 
 *Illustration using fictional demo data.*
 

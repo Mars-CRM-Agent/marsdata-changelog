@@ -1,15 +1,15 @@
-# Latest activity on every relationship
+# Know who to reach today
 
 > **Preview** · 2026-10-17 · `0.1.1.5950`
 > These features are available in the preview version and have not been generally released.
 
-See what is happening with each person straight from the relationship list.
+The more people you know, the easier it is to let someone slip.
 
-Each row now shows the most relevant recent activity: a reminder that is due soon, a recent event or insight, or your latest conversation about that person. The time beside it is your newest interaction, so it matches the order of the list.
+Each row in Relationships now shows the most relevant recent activity: a reminder that is due soon, a recent event or insight, or your latest conversation about that person. The time beside it is your newest interaction, matching the order of the list. No opening records one by one: each row tells you where things stand.
 
-You know who needs attention without opening each person.
+Scan your whole network at a glance and see who to follow up with first.
 
-![Latest activity on every relationship — Desktop](../assets/crm-relationship-activity-lines.en.webp)
+![Know who to reach today — Desktop](../assets/crm-relationship-activity-lines.en.webp)
 
 *Illustration using fictional demo data.*
 

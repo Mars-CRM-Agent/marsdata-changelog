@@ -1,15 +1,15 @@
-# Long recordings
+# 2 GB recordings, every moment findable
 
 > **Preview** · 2026-10-19 · `0.1.1.6479`
 > These features are available in the preview version and have not been generally released.
 
-Ask about a full meeting recording, not just its first minutes.
+A full meeting recording should be as easy to search as a short clip.
 
-Audio and video sent in a conversation can now be up to 2 GB instead of 15 MB. Recordings longer than 20 minutes are transcribed in parts and joined back together, so Mars can tell you when something was said anywhere in the recording.
+Audio and video sent in a conversation can now be up to 2 GB instead of 15 MB. Recordings longer than 20 minutes are transcribed in parts and joined back together, so Mars can tell you what was said anywhere in the recording, and when. No trimming before you upload, no scrubbing through the timeline.
 
-Long meetings get the same precise answers as short clips.
+A whole meeting gets the same precise answers as a short clip.
 
-![Long recordings — Desktop](../assets/crm-long-recordings.en.webp)
+![2 GB recordings, every moment findable — Desktop](../assets/crm-long-recordings.en.webp)
 
 *Illustration using fictional demo data.*
 

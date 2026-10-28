@@ -1,15 +1,15 @@
-# Text size
+# Your text size, comfortable reading
 
 > **Preview** · 2026-10-07 · `0.1.1.4285`
 > These features are available in the preview version and have not been generally released.
 
-Make conversations, contacts, memory and events easier to read.
+Small text and long reads are a tiring mix.
 
-The text size setting scales the words in conversations, contact pages, memory, events, the Library and Settings. Change the size once and these pages scale to match.
+The text size setting scales the words in conversations, contact pages, memory, events, the Library and Settings. Change it once and every one of those pages follows, with no page-by-page fiddling.
 
-Reading long chats and dense pages gets comfortable at your preferred size.
+Long chats and dense pages read comfortably at the size that suits you.
 
-![Text size — Desktop](../assets/crm-text-size.en.webp)
+![Your text size, comfortable reading — Desktop](../assets/crm-text-size.en.webp)
 
 *Illustration using fictional demo data.*
 

@@ -1,15 +1,15 @@
-# Import contacts
+# Bring the contacts you already have
 
 > **Preview** · 2026-10-13 · `0.1.1.5222`
 > These features are available in the preview version and have not been generally released.
 
-Import the Google or iPhone contacts you pick from Connected Platforms.
+Your contacts already exist. Why type them in again?
 
-Open Connected Platforms and select the Google or iPhone contacts you want. Only the contacts you select are imported into Mars.
+Open Connected Platforms and select the Google or iPhone contacts you want. Only the contacts you select come into Mars. No retyping, and no dumping your whole address book in.
 
-Your existing contacts reach Mars without retyping each person.
+Your existing contacts reach Mars in one go, and you decide exactly who.
 
-![Import contacts — Desktop](../assets/crm-import-contacts.en.webp)
+![Bring the contacts you already have — Desktop](../assets/crm-import-contacts.en.webp)
 
 *Illustration using fictional demo data.*
 

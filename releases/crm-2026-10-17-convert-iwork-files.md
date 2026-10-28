@@ -1,15 +1,15 @@
-# Edit Keynote, Pages and Numbers files
+# Apple files? Mars still makes the edit
 
 > **Preview** · 2026-10-17 · `0.1.1.5950`
 > These features are available in the preview version and have not been generally released.
 
-Ask Mars to change a Keynote, Pages, or Numbers file.
+An Apple-format file shouldn't stop Mars from making your edit.
 
-Mars cannot edit these files directly, so it first asks whether to convert the file to PowerPoint, Word, or Excel. Once you agree, it saves a converted copy to your Library and makes the change you asked for on that copy. Your original file stays as it was.
+Ask Mars to change a Keynote, Pages or Numbers file and it first asks whether to convert it to PowerPoint, Word or Excel. Once you agree, it saves a converted copy to your Library and makes the change on that copy, leaving your original as it was. No converter to hunt for, and no risk to the original.
 
-You can hand Mars an Apple file and still get the edit done.
+Hand Mars an Apple file and get the edit done, with your original untouched.
 
-![Edit Keynote, Pages and Numbers files — Desktop](../assets/crm-convert-iwork-files.en.webp)
+![Apple files? Mars still makes the edit — Desktop](../assets/crm-convert-iwork-files.en.webp)
 
 *Illustration using fictional demo data.*
 

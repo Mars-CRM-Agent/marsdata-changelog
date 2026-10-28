@@ -1,15 +1,15 @@
-# Answers that keep going
+# Switch apps. Your answer keeps going.
 
 > **Preview** · 2026-10-13 · `0.1.1.5222`
 > These features are available in the preview version and have not been generally released.
 
-Answers keep generating after you leave the app, so nothing stops mid-reply.
+You shouldn't have to stare at the screen while a long answer finishes.
 
-Mars keeps writing an answer after you switch away from the app. If a turn fails, you can retry it from the same conversation.
+Mars keeps writing an answer after you switch to another app, so nothing stops mid-reply. If a turn does fail, retry it right in the same conversation. No waiting on screen, no asking again from scratch.
 
-You do not lose a long answer just because you left the app.
+Leave the app freely and come back to the full answer.
 
-![Answers that keep going — Desktop](../assets/crm-answers-that-keep-going.en.webp)
+![Switch apps. Your answer keeps going. — Desktop](../assets/crm-answers-that-keep-going.en.webp)
 
 *Illustration using fictional demo data.*
 

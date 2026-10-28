@@ -1,15 +1,15 @@
-# Picture grids and gallery
+# A batch of pictures, one tidy message
 
 > **Preview** · 2026-10-18 · `0.1.1.6118`
 > These features are available in the preview version and have not been generally released.
 
-Send several pictures at once and keep the conversation tidy.
+Sending a batch of screenshots shouldn't flood the conversation.
 
-Two or more pictures sent together appear as one grid above your question, on the web and on iOS. Tap any tile, including the +N tile, to open a gallery with every picture from that message and a row of thumbnails underneath.
+Two or more pictures sent together appear as one grid above your question, on the web and on iOS. Tap any tile, including the +N tile, to open a gallery with every picture from that message and a row of thumbnails underneath. No more picture-by-picture scroll, and no hunting up and down the conversation to see them again.
 
-A batch of screenshots reads as one message and is easy to browse.
+A batch of screenshots stays one message, tidy to send and easy to browse.
 
-![Picture grids and gallery — Desktop](../assets/crm-picture-grids-and-gallery.en.webp)
+![A batch of pictures, one tidy message — Desktop](../assets/crm-picture-grids-and-gallery.en.webp)
 
 *Illustration using fictional demo data.*
 

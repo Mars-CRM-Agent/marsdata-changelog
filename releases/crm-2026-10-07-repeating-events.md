@@ -1,15 +1,15 @@
-# Repeating events
+# Set a routine once, and it repeats
 
 > **Preview** · 2026-10-07 · `0.1.1.4285`
 > These features are available in the preview version and have not been generally released.
 
-Set events and reminders that repeat on your schedule.
+Weekly meetings and monthly reviews shouldn't need re-entering every time.
 
-Choose an offset, a repeat rule, weekdays, a time and an end date. Pick Custom repeat for a rule the presets do not cover.
+Give events and reminders an offset, a repeat rule, weekdays, a time and an end date, and pick Custom repeat for anything the presets do not cover. Set it once, and it repeats on your schedule.
 
 Recurring routines are set once, not re-entered every week.
 
-![Repeating events — Desktop](../assets/crm-repeating-events.en.webp)
+![Set a routine once, and it repeats — Desktop](../assets/crm-repeating-events.en.webp)
 
 *Illustration using fictional demo data.*
 

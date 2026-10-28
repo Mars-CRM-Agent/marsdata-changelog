@@ -1,15 +1,15 @@
-# Long-press your messages
+# Reuse your own words with one long-press
 
 > **Preview** · 2026-10-15 · `0.1.1.5585`
 > These features are available in the preview version and have not been generally released.
 
-Long-press your own message to copy, select or share it.
+Something you wrote earlier shouldn't need retyping.
 
-Press and hold a message you wrote to open its options. Copy the whole message, select part of it, or share it.
+Press and hold a message you wrote to open its options: copy the whole message, select part of it, or share it. No retyping, no fiddly selection.
 
-Reusing your own words takes one press instead of retyping.
+Reusing your own words takes one press, not a rewrite.
 
-![Long-press your messages — Desktop](../assets/crm-long-press-your-messages.en.webp)
+![Reuse your own words with one long-press — Desktop](../assets/crm-long-press-your-messages.en.webp)
 
 *Illustration using fictional demo data.*
 

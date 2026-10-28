@@ -1,15 +1,15 @@
-# Event status
+# A calendar of what really happened
 
 > **Preview** · 2026-10-07 · `0.1.1.4285`
 > These features are available in the preview version and have not been generally released.
 
-Mark each event as Planned, Happened or Cancelled, and keep your calendar accurate.
+Plans change. Your calendar should keep up.
 
-Events now have one of three statuses: Planned, Happened or Cancelled. Swipe or right-click an event to complete, edit or delete it.
+Mark each event as Planned, Happened or Cancelled, and swipe or right-click it to complete, edit or delete it. Not just a list of plans: a record you can trust when you look back.
 
 Your calendar shows what really happened, not only what was scheduled.
 
-![Event status — Desktop](../assets/crm-event-status.en.webp)
+![A calendar of what really happened — Desktop](../assets/crm-event-status.en.webp)
 
 *Illustration using fictional demo data.*
 

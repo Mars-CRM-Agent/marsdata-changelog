@@ -1,15 +1,15 @@
-# Conversation status at a glance
+# See which conversation needs you
 
 > **Preview** · 2026-10-17 · `0.1.1.5950`
 > These features are available in the preview version and have not been generally released.
 
-Tell at a glance which recent conversations are running or unread.
+Several conversations running at once shouldn't mean opening each to check.
 
-Recent conversations show a running progress ring, an unread dot and a completion pop when a run finishes.
+Recent conversations show a progress ring while running, an unread dot when there is something new, and a completion pop when a run finishes. No babysitting, no opening each one to check.
 
-See which conversation needs you without opening each one.
+Know which conversation needs you without opening a single one.
 
-![Conversation status at a glance — Desktop](../assets/crm-conversation-status-at-a-glance.en.webp)
+![See which conversation needs you — Desktop](../assets/crm-conversation-status-at-a-glance.en.webp)
 
 *Illustration using fictional demo data.*
 

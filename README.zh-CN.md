@@ -7,76 +7,76 @@
 
 ## 预览版更新
 
-![从回答直接打开设置](assets/crm-open-settings-from-an-answer.webp)
+![问一句，直达那页设置](assets/crm-open-settings-from-an-answer.webp)
 
 *示意图，使用虚构演示数据。*
 
-- **2026-10-27** · [从回答直接打开设置](releases/crm-2026-10-27-open-settings-from-an-answer.zh-CN.md) · 预览 · `0.1.1.8292`
-- **2026-10-26** · [Mars Mac 原生应用](releases/crm-2026-10-26-mars-for-mac.zh-CN.md) · 预览 · `0.1.1.8385`
-- **2026-10-26** · [一键打开社交账号](releases/crm-2026-10-26-open-social-accounts-in-one-tap.zh-CN.md) · 预览 · `0.1.1.8385`
-- **2026-10-25** · [回答中随时补充](releases/crm-2026-10-25-add-to-a-running-answer.zh-CN.md) · 预览 · `0.1.1.8208`
-- **2026-10-25** · [从最新招聘查职位薪资](releases/crm-2026-10-25-what-a-role-pays.zh-CN.md) · 预览 · `0.1.1.8208`
-- **2026-10-24** · [iPhone 和 Mac 桌面小组件](releases/crm-2026-10-24-mars-widgets-on-iphone.zh-CN.md) · 预览 · `0.1.1.7959`
-- **2026-10-24** · [Mars 制作演示文稿和文档](releases/crm-2026-10-24-mars-makes-decks-and-documents.zh-CN.md) · 预览 · `0.1.1.7959`
-- **2026-10-23** · [不登录读取网页](releases/crm-2026-10-23-read-pages-without-your-login.zh-CN.md) · 预览 · `0.1.1.7618`
-- **2026-10-23** · [按价值排序](releases/crm-2026-10-23-sort-by-value.zh-CN.md) · 预览 · `0.1.1.7618`
-- **2026-10-22** · [Mars 看懂社交媒体视频](releases/crm-2026-10-22-mars-watches-social-videos.zh-CN.md) · 预览 · `0.1.1.7433`
-- **2026-10-22** · [带密码的分享链接](releases/crm-2026-10-22-share-links-with-a-password.zh-CN.md) · 预览 · `0.1.1.7433`
-- **2026-10-21** · [在地图上规划行程](releases/crm-2026-10-21-plan-trips-on-a-map.zh-CN.md) · 预览 · `0.1.1.6886`
-- **2026-10-20** · [更快、自适应的图表](releases/crm-2026-10-20-faster-adaptive-diagrams.zh-CN.md) · 预览 · `0.1.1.6573`
-- **2026-10-19** · [引用链接显示真实标题](releases/crm-2026-10-19-cited-link-titles.zh-CN.md) · 预览 · `0.1.1.6479`
-- **2026-10-19** · [长录音与大文件](releases/crm-2026-10-19-long-recordings.zh-CN.md) · 预览 · `0.1.1.6479`
-- **2026-10-18** · [图片网格与图库](releases/crm-2026-10-18-picture-grids-and-gallery.zh-CN.md) · 预览 · `0.1.1.6118`
-- **2026-10-17** · [用 Apple 登录](releases/crm-2026-10-17-sign-in-with-apple.zh-CN.md) · 预览 · `0.1.1.5950`
-- **2026-10-17** · [Apple 健康同步](releases/crm-2026-10-17-apple-health-sync.zh-CN.md) · 预览 · `0.1.1.5950`
-- **2026-10-17** · [更完整的健康问答](releases/crm-2026-10-17-richer-health-answers.zh-CN.md) · 预览 · `0.1.1.5950`
-- **2026-10-17** · [提问面板](releases/crm-2026-10-17-question-panel.zh-CN.md) · 预览 · `0.1.1.5950`
-- **2026-10-17** · [聊天内查找与新回答菜单](releases/crm-2026-10-17-find-in-chat-and-a-new-answer-menu.zh-CN.md) · 预览 · `0.1.1.5950`
-- **2026-10-17** · [到点开启对话的提醒](releases/crm-2026-10-17-reminders-that-start-a-conversation.zh-CN.md) · 预览 · `0.1.1.5950`
-- **2026-10-17** · [实时绘制的图表](releases/crm-2026-10-17-live-charts-and-diagrams.zh-CN.md) · 预览 · `0.1.1.5950`
-- **2026-10-17** · [iWork 与 WPS 预览](releases/crm-2026-10-17-iwork-and-wps-previews.zh-CN.md) · 预览 · `0.1.1.5950`
-- **2026-10-17** · [对话状态一目了然](releases/crm-2026-10-17-conversation-status-at-a-glance.zh-CN.md) · 预览 · `0.1.1.5950`
-- **2026-10-17** · [微信日程提醒](releases/crm-2026-10-17-wechat-event-reminders.zh-CN.md) · 预览 · `0.1.1.5950`
-- **2026-10-17** · [关系列表显示最新动态](releases/crm-2026-10-17-relationship-activity-lines.zh-CN.md) · 预览 · `0.1.1.5950`
-- **2026-10-17** · [更清晰的信息分组](releases/crm-2026-10-17-clearer-information-groups.zh-CN.md) · 预览 · `0.1.1.5950`
-- **2026-10-17** · [编辑 Keynote、Pages 和 Numbers 文件](releases/crm-2026-10-17-convert-iwork-files.zh-CN.md) · 预览 · `0.1.1.5950`
-- **2026-10-15** · [隐私锁](releases/crm-2026-10-15-privacy-lock.zh-CN.md) · 预览 · `0.1.1.5585`
-- **2026-10-15** · [Mars-2.0 Blaze](releases/crm-2026-10-15-mars-2-0-blaze.zh-CN.md) · 预览 · `0.1.1.5585`
-- **2026-10-15** · [网页与 iOS 套餐](releases/crm-2026-10-15-plans-on-web-and-ios.zh-CN.md) · 预览 · `0.1.1.5585`
-- **2026-10-15** · [点踩即可反馈](releases/crm-2026-10-15-feedback-from-thumbs-down.zh-CN.md) · 预览 · `0.1.1.5585`
-- **2026-10-15** · [看得见过程的深度研究](releases/crm-2026-10-15-deep-research-you-can-follow.zh-CN.md) · 预览 · `0.1.1.5585`
-- **2026-10-15** · [结构化图表](releases/crm-2026-10-15-structured-diagrams.zh-CN.md) · 预览 · `0.1.1.5585`
-- **2026-10-15** · [写入资料库](releases/crm-2026-10-15-write-files-to-the-library.zh-CN.md) · 预览 · `0.1.1.5585`
-- **2026-10-15** · [更安全的删除](releases/crm-2026-10-15-safer-deletes.zh-CN.md) · 预览 · `0.1.1.5585`
-- **2026-10-15** · [长按自己的消息](releases/crm-2026-10-15-long-press-your-messages.zh-CN.md) · 预览 · `0.1.1.5585`
-- **2026-10-13** · [只读连接 Gmail](releases/crm-2026-10-13-gmail-read-only.zh-CN.md) · 预览 · `0.1.1.5222`
-- **2026-10-13** · [导入联系人](releases/crm-2026-10-13-import-contacts.zh-CN.md) · 预览 · `0.1.1.5222`
-- **2026-10-13** · [实时读取 iPhone 数据](releases/crm-2026-10-13-live-iphone-data.zh-CN.md) · 预览 · `0.1.1.5222`
-- **2026-10-13** · [手机号与密码登录](releases/crm-2026-10-13-phone-and-password-sign-in.zh-CN.md) · 预览 · `0.1.1.5222`
-- **2026-10-13** · [iOS 原生图表](releases/crm-2026-10-13-native-charts-on-ios.zh-CN.md) · 预览 · `0.1.1.5222`
-- **2026-10-13** · [回答不中断](releases/crm-2026-10-13-answers-that-keep-going.zh-CN.md) · 预览 · `0.1.1.5222`
-- **2026-10-13** · [额度用完也不丢结果](releases/crm-2026-10-13-graceful-credit-limits.zh-CN.md) · 预览 · `0.1.1.5222`
-- **2026-10-13** · [首次启动即用你的语言](releases/crm-2026-10-13-your-language-from-the-start.zh-CN.md) · 预览 · `0.1.1.5222`
-- **2026-10-10** · [Mars iOS 应用](releases/crm-2026-10-10-mars-for-ios.zh-CN.md) · 预览 · `0.1.1.4799`
-- **2026-10-10** · [原生通知](releases/crm-2026-10-10-native-notifications.zh-CN.md) · 预览 · `0.1.1.4799`
-- **2026-10-10** · [每周起始日与日期格式](releases/crm-2026-10-10-week-start-and-date-format.zh-CN.md) · 预览 · `0.1.1.4799`
-- **2026-10-10** · [关系类型](releases/crm-2026-10-10-relationship-types.zh-CN.md) · 预览 · `0.1.1.4799`
-- **2026-10-10** · [修订 Office 文件](releases/crm-2026-10-10-revised-office-files.zh-CN.md) · 预览 · `0.1.1.4799`
-- **2026-10-10** · [外观设置](releases/crm-2026-10-10-appearance-settings.zh-CN.md) · 预览 · `0.1.1.4799`
-- **2026-10-10** · [压缩包预览](releases/crm-2026-10-10-archive-previews.zh-CN.md) · 预览 · `0.1.1.4799`
-- **2026-10-07** · [时区设置](releases/crm-2026-10-07-time-zone-setting.zh-CN.md) · 预览 · `0.1.1.4285`
-- **2026-10-07** · [通知设置页](releases/crm-2026-10-07-notifications-page.zh-CN.md) · 预览 · `0.1.1.4285`
-- **2026-10-07** · [重复事件](releases/crm-2026-10-07-repeating-events.zh-CN.md) · 预览 · `0.1.1.4285`
-- **2026-10-07** · [字体大小](releases/crm-2026-10-07-text-size.zh-CN.md) · 预览 · `0.1.1.4285`
-- **2026-10-07** · [取消分享与更广的搜索](releases/crm-2026-10-07-stop-sharing-and-wider-search.zh-CN.md) · 预览 · `0.1.1.4285`
-- **2026-10-07** · [联系人之间的关系](releases/crm-2026-10-07-relationships-between-contacts.zh-CN.md) · 预览 · `0.1.1.4285`
-- **2026-10-07** · [用量记录](releases/crm-2026-10-07-usage-records.zh-CN.md) · 预览 · `0.1.1.4285`
-- **2026-10-07** · [事件状态](releases/crm-2026-10-07-event-status.zh-CN.md) · 预览 · `0.1.1.4285`
-- **2026-09-30** · [个人记忆按组归整](releases/crm-2026-09-30-grouped-personal-memory.zh-CN.md) · 预览 · `0.1.1.3581`
-- **2026-09-28** · [已了解的信息与来源](releases/crm-2026-09-28-what-mars-learned-with-sources.zh-CN.md) · 预览 · `0.1.1.3543`
-- **2026-09-23** · [日视图旁看整月日程](releases/crm-2026-09-23-month-events-beside-the-day.zh-CN.md) · 预览 · `0.1.1.3475`
-- **2026-09-12** · [连续阅读 PDF](releases/crm-2026-09-12-continuous-pdf-reading.zh-CN.md) · 预览 · `0.1.1.3383`
-- **2026-09-04** · [更清楚的订阅页](releases/crm-2026-09-04-a-clearer-plans-page.zh-CN.md) · 预览 · `0.1.1.3352`
+- **2026-10-27** · [问一句，直达那页设置](releases/crm-2026-10-27-open-settings-from-an-answer.zh-CN.md) · 预览 · `0.1.1.8292`
+- **2026-10-26** · [Mars 上 Mac，大屏一眼看全](releases/crm-2026-10-26-mars-for-mac.zh-CN.md) · 预览 · `0.1.1.8385`
+- **2026-10-26** · [问到账号，一点就联系上](releases/crm-2026-10-26-open-social-accounts-in-one-tap.zh-CN.md) · 预览 · `0.1.1.8385`
+- **2026-10-25** · [回答没写完，想法随时补](releases/crm-2026-10-25-add-to-a-running-answer.zh-CN.md) · 预览 · `0.1.1.8208`
+- **2026-10-25** · [职位值多少钱，看真实招聘](releases/crm-2026-10-25-what-a-role-pays.zh-CN.md) · 预览 · `0.1.1.8208`
+- **2026-10-24** · [不开应用，一点就叫出 Mars](releases/crm-2026-10-24-mars-widgets-on-iphone.zh-CN.md) · 预览 · `0.1.1.7959`
+- **2026-10-24** · [一句话，做出能直接上台的演示文稿](releases/crm-2026-10-24-mars-makes-decks-and-documents.zh-CN.md) · 预览 · `0.1.1.7959`
+- **2026-10-23** · [账号不交出去，网页照样读](releases/crm-2026-10-23-read-pages-without-your-login.zh-CN.md) · 预览 · `0.1.1.7618`
+- **2026-10-23** · [值得投入的事和人，排在前面](releases/crm-2026-10-23-sort-by-value.zh-CN.md) · 预览 · `0.1.1.7618`
+- **2026-10-22** · [见面之前，先看懂对方的视频](releases/crm-2026-10-22-mars-watches-social-videos.zh-CN.md) · 预览 · `0.1.1.7433`
+- **2026-10-22** · [分享对话，只给你想给的人看](releases/crm-2026-10-22-share-links-with-a-password.zh-CN.md) · 预览 · `0.1.1.7433`
+- **2026-10-21** · [行程画在地图上，每天怎么走一目了然](releases/crm-2026-10-21-plan-trips-on-a-map.zh-CN.md) · 预览 · `0.1.1.6886`
+- **2026-10-20** · [图表下载少约 86%，几毫秒画好](releases/crm-2026-10-20-faster-adaptive-diagrams.zh-CN.md) · 预览 · `0.1.1.6573`
+- **2026-10-19** · [点开之前，就知道来源是什么](releases/crm-2026-10-19-cited-link-titles.zh-CN.md) · 预览 · `0.1.1.6479`
+- **2026-10-19** · [2 GB 长录音，每句话都能定位](releases/crm-2026-10-19-long-recordings.zh-CN.md) · 预览 · `0.1.1.6479`
+- **2026-10-18** · [一组图片，一条整洁消息](releases/crm-2026-10-18-picture-grids-and-gallery.zh-CN.md) · 预览 · `0.1.1.6118`
+- **2026-10-17** · [用 Apple ID，一点就登录](releases/crm-2026-10-17-sign-in-with-apple.zh-CN.md) · 预览 · `0.1.1.5950`
+- **2026-10-17** · [健康数据在手机，到哪儿都能问](releases/crm-2026-10-17-apple-health-sync.zh-CN.md) · 预览 · `0.1.1.5950`
+- **2026-10-17** · [睡眠、饮水、营养，健康回答更完整](releases/crm-2026-10-17-richer-health-answers.zh-CN.md) · 预览 · `0.1.1.5950`
+- **2026-10-17** · [拿不准时，Mars 先问你](releases/crm-2026-10-17-question-panel.zh-CN.md) · 预览 · `0.1.1.5950`
+- **2026-10-17** · [长对话一搜就到，回答操作一处搞定](releases/crm-2026-10-17-find-in-chat-and-a-new-answer-menu.zh-CN.md) · 预览 · `0.1.1.5950`
+- **2026-10-17** · [到点了，Mars 自己开工](releases/crm-2026-10-17-reminders-that-start-a-conversation.zh-CN.md) · 预览 · `0.1.1.5950`
+- **2026-10-17** · [回答还在写，图表已经画出来](releases/crm-2026-10-17-live-charts-and-diagrams.zh-CN.md) · 预览 · `0.1.1.5950`
+- **2026-10-17** · [iWork、WPS 文件，对话里直接看](releases/crm-2026-10-17-iwork-and-wps-previews.zh-CN.md) · 预览 · `0.1.1.5950`
+- **2026-10-17** · [哪段对话在等你，一眼看出](releases/crm-2026-10-17-conversation-status-at-a-glance.zh-CN.md) · 预览 · `0.1.1.5950`
+- **2026-10-17** · [日程提醒，直接发到微信](releases/crm-2026-10-17-wechat-event-reminders.zh-CN.md) · 预览 · `0.1.1.5950`
+- **2026-10-17** · [打开列表，就知道今天该联系谁](releases/crm-2026-10-17-relationship-activity-lines.zh-CN.md) · 预览 · `0.1.1.5950`
+- **2026-10-17** · [一个人的信息，分组清楚好找](releases/crm-2026-10-17-clearer-information-groups.zh-CN.md) · 预览 · `0.1.1.5950`
+- **2026-10-17** · [Keynote、Pages、Numbers 也能改](releases/crm-2026-10-17-convert-iwork-files.zh-CN.md) · 预览 · `0.1.1.5950`
+- **2026-10-15** · [设备借出去，Mars 照样上锁](releases/crm-2026-10-15-privacy-lock.zh-CN.md) · 预览 · `0.1.1.5585`
+- **2026-10-15** · [更高一档的 Mars-2.0 Blaze](releases/crm-2026-10-15-mars-2-0-blaze.zh-CN.md) · 预览 · `0.1.1.5585`
+- **2026-10-15** · [网页、iOS 都能订阅，用熟悉的方式付](releases/crm-2026-10-15-plans-on-web-and-ios.zh-CN.md) · 预览 · `0.1.1.5585`
+- **2026-10-15** · [点一下踩，问题直达客服](releases/crm-2026-10-15-feedback-from-thumbs-down.zh-CN.md) · 预览 · `0.1.1.5585`
+- **2026-10-15** · [深度研究，每一步都看得见](releases/crm-2026-10-15-deep-research-you-can-follow.zh-CN.md) · 预览 · `0.1.1.5585`
+- **2026-10-15** · [复杂想法，画成一眼能懂的图](releases/crm-2026-10-15-structured-diagrams.zh-CN.md) · 预览 · `0.1.1.5585`
+- **2026-10-15** · [Mars 的成果，直接存成文件](releases/crm-2026-10-15-write-files-to-the-library.zh-CN.md) · 预览 · `0.1.1.5585`
+- **2026-10-15** · [手一滑，目标和技能也不会丢](releases/crm-2026-10-15-safer-deletes.zh-CN.md) · 预览 · `0.1.1.5585`
+- **2026-10-15** · [自己说过的话，长按就能再用](releases/crm-2026-10-15-long-press-your-messages.zh-CN.md) · 预览 · `0.1.1.5585`
+- **2026-10-13** · [邮件里的答案，Mars 帮你找](releases/crm-2026-10-13-gmail-read-only.zh-CN.md) · 预览 · `0.1.1.5222`
+- **2026-10-13** · [现有联系人，一次带进 Mars](releases/crm-2026-10-13-import-contacts.zh-CN.md) · 预览 · `0.1.1.5222`
+- **2026-10-13** · [手机上的信息，回答实时用上](releases/crm-2026-10-13-live-iphone-data.zh-CN.md) · 预览 · `0.1.1.5222`
+- **2026-10-13** · [手机号加密码，登录清清楚楚](releases/crm-2026-10-13-phone-and-password-sign-in.zh-CN.md) · 预览 · `0.1.1.5222`
+- **2026-10-13** · [iPhone 上的图表，清晰顺手](releases/crm-2026-10-13-native-charts-on-ios.zh-CN.md) · 预览 · `0.1.1.5222`
+- **2026-10-13** · [切走应用，回答照样写完](releases/crm-2026-10-13-answers-that-keep-going.zh-CN.md) · 预览 · `0.1.1.5222`
+- **2026-10-13** · [额度用完，做好的结果照样交付](releases/crm-2026-10-13-graceful-credit-limits.zh-CN.md) · 预览 · `0.1.1.5222`
+- **2026-10-13** · [第一眼，就是你的语言](releases/crm-2026-10-13-your-language-from-the-start.zh-CN.md) · 预览 · `0.1.1.5222`
+- **2026-10-10** · [Mars 装进 iPhone 和 iPad](releases/crm-2026-10-10-mars-for-ios.zh-CN.md) · 预览 · `0.1.1.4799`
+- **2026-10-10** · [任务完成，Mars 主动告诉你](releases/crm-2026-10-10-native-notifications.zh-CN.md) · 预览 · `0.1.1.4799`
+- **2026-10-10** · [日期按你的习惯来](releases/crm-2026-10-10-week-start-and-date-format.zh-CN.md) · 预览 · `0.1.1.4799`
+- **2026-10-10** · [按类型和阶段，管好每段关系](releases/crm-2026-10-10-relationship-types.zh-CN.md) · 预览 · `0.1.1.4799`
+- **2026-10-10** · [改过的文件，每一版都留得住](releases/crm-2026-10-10-revised-office-files.zh-CN.md) · 预览 · `0.1.1.4799`
+- **2026-10-10** · [浅色、深色，随你选](releases/crm-2026-10-10-appearance-settings.zh-CN.md) · 预览 · `0.1.1.4799`
+- **2026-10-10** · [压缩包里有什么，不解压就知道](releases/crm-2026-10-10-archive-previews.zh-CN.md) · 预览 · `0.1.1.4799`
+- **2026-10-07** · [人在哪里，时间就对到哪里](releases/crm-2026-10-07-time-zone-setting.zh-CN.md) · 预览 · `0.1.1.4285`
+- **2026-10-07** · [不开着 Mars，也不错过消息](releases/crm-2026-10-07-notifications-page.zh-CN.md) · 预览 · `0.1.1.4285`
+- **2026-10-07** · [周期安排，设一次就够](releases/crm-2026-10-07-repeating-events.zh-CN.md) · 预览 · `0.1.1.4285`
+- **2026-10-07** · [字号随你调，长对话读得舒服](releases/crm-2026-10-07-text-size.zh-CN.md) · 预览 · `0.1.1.4285`
+- **2026-10-07** · [分享随时收回，旧回答一搜就到](releases/crm-2026-10-07-stop-sharing-and-wider-search.zh-CN.md) · 预览 · `0.1.1.4285`
+- **2026-10-07** · [谁和谁认识，Mars 帮你记着](releases/crm-2026-10-07-relationships-between-contacts.zh-CN.md) · 预览 · `0.1.1.4285`
+- **2026-10-07** · [用量高峰和退款，一页看清](releases/crm-2026-10-07-usage-records.zh-CN.md) · 预览 · `0.1.1.4285`
+- **2026-10-07** · [日历记下真正发生的事](releases/crm-2026-10-07-event-status.zh-CN.md) · 预览 · `0.1.1.4285`
+- **2026-09-30** · [关于你的信息，一个主题一张卡](releases/crm-2026-09-30-grouped-personal-memory.zh-CN.md) · 预览 · `0.1.1.3581`
+- **2026-09-28** · [每条信息，都能回到出处核对](releases/crm-2026-09-28-what-mars-learned-with-sources.zh-CN.md) · 预览 · `0.1.1.3543`
+- **2026-09-23** · [看一天的同时，整月尽收眼底](releases/crm-2026-09-23-month-events-beside-the-day.zh-CN.md) · 预览 · `0.1.1.3475`
+- **2026-09-12** · [PDF 一路往下滚，像读长文一样](releases/crm-2026-09-12-continuous-pdf-reading.zh-CN.md) · 预览 · `0.1.1.3383`
+- **2026-09-04** · [方案并排比，买前看清楚](releases/crm-2026-09-04-a-clearer-plans-page.zh-CN.md) · 预览 · `0.1.1.3352`
 
 <!-- mars-crm-preview:end -->
 

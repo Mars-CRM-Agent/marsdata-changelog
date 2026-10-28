@@ -1,15 +1,15 @@
-# Question panel
+# Mars asks before it guesses
 
 > **Preview** · 2026-10-17 · `0.1.1.5950`
 > These features are available in the preview version and have not been generally released.
 
-When Mars needs your decision, it asks instead of guessing.
+Nothing stings like a long task that went the wrong way from the start.
 
-Mars shows its questions in a panel where you type, up to five at a time. Pick a numbered option, or write your own answer, and Mars carries on with exactly what you chose.
+When Mars needs your decision, it shows its questions in a panel right where you type, up to five at a time. Pick a numbered option or write your own answer, and Mars carries on with exactly what you chose. No guessing on your behalf: it checks with you at the points that matter.
 
 Fewer wrong turns on long tasks, and every decision stays yours.
 
-![Question panel — Desktop](../assets/crm-question-panel.en.webp)
+![Mars asks before it guesses — Desktop](../assets/crm-question-panel.en.webp)
 
 *Illustration using fictional demo data.*
 

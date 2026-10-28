@@ -1,15 +1,15 @@
-# Richer health answers
+# Health answers that see more of your day
 
 > **Preview** · 2026-10-17 · `0.1.1.5950`
 > These features are available in the preview version and have not been generally released.
 
-Get health answers that cover sleep stages, water, energy and protein.
+One or two numbers can't tell you how your body is really doing.
 
-Health answers now include sleep stages, water, dietary energy, protein and carbohydrates. A smart-scale reading keeps body fat, muscle and water with its weigh-in.
+Health answers now include sleep stages, water, dietary energy, protein and carbohydrates, and a smart-scale reading keeps body fat, muscle and water with its weigh-in. Your answers draw on far more than one or two numbers.
 
-Answers draw on more of your health data, and smart-scale readings stay complete.
+Answers draw on more of your health data, and every weigh-in stays complete.
 
-![Richer health answers — Desktop](../assets/crm-richer-health-answers.en.webp)
+![Health answers that see more of your day — Desktop](../assets/crm-richer-health-answers.en.webp)
 
 *Illustration using fictional demo data.*
 

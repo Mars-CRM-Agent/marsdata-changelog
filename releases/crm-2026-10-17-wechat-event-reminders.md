@@ -1,13 +1,13 @@
-# Event reminders on WeChat
+# Event reminders, right in WeChat
 
 > **Preview** · 2026-10-17 · `0.1.1.5950`
 > These features are available in the preview version and have not been generally released.
 
-Get your event reminders in WeChat as well as in Mars.
+A reminder you don't see is a meeting you miss.
 
-Mars sends each event reminder to every WeChat you have bound. Turn WeChat reminders on or off under Notifications on the web or in the iOS app. If a WeChat link expires, Mars tells you, and your reminders still reach your other channels.
+Mars sends each event reminder to every WeChat you have bound; turn WeChat reminders on or off under Notifications on the web or in the iOS app. If a WeChat link expires, Mars tells you, and your reminders still reach your other channels. No need to keep Mars open: reminders find you where you already are.
 
-You see a reminder where you already spend your day.
+Reminders land where you already spend your day, so important events don't slip by.
 
 [Explore the preview](https://canary.marsdata.ai/changelog/wechat-event-reminders) · [All updates](../README.md)
 

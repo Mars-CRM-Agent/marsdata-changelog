@@ -1,19 +1,19 @@
-# What a role pays, from live job postings
+# What a role pays, from live postings
 
 > **Preview** · 2026-10-25 · `0.1.1.8208`
 > These features are available in the preview version and have not been generally released.
 
-Answer "what does this role pay there?" with current postings instead of guesses.
+“What does this role pay there?” Stop guessing.
 
-Ask a question such as what a data scientist earns in Silicon Valley. Mars searches current postings for that role and place on LinkedIn and Google Jobs, lists each posting with its company, title and advertised pay, links back to the posting, and notes when a posting states no pay. It then sums up the stated pay as an annual range with a median for each currency. The figures are base pay as advertised; stock and bonuses are not included.
+Ask something like what a data scientist earns in Silicon Valley. Mars searches current postings for that role and place on LinkedIn and Google Jobs, lists each one with its company, title and advertised pay, links back to the posting, and notes when a posting states no pay. It then sums up the stated pay as an annual range with a median for each currency. Every figure traces back to a real posting you can check, not hearsay. The figures are base pay as advertised; stock and bonuses are not included.
 
-Bring current pay ranges to a hiring plan, an offer or an investor's question within one answer.
+Bring a sourced pay range to a hiring plan, an offer or an investor's question, in one answer.
 
-![What a role pays, from live job postings — Desktop](../assets/crm-what-a-role-pays.en.webp)
+![What a role pays, from live postings — Desktop](../assets/crm-what-a-role-pays.en.webp)
 
 *Illustration using fictional demo data.*
 
-![What a role pays, from live job postings — iPhone](../assets/crm-what-a-role-pays.phone.en.webp)
+![What a role pays, from live postings — iPhone](../assets/crm-what-a-role-pays.phone.en.webp)
 
 *Illustration using fictional demo data.*
 

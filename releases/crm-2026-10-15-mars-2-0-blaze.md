@@ -1,15 +1,15 @@
-# Mars-2.0 Blaze
+# Step up to Mars-2.0 Blaze
 
 > **Preview** · 2026-10-15 · `0.1.1.5585`
 > These features are available in the preview version and have not been generally released.
 
-Choose Mars-2.0 Blaze, the new top model above Flare and Ember.
+Your hardest questions deserve the top tier.
 
-Blaze joins the model lineup as the top tier, above Flare and Ember. Select it like any other model to use it in a conversation.
+Mars-2.0 Blaze joins the lineup as the top tier, above Flare and Ember. Select it like any other model in a conversation: no new app, no starting over.
 
-Mars-2.0 Blaze is now the highest model in the lineup.
+Reach for the top tier whenever a question matters most.
 
-![Mars-2.0 Blaze — Desktop](../assets/crm-mars-2-0-blaze.en.webp)
+![Step up to Mars-2.0 Blaze — Desktop](../assets/crm-mars-2-0-blaze.en.webp)
 
 *Illustration using fictional demo data.*
 

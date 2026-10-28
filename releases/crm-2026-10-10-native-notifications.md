@@ -1,15 +1,15 @@
-# Native notifications
+# Know when a task is done
 
 > **Preview** · 2026-10-10 · `0.1.1.4799`
 > These features are available in the preview version and have not been generally released.
 
-Allow iOS notifications once, then manage task completion alerts from settings on web and iOS.
+Handing off a task shouldn't mean checking back every few minutes.
 
-iOS asks for permission one time. Open the Task completion alerts row to change notification settings on the web or on iOS.
+Turn on task completion alerts and Mars tells you when a task is done. iOS asks for permission only once, and the Task completion alerts row lets you change settings on the web or on iOS. No more checking back.
 
-You learn when a task finishes without checking Mars.
+You hear the moment a task finishes, without checking Mars.
 
-![Native notifications — Desktop](../assets/crm-native-notifications.en.webp)
+![Know when a task is done — Desktop](../assets/crm-native-notifications.en.webp)
 
 *Illustration using fictional demo data.*
 

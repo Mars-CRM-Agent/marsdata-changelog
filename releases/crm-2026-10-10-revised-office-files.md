@@ -1,15 +1,15 @@
-# Revised Office files
+# Every revision kept, every edit approved
 
 > **Preview** · 2026-10-10 · `0.1.1.4799`
 > These features are available in the preview version and have not been generally released.
 
-Edited Word, Excel and PowerPoint files save as new Library documents.
+The worst part of handing off an edit is losing the original.
 
-When you revise an Office file, Mars saves it as a new document in your Library. Word revisions appear as tracked changes that you can accept or reject.
+When Mars revises a Word, Excel or PowerPoint file, it saves the result as a new document in your Library, and Word revisions appear as tracked changes you can accept or reject. Your original is never overwritten, and every change is in plain sight.
 
-You keep each version and review Word edits before you accept them.
+Keep every version, and review Word edits before you accept them.
 
-![Revised Office files — Desktop](../assets/crm-revised-office-files.en.webp)
+![Every revision kept, every edit approved — Desktop](../assets/crm-revised-office-files.en.webp)
 
 *Illustration using fictional demo data.*
 

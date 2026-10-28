@@ -7,647 +7,647 @@
 
 ## Preview updates
 
-### [Open settings from an answer](releases/crm-2026-10-27-open-settings-from-an-answer.md)
+### [Ask once, land on the right setting](releases/crm-2026-10-27-open-settings-from-an-answer.md)
 
 **Preview** · 2026-10-27 · `0.1.1.8292`
 
-Ask Mars where a setting is or how to connect a data source, and the answer carries a capsule that opens that settings page.
+Ask where a setting is or how to connect data, and a capsule in the answer takes you there, no menus to dig through.
 
-![Open settings from an answer](assets/crm-open-settings-from-an-answer.en.webp)
+![Ask once, land on the right setting](assets/crm-open-settings-from-an-answer.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Mars for Mac](releases/crm-2026-10-26-mars-for-mac.md)
+### [Mars on your Mac, room to see it all](releases/crm-2026-10-26-mars-for-mac.md)
 
 **Preview** · 2026-10-26 · `0.1.1.8385`
 
-Mars arrives on the Mac as a native app built in Swift, with the three-column desktop workspace and the same account as iPhone and iPad.
+Mars arrives on the Mac as a native app: the three-column workspace on a big screen, on the same account as iPhone and iPad.
 
-![Mars for Mac](assets/crm-mars-for-mac.en.webp)
+![Mars on your Mac, room to see it all](assets/crm-mars-for-mac.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Open social accounts in one tap](releases/crm-2026-10-26-open-social-accounts-in-one-tap.md)
+### [From their handle to a chat in one tap](releases/crm-2026-10-26-open-social-accounts-in-one-tap.md)
 
 **Preview** · 2026-10-26 · `0.1.1.8385`
 
-Ask Mars for someone's WeChat ID or other accounts and each one appears as a capsule that copies it and opens its app.
+Ask for someone's WeChat ID or other accounts, and one tap on its capsule copies it and opens the app, so you can reach them now.
 
-![Open social accounts in one tap](assets/crm-open-social-accounts-in-one-tap.en.webp)
+![From their handle to a chat in one tap](assets/crm-open-social-accounts-in-one-tap.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Add to an answer while it streams](releases/crm-2026-10-25-add-to-a-running-answer.md)
+### [Add your thought mid-answer](releases/crm-2026-10-25-add-to-a-running-answer.md)
 
 **Preview** · 2026-10-25 · `0.1.1.8208`
 
-Keep typing while Mars answers: add a detail or change direction mid-answer, and Mars continues below your message with it taken into account.
+Keep typing while Mars answers: add a detail or change direction, and it continues below your message, no waiting or asking again.
 
-![Add to an answer while it streams](assets/crm-add-to-a-running-answer.en.webp)
+![Add your thought mid-answer](assets/crm-add-to-a-running-answer.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [What a role pays, from live job postings](releases/crm-2026-10-25-what-a-role-pays.md)
+### [What a role pays, from live postings](releases/crm-2026-10-25-what-a-role-pays.md)
 
 **Preview** · 2026-10-25 · `0.1.1.8208`
 
-Ask Mars what a role pays: it searches live LinkedIn and Google Jobs postings for the role and place, and sums up the advertised pay.
+Ask what a role pays somewhere, and Mars sums up the advertised pay in current LinkedIn and Google Jobs postings, each figure sourced.
 
-![What a role pays, from live job postings](assets/crm-what-a-role-pays.en.webp)
+![What a role pays, from live postings](assets/crm-what-a-role-pays.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Mars widgets for iPhone and Mac](releases/crm-2026-10-24-mars-widgets-on-iphone.md)
+### [Mars in one tap, no app to open](releases/crm-2026-10-24-mars-widgets-on-iphone.md)
 
 **Preview** · 2026-10-24 · `0.1.1.7959`
 
-Mars widgets arrive on the iPhone Home Screen, the Lock Screen and the Mac desktop: start a chat, voice note or photo in one tap, and see your usage and credits left at a glance.
+Mars widgets on the iPhone Home Screen, Lock Screen and Mac desktop: camera, voice or research in one tap, credits always in view.
 
-![Mars widgets for iPhone and Mac](assets/crm-mars-widgets-on-iphone.en.webp)
+![Mars in one tap, no app to open](assets/crm-mars-widgets-on-iphone.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Mars makes slide decks and documents](releases/crm-2026-10-24-mars-makes-decks-and-documents.md)
+### [One request, a deck ready to present](releases/crm-2026-10-24-mars-makes-decks-and-documents.md)
 
 **Preview** · 2026-10-24 · `0.1.1.7959`
 
-Mars makes editable PowerPoint decks with pictures drawn in one style, and Word documents with illustrations, from a single request.
+One request gets you an editable PowerPoint deck with pictures in one style, or an illustrated Word document, without the layout grind.
 
-![Mars makes slide decks and documents](assets/crm-mars-makes-decks-and-documents.en.webp)
+![One request, a deck ready to present](assets/crm-mars-makes-decks-and-documents.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Web pages read without your login](releases/crm-2026-10-23-read-pages-without-your-login.md)
+### [Mars reads the web, never your login](releases/crm-2026-10-23-read-pages-without-your-login.md)
 
 **Preview** · 2026-10-23 · `0.1.1.7618`
 
-Mars reads a web page in one request without signing in, and points you to the original link for anything that needs your login.
+Mars reads public web pages without your login, and sends you to the original link for anything behind a sign-in, so your accounts stay yours.
 
-![Web pages read without your login](assets/crm-read-pages-without-your-login.en.webp)
+![Mars reads the web, never your login](assets/crm-read-pages-without-your-login.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Sort by value](releases/crm-2026-10-23-sort-by-value.md)
+### [What's worth your time comes first](releases/crm-2026-10-23-sort-by-value.md)
 
 **Preview** · 2026-10-23 · `0.1.1.7618`
 
-Sort by value lists your events and relationships by what they mean to you, on the web and iOS.
+Sort by value puts deals, funding talks and referrals ahead of routine logistics, so what deserves your time comes first, on the web and iOS.
 
-![Sort by value](assets/crm-sort-by-value.en.webp)
+![What's worth your time comes first](assets/crm-sort-by-value.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Mars understands social media videos](releases/crm-2026-10-22-mars-watches-social-videos.md)
+### [Know what they say on camera](releases/crm-2026-10-22-mars-watches-social-videos.md)
 
 **Preview** · 2026-10-22 · `0.1.1.7433`
 
-Mars now understands videos on Douyin, Xiaohongshu, Bilibili, Kuaishou and Weibo: look someone up in a conversation and it watches their videos to tell you what they actually said.
+Mars understands videos on Douyin, Xiaohongshu, Bilibili, Kuaishou and Weibo: look someone up and it watches for you, quoting what they actually said.
 
-![Mars understands social media videos](assets/crm-mars-watches-social-videos.en.webp)
+![Know what they say on camera](assets/crm-mars-watches-social-videos.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Share links with a password](releases/crm-2026-10-22-share-links-with-a-password.md)
+### [Share only with the people you choose](releases/crm-2026-10-22-share-links-with-a-password.md)
 
 **Preview** · 2026-10-22 · `0.1.1.7433`
 
-Protect a shared conversation with a six-character access password, on the web and iOS.
+Add a six-character access password to a shared conversation, so a forwarded link alone opens nothing, on the web and iOS.
 
-![Share links with a password](assets/crm-share-links-with-a-password.en.webp)
+![Share only with the people you choose](assets/crm-share-links-with-a-password.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Plan trips on a map](releases/crm-2026-10-21-plan-trips-on-a-map.md)
+### [See every day of your trip on one map](releases/crm-2026-10-21-plan-trips-on-a-map.md)
 
 **Preview** · 2026-10-21 · `0.1.1.6886`
 
-Plan a trip in conversation and explore each day's stops on an interactive map.
+Plan a trip in conversation and see each day's stops and route on an interactive map, so you know what is close to what.
 
-![Plan trips on a map](assets/crm-plan-trips-on-a-map.en.webp)
+![See every day of your trip on one map](assets/crm-plan-trips-on-a-map.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Faster diagrams that fit any width](releases/crm-2026-10-20-faster-adaptive-diagrams.md)
+### [Diagrams: 86% lighter, near-instant](releases/crm-2026-10-20-faster-adaptive-diagrams.md)
 
 **Preview** · 2026-10-20 · `0.1.1.6573`
 
-Diagrams in answers download about 86% less, draw in a few milliseconds and adapt to the width of the conversation.
+Diagrams in answers download about 86% less, draw in a few milliseconds and re-flow for narrow screens, so they stay readable anywhere.
 
-![Faster diagrams that fit any width](assets/crm-faster-adaptive-diagrams.en.webp)
+![Diagrams: 86% lighter, near-instant](assets/crm-faster-adaptive-diagrams.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Real titles on cited links](releases/crm-2026-10-19-cited-link-titles.md)
+### [Know every source before you click](releases/crm-2026-10-19-cited-link-titles.md)
 
 **Preview** · 2026-10-19 · `0.1.1.6479`
 
-Each link Mars cites shows the real title of its page.
+Each link Mars cites shows its page's real title, so you know whether a source is worth opening before you click.
 
-![Real titles on cited links](assets/crm-cited-link-titles.en.webp)
+![Know every source before you click](assets/crm-cited-link-titles.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Long recordings](releases/crm-2026-10-19-long-recordings.md)
+### [2 GB recordings, every moment findable](releases/crm-2026-10-19-long-recordings.md)
 
 **Preview** · 2026-10-19 · `0.1.1.6479`
 
-Send audio and video up to 2 GB and get timestamps across recordings longer than 20 minutes.
+Send audio and video up to 2 GB, and ask about any moment of recordings longer than 20 minutes, with its timestamp.
 
-![Long recordings](assets/crm-long-recordings.en.webp)
+![2 GB recordings, every moment findable](assets/crm-long-recordings.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Picture grids and gallery](releases/crm-2026-10-18-picture-grids-and-gallery.md)
+### [A batch of pictures, one tidy message](releases/crm-2026-10-18-picture-grids-and-gallery.md)
 
 **Preview** · 2026-10-18 · `0.1.1.6118`
 
-Pictures sent together appear as one grid and open in a gallery.
+Pictures sent together form one tidy grid that opens into a gallery, so a batch never floods the conversation.
 
-![Picture grids and gallery](assets/crm-picture-grids-and-gallery.en.webp)
-
-*Illustration using fictional demo data.*
-
-### [Sign in with Apple](releases/crm-2026-10-17-sign-in-with-apple.md)
-
-**Preview** · 2026-10-17 · `0.1.1.5950`
-
-Sign in with Apple on iOS.
-
-![Sign in with Apple](assets/crm-sign-in-with-apple.webp)
+![A batch of pictures, one tidy message](assets/crm-picture-grids-and-gallery.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Apple Health sync](releases/crm-2026-10-17-apple-health-sync.md)
+### [Sign in with the Apple ID you have](releases/crm-2026-10-17-sign-in-with-apple.md)
 
 **Preview** · 2026-10-17 · `0.1.1.5950`
 
-Sync Apple Health daily summaries to Mars from iOS, so the web and your other devices can read them.
+Sign in with Apple on iOS: one tap with the Apple ID you already have, no new password to set up.
 
-![Apple Health sync](assets/crm-apple-health-sync.webp)
+![Sign in with the Apple ID you have](assets/crm-sign-in-with-apple.webp)
 
 *Illustration using fictional demo data.*
 
-### [Richer health answers](releases/crm-2026-10-17-richer-health-answers.md)
+### [Apple Health summaries, everywhere](releases/crm-2026-10-17-apple-health-sync.md)
 
 **Preview** · 2026-10-17 · `0.1.1.5950`
 
-Health answers cover sleep stages, water, dietary energy, protein and carbohydrates; a smart-scale reading keeps body fat, muscle and water with its weigh-in.
+Sync your Apple Health daily summaries from iOS, so you can ask about your health from the web and your other devices.
 
-![Richer health answers](assets/crm-richer-health-answers.en.webp)
+![Apple Health summaries, everywhere](assets/crm-apple-health-sync.webp)
 
 *Illustration using fictional demo data.*
 
-### [Question panel](releases/crm-2026-10-17-question-panel.md)
+### [Health answers that see more of your day](releases/crm-2026-10-17-richer-health-answers.md)
 
 **Preview** · 2026-10-17 · `0.1.1.5950`
 
-Question panel: when Mars needs your decision, answer up to five questions with numbered options or your own words.
+Health answers now cover sleep stages, water, energy, protein and carbohydrates, and smart-scale readings stay complete, for a fuller picture.
 
-![Question panel](assets/crm-question-panel.en.webp)
+![Health answers that see more of your day](assets/crm-richer-health-answers.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Find in chat and a new answer menu](releases/crm-2026-10-17-find-in-chat-and-a-new-answer-menu.md)
+### [Mars asks before it guesses](releases/crm-2026-10-17-question-panel.md)
 
 **Preview** · 2026-10-17 · `0.1.1.5950`
 
-Find in chat, plus a new answer menu with branch, read aloud (pause, skip 15 s, speed), model, retry and web search.
+When Mars needs a decision, it asks up to five questions in one panel and follows exactly what you choose, so long tasks stay on course.
 
-![Find in chat and a new answer menu](assets/crm-find-in-chat-and-a-new-answer-menu.en.webp)
+![Mars asks before it guesses](assets/crm-question-panel.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Reminders that start a conversation](releases/crm-2026-10-17-reminders-that-start-a-conversation.md)
+### [Find any line, act on any answer](releases/crm-2026-10-17-find-in-chat-and-a-new-answer-menu.md)
 
 **Preview** · 2026-10-17 · `0.1.1.5950`
 
-Reminders can start a Mars conversation from your prompt at the set time; create a Daily review skill from the reminder editor.
+Find any line in a long chat, and branch, read aloud, switch model, retry or search the web from one answer menu.
 
-![Reminders that start a conversation](assets/crm-reminders-that-start-a-conversation.en.webp)
+![Find any line, act on any answer](assets/crm-find-in-chat-and-a-new-answer-menu.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Live charts and diagrams](releases/crm-2026-10-17-live-charts-and-diagrams.md)
+### [On time, Mars gets started on its own](releases/crm-2026-10-17-reminders-that-start-a-conversation.md)
 
 **Preview** · 2026-10-17 · `0.1.1.5950`
 
-Charts and diagrams draw while the answer streams, with insights and follow-up questions, and open full size.
+At the set time, a reminder starts a Mars conversation from your prompt, so daily reviews and check-ins run without you starting them.
 
-![Live charts and diagrams](assets/crm-live-charts-and-diagrams.en.webp)
+![On time, Mars gets started on its own](assets/crm-reminders-that-start-a-conversation.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [iWork and WPS previews](releases/crm-2026-10-17-iwork-and-wps-previews.md)
+### [Charts that draw as the answer arrives](releases/crm-2026-10-17-live-charts-and-diagrams.md)
 
 **Preview** · 2026-10-17 · `0.1.1.5950`
 
-Keynote, Pages, Numbers and WPS files show their first page; Mars edits iWork files by converting them to Office formats.
+Charts and diagrams draw as the answer streams, with insights and follow-ups, and open full size, so the trend is clear at once.
 
-![iWork and WPS previews](assets/crm-iwork-and-wps-previews.en.webp)
+![Charts that draw as the answer arrives](assets/crm-live-charts-and-diagrams.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Conversation status at a glance](releases/crm-2026-10-17-conversation-status-at-a-glance.md)
+### [iWork and WPS files, right in the chat](releases/crm-2026-10-17-iwork-and-wps-previews.md)
 
 **Preview** · 2026-10-17 · `0.1.1.5950`
 
-Recent conversations show a running ring, an unread dot and a completion pop.
+Keynote, Pages, Numbers and WPS files show their first page right in the chat, so you can check them without another app.
 
-![Conversation status at a glance](assets/crm-conversation-status-at-a-glance.en.webp)
+![iWork and WPS files, right in the chat](assets/crm-iwork-and-wps-previews.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Event reminders on WeChat](releases/crm-2026-10-17-wechat-event-reminders.md)
+### [See which conversation needs you](releases/crm-2026-10-17-conversation-status-at-a-glance.md)
 
 **Preview** · 2026-10-17 · `0.1.1.5950`
 
-Get event reminders on WeChat, with a WeChat reminder switch on web and iOS.
+Recent conversations show a progress ring, an unread dot and a completion pop, so you see which one needs you without opening it.
 
-### [Latest activity on every relationship](releases/crm-2026-10-17-relationship-activity-lines.md)
-
-**Preview** · 2026-10-17 · `0.1.1.5950`
-
-Each relationship row shows its latest activity and the time of your newest interaction.
-
-![Latest activity on every relationship](assets/crm-relationship-activity-lines.en.webp)
+![See which conversation needs you](assets/crm-conversation-status-at-a-glance.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Clearer information groups](releases/crm-2026-10-17-clearer-information-groups.md)
+### [Event reminders, right in WeChat](releases/crm-2026-10-17-wechat-event-reminders.md)
 
 **Preview** · 2026-10-17 · `0.1.1.5950`
 
-Recorded information is sorted into clearer groups, such as Business & Team, Tech & Tools, and Mindset & Preferences.
+Event reminders reach every WeChat you have bound, so you see them where you already spend your day.
 
-![Clearer information groups](assets/crm-clearer-information-groups.en.webp)
-
-*Illustration using fictional demo data.*
-
-### [Edit Keynote, Pages and Numbers files](releases/crm-2026-10-17-convert-iwork-files.md)
+### [Know who to reach today](releases/crm-2026-10-17-relationship-activity-lines.md)
 
 **Preview** · 2026-10-17 · `0.1.1.5950`
 
-Mars can convert a Keynote, Pages, or Numbers file to PowerPoint, Word, or Excel in a conversation, then edit the copy.
+Each relationship row shows recent activity and when you last interacted, so opening the list tells you who to reach today.
 
-![Edit Keynote, Pages and Numbers files](assets/crm-convert-iwork-files.en.webp)
+![Know who to reach today](assets/crm-relationship-activity-lines.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Privacy lock](releases/crm-2026-10-15-privacy-lock.md)
+### [Find what you know about anyone, fast](releases/crm-2026-10-17-clearer-information-groups.md)
+
+**Preview** · 2026-10-17 · `0.1.1.5950`
+
+What you know about a person now sits in Business & Team, Tech & Tools, and Mindset & Preferences, so each detail is quick to find.
+
+![Find what you know about anyone, fast](assets/crm-clearer-information-groups.en.webp)
+
+*Illustration using fictional demo data.*
+
+### [Apple files? Mars still makes the edit](releases/crm-2026-10-17-convert-iwork-files.md)
+
+**Preview** · 2026-10-17 · `0.1.1.5950`
+
+Ask Mars to edit a Keynote, Pages or Numbers file and it converts a copy to Office and edits that, leaving your original untouched.
+
+![Apple files? Mars still makes the edit](assets/crm-convert-iwork-files.en.webp)
+
+*Illustration using fictional demo data.*
+
+### [Lend your device, keep Mars locked](releases/crm-2026-10-15-privacy-lock.md)
 
 **Preview** · 2026-10-15 · `0.1.1.5585`
 
-Privacy lock: unlock Mars with a 6-digit PIN, Face ID or Touch ID on iOS, or a passkey in the browser.
+Privacy lock: unlock Mars with a 6-digit PIN, Face ID, Touch ID or a passkey, so lending your device exposes nothing.
 
-![Privacy lock](assets/crm-privacy-lock.en.webp)
+![Lend your device, keep Mars locked](assets/crm-privacy-lock.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Mars-2.0 Blaze](releases/crm-2026-10-15-mars-2-0-blaze.md)
+### [Step up to Mars-2.0 Blaze](releases/crm-2026-10-15-mars-2-0-blaze.md)
 
 **Preview** · 2026-10-15 · `0.1.1.5585`
 
-Mars-2.0 Blaze joins as the top model, above Flare and Ember.
+Mars-2.0 Blaze joins as the top tier, above Flare and Ember, ready whenever a question deserves more.
 
-![Mars-2.0 Blaze](assets/crm-mars-2-0-blaze.en.webp)
+![Step up to Mars-2.0 Blaze](assets/crm-mars-2-0-blaze.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Plans on web and iOS](releases/crm-2026-10-15-plans-on-web-and-ios.md)
+### [Subscribe the way you already pay](releases/crm-2026-10-15-plans-on-web-and-ios.md)
 
 **Preview** · 2026-10-15 · `0.1.1.5585`
 
-Plans are sold through Stripe Checkout on the web and App Store subscriptions on iOS; redeem coupons on the web or offer codes on iOS.
+Subscribe with Stripe Checkout on the web or the App Store on iOS, right where you use Mars, with coupons or offer codes.
 
-![Plans on web and iOS](assets/crm-plans-on-web-and-ios.en.webp)
+![Subscribe the way you already pay](assets/crm-plans-on-web-and-ios.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Feedback from thumbs-down](releases/crm-2026-10-15-feedback-from-thumbs-down.md)
+### [One thumbs-down, straight to support](releases/crm-2026-10-15-feedback-from-thumbs-down.md)
 
 **Preview** · 2026-10-15 · `0.1.1.5585`
 
-Thumbs-down opens a feedback sheet that sends your report to support with the conversation.
+One thumbs-down opens a feedback sheet that sends your report to support with the conversation, no screenshots needed.
 
-![Feedback from thumbs-down](assets/crm-feedback-from-thumbs-down.webp)
+![One thumbs-down, straight to support](assets/crm-feedback-from-thumbs-down.webp)
 
 *Illustration using fictional demo data.*
 
-### [Deep research you can follow](releases/crm-2026-10-15-deep-research-you-can-follow.md)
+### [Deep research you can watch](releases/crm-2026-10-15-deep-research-you-can-follow.md)
 
 **Preview** · 2026-10-15 · `0.1.1.5585`
 
-Deep research shows each research helper as a card with live steps, and its proposal is a question card you confirm.
+Each deep research helper shows its steps live on a card, and you confirm its proposal, so you can see and steer the work.
 
-![Deep research you can follow](assets/crm-deep-research-you-can-follow.en.webp)
+![Deep research you can watch](assets/crm-deep-research-you-can-follow.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Structured diagrams](releases/crm-2026-10-15-structured-diagrams.md)
+### [Complex ideas, clear at a glance](releases/crm-2026-10-15-structured-diagrams.md)
 
 **Preview** · 2026-10-15 · `0.1.1.5585`
 
-Structured flowchart, mind map, sequence and timeline diagrams; download diagrams as PNG on mobile web.
+Mars draws flowcharts, mind maps, sequence diagrams and timelines, so complex ideas read at a glance; download them as PNG on mobile web.
 
-![Structured diagrams](assets/crm-structured-diagrams.en.webp)
+![Complex ideas, clear at a glance](assets/crm-structured-diagrams.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Write files to the Library](releases/crm-2026-10-15-write-files-to-the-library.md)
+### [Keep what Mars makes as real files](releases/crm-2026-10-15-write-files-to-the-library.md)
 
 **Preview** · 2026-10-15 · `0.1.1.5585`
 
-Mars can write Markdown, text and JSON files to the Library, with rich preview and print.
+Mars saves its results as Markdown, text and JSON files in the Library, ready to preview or print instead of lost in chats.
 
-![Write files to the Library](assets/crm-write-files-to-the-library.en.webp)
+![Keep what Mars makes as real files](assets/crm-write-files-to-the-library.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Safer deletes](releases/crm-2026-10-15-safer-deletes.md)
+### [A slip won't cost you a goal or skill](releases/crm-2026-10-15-safer-deletes.md)
 
 **Preview** · 2026-10-15 · `0.1.1.5585`
 
-Deleting a goal or skill asks for confirmation first, on web and iOS.
+Deleting a goal or skill now asks first, so a stray tap loses nothing, on the web and iOS.
 
-![Safer deletes](assets/crm-safer-deletes.en.webp)
+![A slip won't cost you a goal or skill](assets/crm-safer-deletes.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Long-press your messages](releases/crm-2026-10-15-long-press-your-messages.md)
+### [Reuse your own words with one long-press](releases/crm-2026-10-15-long-press-your-messages.md)
 
 **Preview** · 2026-10-15 · `0.1.1.5585`
 
-Long-press your own message to copy, select or share it.
+Long-press your own message to copy, select or share it, with no retyping.
 
-![Long-press your messages](assets/crm-long-press-your-messages.en.webp)
+![Reuse your own words with one long-press](assets/crm-long-press-your-messages.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Gmail, read-only](releases/crm-2026-10-13-gmail-read-only.md)
+### [Let Mars find the answer in your Gmail](releases/crm-2026-10-13-gmail-read-only.md)
 
 **Preview** · 2026-10-13 · `0.1.1.5222`
 
-Connect Gmail read-only: Mars can search and read your mail in chat.
+Connect Gmail read-only and Mars searches and reads your mail in chat, while your inbox stays untouched.
 
-### [Import contacts](releases/crm-2026-10-13-import-contacts.md)
-
-**Preview** · 2026-10-13 · `0.1.1.5222`
-
-Import selected Google or iPhone contacts from Connected Platforms.
-
-![Import contacts](assets/crm-import-contacts.en.webp)
-
-*Illustration using fictional demo data.*
-
-### [Live iPhone data](releases/crm-2026-10-13-live-iphone-data.md)
+### [Bring the contacts you already have](releases/crm-2026-10-13-import-contacts.md)
 
 **Preview** · 2026-10-13 · `0.1.1.5222`
 
-From the iOS app, Mars reads your iPhone contacts, calendar, Apple Health and Fitness live, per source you allow.
+Import the Google or iPhone contacts you choose from Connected Platforms, without retyping a single one.
 
-![Live iPhone data](assets/crm-live-iphone-data.webp)
+![Bring the contacts you already have](assets/crm-import-contacts.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Phone and password sign-in](releases/crm-2026-10-13-phone-and-password-sign-in.md)
+### [Answers that use your iPhone, live](releases/crm-2026-10-13-live-iphone-data.md)
 
 **Preview** · 2026-10-13 · `0.1.1.5222`
 
-Phone and password sign-in on the web, with a security check that explains itself.
+On iOS, Mars reads your contacts, calendar, and Apple Health and Fitness live, source by source as you allow, so answers use what is on your phone.
 
-![Phone and password sign-in](assets/crm-phone-and-password-sign-in.en.webp)
+![Answers that use your iPhone, live](assets/crm-live-iphone-data.webp)
 
 *Illustration using fictional demo data.*
 
-### [Native charts on iOS](releases/crm-2026-10-13-native-charts-on-ios.md)
+### [Phone sign-in, no guesswork](releases/crm-2026-10-13-phone-and-password-sign-in.md)
 
 **Preview** · 2026-10-13 · `0.1.1.5222`
 
-Charts and diagrams draw natively on iOS; selected answer text offers Quote and Read Aloud.
+Sign in on the web with your phone number and password, and any security check tells you why it is there.
 
-![Native charts on iOS](assets/crm-native-charts-on-ios.en.webp)
+![Phone sign-in, no guesswork](assets/crm-phone-and-password-sign-in.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Answers that keep going](releases/crm-2026-10-13-answers-that-keep-going.md)
+### [Charts that feel at home on iPhone](releases/crm-2026-10-13-native-charts-on-ios.md)
 
 **Preview** · 2026-10-13 · `0.1.1.5222`
 
-Answers keep streaming after you leave the app, and failed turns offer retry.
+Charts and diagrams draw natively on iOS for a crisp look, and selected answer text can be quoted or read aloud.
 
-![Answers that keep going](assets/crm-answers-that-keep-going.en.webp)
+![Charts that feel at home on iPhone](assets/crm-native-charts-on-ios.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Graceful credit limits](releases/crm-2026-10-13-graceful-credit-limits.md)
+### [Switch apps. Your answer keeps going.](releases/crm-2026-10-13-answers-that-keep-going.md)
 
 **Preview** · 2026-10-13 · `0.1.1.5222`
 
-When credits run out, the current turn still delivers what it finished before new messages are blocked.
+Switch apps and your answer keeps going; if a turn fails, retry it in the same conversation.
 
-![Graceful credit limits](assets/crm-graceful-credit-limits.en.webp)
+![Switch apps. Your answer keeps going.](assets/crm-answers-that-keep-going.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Your language from the start](releases/crm-2026-10-13-your-language-from-the-start.md)
+### [Out of credits? Keep finished work](releases/crm-2026-10-13-graceful-credit-limits.md)
 
 **Preview** · 2026-10-13 · `0.1.1.5222`
 
-First launch follows the device language, falling back to English.
+When credits run out, the current turn still delivers what it finished before new messages pause, so no work is wasted.
 
-![Your language from the start](assets/crm-your-language-from-the-start.en.webp)
+![Out of credits? Keep finished work](assets/crm-graceful-credit-limits.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Mars for iOS](releases/crm-2026-10-10-mars-for-ios.md)
+### [Your language from the first screen](releases/crm-2026-10-13-your-language-from-the-start.md)
+
+**Preview** · 2026-10-13 · `0.1.1.5222`
+
+Mars starts in your device language, so you can read it from the first screen, with English as the fallback.
+
+![Your language from the first screen](assets/crm-your-language-from-the-start.en.webp)
+
+*Illustration using fictional demo data.*
+
+### [Mars in your pocket, on iPhone and iPad](releases/crm-2026-10-10-mars-for-ios.md)
 
 **Preview** · 2026-10-10 · `0.1.1.4799`
 
-The native iOS app: sidebar drawer, swipe actions, iPad desktop workspace, image generation and deep research from the composer.
+Mars for iOS: a sidebar drawer, swipe actions, an iPad desktop workspace, and image generation and deep research wherever you are.
 
-![Mars for iOS](assets/crm-mars-for-ios.webp)
+![Mars in your pocket, on iPhone and iPad](assets/crm-mars-for-ios.webp)
 
 *Illustration using fictional demo data.*
 
-### [Native notifications](releases/crm-2026-10-10-native-notifications.md)
+### [Know when a task is done](releases/crm-2026-10-10-native-notifications.md)
 
 **Preview** · 2026-10-10 · `0.1.1.4799`
 
-Native iOS notifications with one opt-in; the Task completion alerts row opens notification settings on web and iOS.
+Turn on task completion alerts and hear the moment a task is done; iOS asks once, and settings work on the web and iOS.
 
-![Native notifications](assets/crm-native-notifications.en.webp)
+![Know when a task is done](assets/crm-native-notifications.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Week start and date format](releases/crm-2026-10-10-week-start-and-date-format.md)
+### [Dates that read the way you do](releases/crm-2026-10-10-week-start-and-date-format.md)
 
 **Preview** · 2026-10-10 · `0.1.1.4799`
 
-Set the first day of the week and the date format; Events use them on web and iOS.
+Set the first day of the week and your date format, and events on the web and iOS read the way you expect.
 
-![Week start and date format](assets/crm-week-start-and-date-format.en.webp)
+![Dates that read the way you do](assets/crm-week-start-and-date-format.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Relationship types](releases/crm-2026-10-10-relationship-types.md)
+### [Every relationship, by type and stage](releases/crm-2026-10-10-relationship-types.md)
 
 **Preview** · 2026-10-10 · `0.1.1.4799`
 
-Relationship types with stages and milestones; filter relationships by type or stage.
+Group relationships by type with their own stages and milestones, and filter by either, so you see where each one stands.
 
-### [Revised Office files](releases/crm-2026-10-10-revised-office-files.md)
-
-**Preview** · 2026-10-10 · `0.1.1.4799`
-
-Revised Word, Excel and PowerPoint files save as new Library documents; Word revisions arrive as tracked changes.
-
-![Revised Office files](assets/crm-revised-office-files.en.webp)
-
-*Illustration using fictional demo data.*
-
-### [Appearance settings](releases/crm-2026-10-10-appearance-settings.md)
+### [Every revision kept, every edit approved](releases/crm-2026-10-10-revised-office-files.md)
 
 **Preview** · 2026-10-10 · `0.1.1.4799`
 
-Appearance page with Follow system, Light and Dark; Language has its own page.
+Revised Word, Excel and PowerPoint files save as new documents, never over the original, and Word edits arrive as tracked changes to review.
 
-![Appearance settings](assets/crm-appearance-settings.en.webp)
+![Every revision kept, every edit approved](assets/crm-revised-office-files.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Archive previews](releases/crm-2026-10-10-archive-previews.md)
+### [Light, dark or automatic: your call](releases/crm-2026-10-10-appearance-settings.md)
 
 **Preview** · 2026-10-10 · `0.1.1.4799`
 
-RAR and ZIP files list their contents in previews.
+Choose Follow system, Light or Dark on the Appearance page, so Mars looks the way you like; Language has its own page.
 
-![Archive previews](assets/crm-archive-previews.en.webp)
-
-*Illustration using fictional demo data.*
-
-### [Time zone setting](releases/crm-2026-10-07-time-zone-setting.md)
-
-**Preview** · 2026-10-07 · `0.1.1.4285`
-
-Time zone setting: follow the device or pick a city; chat, reminders, Events and usage use it.
-
-![Time zone setting](assets/crm-time-zone-setting.en.webp)
+![Light, dark or automatic: your call](assets/crm-appearance-settings.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Notifications page](releases/crm-2026-10-07-notifications-page.md)
+### [See inside a RAR or ZIP, no unpacking](releases/crm-2026-10-10-archive-previews.md)
 
-**Preview** · 2026-10-07 · `0.1.1.4285`
+**Preview** · 2026-10-10 · `0.1.1.4799`
 
-Notifications page: browser push, alerts when an answer finishes, and event reminders.
+RAR and ZIP previews list the files inside, so you know what is there without downloading or unpacking.
 
-![Notifications page](assets/crm-notifications-page.en.webp)
-
-*Illustration using fictional demo data.*
-
-### [Repeating events](releases/crm-2026-10-07-repeating-events.md)
-
-**Preview** · 2026-10-07 · `0.1.1.4285`
-
-Repeating events and reminders: offset, repeat rule, weekdays, time and end date, with a custom repeat page.
-
-![Repeating events](assets/crm-repeating-events.en.webp)
+![See inside a RAR or ZIP, no unpacking](assets/crm-archive-previews.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Text size](releases/crm-2026-10-07-text-size.md)
+### [Times that match wherever you are](releases/crm-2026-10-07-time-zone-setting.md)
 
 **Preview** · 2026-10-07 · `0.1.1.4285`
 
-Text size setting that scales conversations, contact pages, memory, events, the Library and settings.
+Follow your device or pick a city, and conversations, reminders, Events and usage show your local time, with no time-difference maths.
 
-![Text size](assets/crm-text-size.en.webp)
+![Times that match wherever you are](assets/crm-time-zone-setting.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Stop sharing and wider search](releases/crm-2026-10-07-stop-sharing-and-wider-search.md)
+### [Hear about answers and events in time](releases/crm-2026-10-07-notifications-page.md)
 
 **Preview** · 2026-10-07 · `0.1.1.4285`
 
-Share links can be revoked with Stop sharing; workspace search now covers conversation text.
+The Notifications page gathers browser push, answer-finished alerts and event reminders, so you miss nothing without keeping Mars open.
 
-![Stop sharing and wider search](assets/crm-stop-sharing-and-wider-search.en.webp)
+![Hear about answers and events in time](assets/crm-notifications-page.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Relationships between contacts](releases/crm-2026-10-07-relationships-between-contacts.md)
+### [Set a routine once, and it repeats](releases/crm-2026-10-07-repeating-events.md)
 
 **Preview** · 2026-10-07 · `0.1.1.4285`
 
-Record a relationship between two of your contacts, with its own type and summary.
+Events and reminders repeat with an offset, a rule, weekdays, a time and an end date, so a routine is set once.
 
-### [Usage records](releases/crm-2026-10-07-usage-records.md)
-
-**Preview** · 2026-10-07 · `0.1.1.4285`
-
-Usage records: day, week and month views, busiest and quietest hours, refunds, and sorting and filtering by call type.
-
-![Usage records](assets/crm-usage-records.en.webp)
+![Set a routine once, and it repeats](assets/crm-repeating-events.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Event status](releases/crm-2026-10-07-event-status.md)
+### [Your text size, comfortable reading](releases/crm-2026-10-07-text-size.md)
 
 **Preview** · 2026-10-07 · `0.1.1.4285`
 
-Event status Planned, Happened or Cancelled; complete, edit or delete events by swipe or right-click.
+One text size setting scales conversations, contacts, memory, events, the Library and Settings, so long reads stay comfortable.
 
-![Event status](assets/crm-event-status.en.webp)
+![Your text size, comfortable reading](assets/crm-text-size.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Grouped personal memory](releases/crm-2026-09-30-grouped-personal-memory.md)
+### [Revoke a link, find any old answer](releases/crm-2026-10-07-stop-sharing-and-wider-search.md)
+
+**Preview** · 2026-10-07 · `0.1.1.4285`
+
+Revoke a shared link any time with Stop sharing, and find an old answer by its words now that search covers conversation text.
+
+![Revoke a link, find any old answer](assets/crm-stop-sharing-and-wider-search.en.webp)
+
+*Illustration using fictional demo data.*
+
+### [Keep track of who knows whom](releases/crm-2026-10-07-relationships-between-contacts.md)
+
+**Preview** · 2026-10-07 · `0.1.1.4285`
+
+Record how two of your contacts are connected, each with its own type and summary, so you always know who knows whom.
+
+### [Peak hours and refunds on one page](releases/crm-2026-10-07-usage-records.md)
+
+**Preview** · 2026-10-07 · `0.1.1.4285`
+
+Usage records in day, week and month views show your busiest and quietest hours and refunds, filterable by call type, all on one page.
+
+![Peak hours and refunds on one page](assets/crm-usage-records.en.webp)
+
+*Illustration using fictional demo data.*
+
+### [A calendar of what really happened](releases/crm-2026-10-07-event-status.md)
+
+**Preview** · 2026-10-07 · `0.1.1.4285`
+
+Mark events Planned, Happened or Cancelled so your calendar shows what really happened; swipe or right-click to complete, edit or delete.
+
+![A calendar of what really happened](assets/crm-event-status.en.webp)
+
+*Illustration using fictional demo data.*
+
+### [What Mars knows, one card per topic](releases/crm-2026-09-30-grouped-personal-memory.md)
 
 **Preview** · 2026-09-30 · `0.1.1.3581`
 
-Personal Memory groups your profile details under matching headings, so related facts sit together.
+Personal Memory merges what Mars knows about you into one card per topic, with no empty rows in the way.
 
-![Grouped personal memory](assets/crm-grouped-personal-memory.en.webp)
+![What Mars knows, one card per topic](assets/crm-grouped-personal-memory.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [What Mars learned, with sources](releases/crm-2026-09-28-what-mars-learned-with-sources.md)
+### [Every fact Mars learned, with its source](releases/crm-2026-09-28-what-mars-learned-with-sources.md)
 
 **Preview** · 2026-09-28 · `0.1.1.3543`
 
-A contact's page shows what Mars learned about them from your conversations, with the source of each fact.
+A contact's page lists what Mars learned, each fact with its quote and source link, and anything auto-detected waits for your approval.
 
-![What Mars learned, with sources](assets/crm-what-mars-learned-with-sources.en.webp)
+![Every fact Mars learned, with its source](assets/crm-what-mars-learned-with-sources.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Month events beside the day](releases/crm-2026-09-23-month-events-beside-the-day.md)
+### [See the whole month beside the day](releases/crm-2026-09-23-month-events-beside-the-day.md)
 
 **Preview** · 2026-09-23 · `0.1.1.3475`
 
-The calendar's day view lists the whole month's events beside it, and the mini calendar marks days that have events.
+The day view lists the whole month's events beside it, and dots in the mini calendar show the busy days at a glance.
 
-![Month events beside the day](assets/crm-month-events-beside-the-day.en.webp)
+![See the whole month beside the day](assets/crm-month-events-beside-the-day.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [Continuous PDF reading](releases/crm-2026-09-12-continuous-pdf-reading.md)
+### [Read a PDF like a long page](releases/crm-2026-09-12-continuous-pdf-reading.md)
 
 **Preview** · 2026-09-12 · `0.1.1.3383`
 
-PDFs in your Library scroll page after page, with page thumbnails to jump around, and files show their first page as a thumbnail.
+PDFs in the Library scroll like a long page, with thumbnails to jump straight to any page, and files show their first page so you spot them fast.
 
-![Continuous PDF reading](assets/crm-continuous-pdf-reading.en.webp)
+![Read a PDF like a long page](assets/crm-continuous-pdf-reading.en.webp)
 
 *Illustration using fictional demo data.*
 
-### [A clearer plans page](releases/crm-2026-09-04-a-clearer-plans-page.md)
+### [Compare plans, then buy with confidence](releases/crm-2026-09-04-a-clearer-plans-page.md)
 
 **Preview** · 2026-09-04 · `0.1.1.3352`
 
-A new plans page lets you compare benefits side by side, pick one of three plans and buy it from a bar that stays in view.
+The new plans page sets three plans side by side with a full benefits comparison and a pinned purchase bar, so you know what you get before you pay.
 
-![A clearer plans page](assets/crm-a-clearer-plans-page.en.webp)
+![Compare plans, then buy with confidence](assets/crm-a-clearer-plans-page.en.webp)
 
 *Illustration using fictional demo data.*
 

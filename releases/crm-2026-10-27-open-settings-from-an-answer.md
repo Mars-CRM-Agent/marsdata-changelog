@@ -1,19 +1,19 @@
-# Open settings from an answer
+# Ask once, land on the right setting
 
 > **Preview** · 2026-10-27 · `0.1.1.8292`
 > These features are available in the preview version and have not been generally released.
 
-When you ask where a setting is, Mars answers with a capsule that takes you straight there.
+Forget which menu a setting lives in. Just ask Mars.
 
-Ask questions such as "Where is the language setting?" or "How do I connect Gmail?" and Mars answers with a settings capsule marked with a gear, for example Language or Connected Platforms. Tap the capsule and that settings page opens; go back and you return to the same conversation, ready to ask the next question. It works the same on the web, on computers and phones, and in the iOS app.
+Ask “Where is the language setting?” or “How do I connect Gmail?” and Mars answers with a gear-marked settings capsule, such as Language or Connected Platforms. One tap opens that page, and going back returns you to the same conversation, ready for the next question. No digging through menus, no losing the thread you were on. It works the same on the web, on computers and phones, and in the iOS app.
 
-Find a setting or connect a data source without digging through menus, then carry on with the conversation.
+Settings and data connections take one question, and the conversation picks up right where you left it.
 
-![Open settings from an answer — Desktop](../assets/crm-open-settings-from-an-answer.en.webp)
+![Ask once, land on the right setting — Desktop](../assets/crm-open-settings-from-an-answer.en.webp)
 
 *Illustration using fictional demo data.*
 
-![Open settings from an answer — iPhone](../assets/crm-open-settings-from-an-answer.phone.en.webp)
+![Ask once, land on the right setting — iPhone](../assets/crm-open-settings-from-an-answer.phone.en.webp)
 
 *Illustration using fictional demo data.*
 

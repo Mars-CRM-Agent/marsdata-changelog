@@ -1,15 +1,15 @@
-# Native charts on iOS
+# Charts that feel at home on iPhone
 
 > **Preview** · 2026-10-13 · `0.1.1.5222`
 > These features are available in the preview version and have not been generally released.
 
-Charts and diagrams draw natively on iOS, and answer text can be quoted or read aloud.
+Charts on a phone should be as crisp as the rest of the app.
 
-Charts and flowcharts in answers are drawn with native iOS graphics. Select part of an answer to quote it or have it read aloud.
+Charts and flowcharts in answers are drawn with native iOS graphics. Select part of an answer to quote it or have it read aloud. Charts read clearly, and the line you want is yours to take.
 
-Charts look native on iPhone, and the answer text you pick is easy to reuse.
+Charts look native on iPhone, and any text you pick is easy to reuse.
 
-![Native charts on iOS — Desktop](../assets/crm-native-charts-on-ios.en.webp)
+![Charts that feel at home on iPhone — Desktop](../assets/crm-native-charts-on-ios.en.webp)
 
 *Illustration using fictional demo data.*
 

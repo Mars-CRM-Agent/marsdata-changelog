@@ -1,15 +1,15 @@
-# iWork and WPS previews
+# iWork and WPS files, right in the chat
 
 > **Preview** · 2026-10-17 · `0.1.1.5950`
 > These features are available in the preview version and have not been generally released.
 
-See the first page of Keynote, Pages, Numbers and WPS files in chat.
+A Keynote or WPS file shouldn't be a mystery until you find the right app.
 
-Mars shows the first page of each file. To edit an iWork file, Mars converts it to an Office format first.
+Keynote, Pages, Numbers and WPS files now show their first page in the conversation. To edit an iWork file, Mars converts it to an Office format first. No extra app to install: confirm it is the right file at a glance.
 
-Check iWork and WPS files at a glance before you decide what to do with them.
+Check any iWork or WPS file at a glance before you decide what to do with it.
 
-![iWork and WPS previews — Desktop](../assets/crm-iwork-and-wps-previews.en.webp)
+![iWork and WPS files, right in the chat — Desktop](../assets/crm-iwork-and-wps-previews.en.webp)
 
 *Illustration using fictional demo data.*
 

@@ -1,15 +1,15 @@
-# Write files to the Library
+# Keep what Mars makes as real files
 
 > **Preview** · 2026-10-15 · `0.1.1.5585`
 > These features are available in the preview version and have not been generally released.
 
-Save Mars output as Markdown, text or JSON files in your Library.
+A great answer is no use if you can't find it again.
 
-Mars can write Markdown, text and JSON files to the Library. Open them in a rich preview, or print them directly.
+Mars can write Markdown, text and JSON files to your Library. Open them in a rich preview or print them directly. No copying into another app: your results live in one place.
 
-Results you generate stay in one place, ready to read or print.
+Everything you generate stays in one place, ready to read or print.
 
-![Write files to the Library — Desktop](../assets/crm-write-files-to-the-library.en.webp)
+![Keep what Mars makes as real files — Desktop](../assets/crm-write-files-to-the-library.en.webp)
 
 *Illustration using fictional demo data.*
 
