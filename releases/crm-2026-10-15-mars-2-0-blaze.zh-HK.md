@@ -13,6 +13,6 @@ Mars-2.0 Blaze 作為頂級模型加入模型列表，位於 Flare 和 Ember 之
 
 *示意圖，使用虛構演示資料。*
 
-[體驗預覽版](https://canary.marsdata.ai/changelog/mars-2-0-blaze) · [全部更新](../README.zh-HK.md)
+[體驗預覽版](https://marsdata.ai/changelog/mars-2-0-blaze) · [全部更新](../README.zh-HK.md)
 
 [English](./crm-2026-10-15-mars-2-0-blaze.md) · [简体中文](./crm-2026-10-15-mars-2-0-blaze.zh-CN.md)

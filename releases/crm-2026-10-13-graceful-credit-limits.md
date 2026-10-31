@@ -13,6 +13,6 @@ You keep the results of the turn that was running when credits ran out.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/graceful-credit-limits) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/graceful-credit-limits) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-13-graceful-credit-limits.zh-CN.md) · [繁體中文](./crm-2026-10-13-graceful-credit-limits.zh-HK.md)

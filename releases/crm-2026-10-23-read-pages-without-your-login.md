@@ -17,6 +17,6 @@ Get the public facts from Mars without handing over a single account.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/read-pages-without-your-login) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/read-pages-without-your-login) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-23-read-pages-without-your-login.zh-CN.md) · [繁體中文](./crm-2026-10-23-read-pages-without-your-login.zh-HK.md)

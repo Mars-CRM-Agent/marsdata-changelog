@@ -13,6 +13,6 @@ Visual answers take shape as they form, and open full size when you want detail.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/live-charts-and-diagrams) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/live-charts-and-diagrams) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-17-live-charts-and-diagrams.zh-CN.md) · [繁體中文](./crm-2026-10-17-live-charts-and-diagrams.zh-HK.md)

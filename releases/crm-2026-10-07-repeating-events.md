@@ -13,6 +13,6 @@ Recurring routines are set once, not re-entered every week.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/repeating-events) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/repeating-events) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-07-repeating-events.zh-CN.md) · [繁體中文](./crm-2026-10-07-repeating-events.zh-HK.md)

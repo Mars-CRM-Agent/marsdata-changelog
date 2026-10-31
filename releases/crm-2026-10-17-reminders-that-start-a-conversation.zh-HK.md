@@ -13,6 +13,6 @@
 
 *示意圖，使用虛構演示資料。*
 
-[體驗預覽版](https://canary.marsdata.ai/changelog/reminders-that-start-a-conversation) · [全部更新](../README.zh-HK.md)
+[體驗預覽版](https://marsdata.ai/changelog/reminders-that-start-a-conversation) · [全部更新](../README.zh-HK.md)
 
 [English](./crm-2026-10-17-reminders-that-start-a-conversation.md) · [简体中文](./crm-2026-10-17-reminders-that-start-a-conversation.zh-CN.md)

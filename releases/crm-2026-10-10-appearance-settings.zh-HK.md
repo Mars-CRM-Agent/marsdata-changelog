@@ -13,6 +13,6 @@ Mars 的外觀，與你的設備或偏好保持一致。
 
 *示意圖，使用虛構演示資料。*
 
-[體驗預覽版](https://canary.marsdata.ai/changelog/appearance-settings) · [全部更新](../README.zh-HK.md)
+[體驗預覽版](https://marsdata.ai/changelog/appearance-settings) · [全部更新](../README.zh-HK.md)
 
 [English](./crm-2026-10-10-appearance-settings.md) · [简体中文](./crm-2026-10-10-appearance-settings.zh-CN.md)

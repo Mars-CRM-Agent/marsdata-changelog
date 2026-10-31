@@ -9,6 +9,6 @@
 
 回答能参考你的邮件，而邮件始终原封不动。
 
-[体验预览版](https://canary.marsdata.ai/changelog/gmail-read-only) · [全部更新](../README.zh-CN.md)
+[体验预览版](https://marsdata.ai/changelog/gmail-read-only) · [全部更新](../README.zh-CN.md)
 
 [English](./crm-2026-10-13-gmail-read-only.md) · [繁體中文](./crm-2026-10-13-gmail-read-only.zh-HK.md)

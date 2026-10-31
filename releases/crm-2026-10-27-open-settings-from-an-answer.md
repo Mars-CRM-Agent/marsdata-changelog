@@ -17,6 +17,6 @@ Settings and data connections take one question, and the conversation picks up r
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/open-settings-from-an-answer) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/open-settings-from-an-answer) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-27-open-settings-from-an-answer.zh-CN.md) · [繁體中文](./crm-2026-10-27-open-settings-from-an-answer.zh-HK.md)

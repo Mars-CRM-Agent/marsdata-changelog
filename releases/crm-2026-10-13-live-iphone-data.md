@@ -13,6 +13,6 @@ Answers use what is on your phone, with you in control of each source.
 
 *Illustration using fictional demo data. Screenshot interface: Simplified Chinese.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/live-iphone-data) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/live-iphone-data) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-13-live-iphone-data.zh-CN.md) · [繁體中文](./crm-2026-10-13-live-iphone-data.zh-HK.md)

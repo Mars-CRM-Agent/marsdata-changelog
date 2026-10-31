@@ -13,6 +13,6 @@ Start using Mars right away, in a language you know.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/your-language-from-the-start) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/your-language-from-the-start) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-13-your-language-from-the-start.zh-CN.md) · [繁體中文](./crm-2026-10-13-your-language-from-the-start.zh-HK.md)

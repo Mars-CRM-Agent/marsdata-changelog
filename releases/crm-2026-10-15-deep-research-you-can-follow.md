@@ -13,6 +13,6 @@ Follow the research as it happens and sign off on where it goes.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/deep-research-you-can-follow) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/deep-research-you-can-follow) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-15-deep-research-you-can-follow.zh-CN.md) · [繁體中文](./crm-2026-10-15-deep-research-you-can-follow.zh-HK.md)

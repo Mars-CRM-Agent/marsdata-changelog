@@ -13,6 +13,6 @@ Hand Mars an Apple file and get the edit done, with your original untouched.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/convert-iwork-files) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/convert-iwork-files) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-17-convert-iwork-files.zh-CN.md) · [繁體中文](./crm-2026-10-17-convert-iwork-files.zh-HK.md)

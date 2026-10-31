@@ -13,6 +13,6 @@ Check any iWork or WPS file at a glance before you decide what to do with it.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/iwork-and-wps-previews) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/iwork-and-wps-previews) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-17-iwork-and-wps-previews.zh-CN.md) · [繁體中文](./crm-2026-10-17-iwork-and-wps-previews.zh-HK.md)

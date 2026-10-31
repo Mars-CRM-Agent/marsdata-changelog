@@ -13,6 +13,6 @@ Check an archive's contents quickly, right in Mars.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/archive-previews) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/archive-previews) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-10-archive-previews.zh-CN.md) · [繁體中文](./crm-2026-10-10-archive-previews.zh-HK.md)

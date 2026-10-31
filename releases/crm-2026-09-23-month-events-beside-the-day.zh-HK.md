@@ -13,6 +13,6 @@
 
 *示意圖，使用虛構演示資料。*
 
-[體驗預覽版](https://canary.marsdata.ai/changelog/month-events-beside-the-day) · [全部更新](../README.zh-HK.md)
+[體驗預覽版](https://marsdata.ai/changelog/month-events-beside-the-day) · [全部更新](../README.zh-HK.md)
 
 [English](./crm-2026-09-23-month-events-beside-the-day.md) · [简体中文](./crm-2026-09-23-month-events-beside-the-day.zh-CN.md)

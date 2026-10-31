@@ -13,6 +13,6 @@ Mars 搜索网页并读取页面时，所引用的每个链接都带有该页面
 
 *示意图，使用虚构演示数据。*
 
-[体验预览版](https://canary.marsdata.ai/changelog/cited-link-titles) · [全部更新](../README.zh-CN.md)
+[体验预览版](https://marsdata.ai/changelog/cited-link-titles) · [全部更新](../README.zh-CN.md)
 
 [English](./crm-2026-10-19-cited-link-titles.md) · [繁體中文](./crm-2026-10-19-cited-link-titles.zh-HK.md)

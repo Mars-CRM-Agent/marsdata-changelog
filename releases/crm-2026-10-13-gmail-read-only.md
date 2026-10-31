@@ -9,6 +9,6 @@ Connect your Gmail account with read-only access. In chat, Mars can search your 
 
 Answers can draw on your email, while your inbox stays exactly as it was.
 
-[Explore the preview](https://canary.marsdata.ai/changelog/gmail-read-only) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/gmail-read-only) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-13-gmail-read-only.zh-CN.md) · [繁體中文](./crm-2026-10-13-gmail-read-only.zh-HK.md)

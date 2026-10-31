@@ -13,6 +13,6 @@ Complex ideas become a diagram you read at a glance and can share with ease.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/structured-diagrams) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/structured-diagrams) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-15-structured-diagrams.zh-CN.md) · [繁體中文](./crm-2026-10-15-structured-diagrams.zh-HK.md)

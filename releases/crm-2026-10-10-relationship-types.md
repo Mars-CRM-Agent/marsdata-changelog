@@ -9,6 +9,6 @@ Group relationships by type, each with its own stages and milestones, and filter
 
 See where each relationship stands at a glance.
 
-[Explore the preview](https://canary.marsdata.ai/changelog/relationship-types) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/relationship-types) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-10-relationship-types.zh-CN.md) · [繁體中文](./crm-2026-10-10-relationship-types.zh-HK.md)

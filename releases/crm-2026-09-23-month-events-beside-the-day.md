@@ -13,6 +13,6 @@ See where your month is busy before you pick a day.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/month-events-beside-the-day) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/month-events-beside-the-day) · [All updates](../README.md)
 
 [简体中文](./crm-2026-09-23-month-events-beside-the-day.zh-CN.md) · [繁體中文](./crm-2026-09-23-month-events-beside-the-day.zh-HK.md)

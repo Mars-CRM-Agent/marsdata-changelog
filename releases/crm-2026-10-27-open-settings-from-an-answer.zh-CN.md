@@ -17,6 +17,6 @@
 
 *示意图，使用虚构演示数据。*
 
-[体验预览版](https://canary.marsdata.ai/changelog/open-settings-from-an-answer) · [全部更新](../README.zh-CN.md)
+[体验预览版](https://marsdata.ai/changelog/open-settings-from-an-answer) · [全部更新](../README.zh-CN.md)
 
 [English](./crm-2026-10-27-open-settings-from-an-answer.md) · [繁體中文](./crm-2026-10-27-open-settings-from-an-answer.zh-HK.md)

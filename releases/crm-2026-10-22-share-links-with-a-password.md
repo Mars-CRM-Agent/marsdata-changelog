@@ -17,6 +17,6 @@ Share with confidence: only the people you choose can read it.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/share-links-with-a-password) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/share-links-with-a-password) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-22-share-links-with-a-password.zh-CN.md) · [繁體中文](./crm-2026-10-22-share-links-with-a-password.zh-HK.md)

@@ -13,6 +13,6 @@ Mars 现在能把回答画成结构化图表：流程图、思维导图、时序
 
 *示意图，使用虚构演示数据。*
 
-[体验预览版](https://canary.marsdata.ai/changelog/structured-diagrams) · [全部更新](../README.zh-CN.md)
+[体验预览版](https://marsdata.ai/changelog/structured-diagrams) · [全部更新](../README.zh-CN.md)
 
 [English](./crm-2026-10-15-structured-diagrams.md) · [繁體中文](./crm-2026-10-15-structured-diagrams.zh-HK.md)

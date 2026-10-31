@@ -3,14 +3,16 @@
 
 > **Preview** — These features are available in the preview version and have not been generally released.
 
-[Explore the preview](https://canary.marsdata.ai) · [English](./README.md) · [简体中文](./README.zh-CN.md) · [繁體中文](./README.zh-HK.md)
+[Explore the preview](https://marsdata.ai) · [English](./README.md) · [简体中文](./README.zh-CN.md) · [繁體中文](./README.zh-HK.md)
 
 ## Preview updates
 
-![Mars, inside your Feishu](assets/crm-mars-in-feishu.en.webp)
+![Mars hands work to a fresh conversation](assets/crm-conversations-that-hand-off-work.en.webp)
 
 *Illustration using fictional demo data.*
 
+- **2026-10-31** · [Mars hands work to a fresh conversation](releases/crm-2026-10-31-conversations-that-hand-off-work.md) · Preview · `0.1.1.9443`
+- **2026-10-31** · [The insights you need, filtered first](releases/crm-2026-10-31-filter-relationship-insights.md) · Preview · `0.1.1.9443`
 - **2026-10-28** · [Mars, inside your Feishu](releases/crm-2026-10-28-mars-in-feishu.md) · Preview · `0.1.1.8920`
 - **2026-10-28** · [Build on what Mars already said](releases/crm-2026-10-28-quote-past-conversations.md) · Preview · `0.1.1.8920`
 - **2026-10-27** · [Ask once, land on the right setting](releases/crm-2026-10-27-open-settings-from-an-answer.md) · Preview · `0.1.1.8292`

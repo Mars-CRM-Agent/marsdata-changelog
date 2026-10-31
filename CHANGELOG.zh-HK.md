@@ -3,9 +3,29 @@
 
 > **預覽** — 以下功能目前處於預覽階段，尚未正式上線。
 
-[體驗預覽版](https://canary.marsdata.ai) · [English](./CHANGELOG.md) · [简体中文](./CHANGELOG.zh-CN.md) · [繁體中文](./CHANGELOG.zh-HK.md)
+[體驗預覽版](https://marsdata.ai) · [English](./CHANGELOG.md) · [简体中文](./CHANGELOG.zh-CN.md) · [繁體中文](./CHANGELOG.zh-HK.md)
 
 ## 預覽版更新
+
+### [一句話，Mars 另開一個對話去辦](releases/crm-2026-10-31-conversations-that-hand-off-work.zh-HK.md)
+
+**預覽** · 2026-10-31 · `0.1.1.9443`
+
+讓 Mars 新開一個對話專門辦一件事，或把結果送到你的另一段對話，來處一目瞭然。
+
+![一句話，Mars 另開一個對話去辦](assets/crm-conversations-that-hand-off-work.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [洞察一多，先看你要的那一類](releases/crm-2026-10-31-filter-relationship-insights.zh-HK.md)
+
+**預覽** · 2026-10-31 · `0.1.1.9443`
+
+關係洞察可按時間排序，按機會、風險、需求等六類篩選，默認只看仍然有效的。
+
+![洞察一多，先看你要的那一類](assets/crm-filter-relationship-insights.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
 
 ### [不用切應用，飛書裏就能問 Mars](releases/crm-2026-10-28-mars-in-feishu.zh-HK.md)
 

@@ -13,6 +13,6 @@
 
 *示意图，使用虚构演示数据。*
 
-[体验预览版](https://canary.marsdata.ai/changelog/revised-office-files) · [全部更新](../README.zh-CN.md)
+[体验预览版](https://marsdata.ai/changelog/revised-office-files) · [全部更新](../README.zh-CN.md)
 
 [English](./crm-2026-10-10-revised-office-files.md) · [繁體中文](./crm-2026-10-10-revised-office-files.zh-HK.md)

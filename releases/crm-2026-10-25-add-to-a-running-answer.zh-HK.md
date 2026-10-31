@@ -17,6 +17,6 @@ Mars 回答時，照常在輸入框裏打字：只有文字的草稿，發送按
 
 *示意圖，使用虛構演示資料。*
 
-[體驗預覽版](https://canary.marsdata.ai/changelog/add-to-a-running-answer) · [全部更新](../README.zh-HK.md)
+[體驗預覽版](https://marsdata.ai/changelog/add-to-a-running-answer) · [全部更新](../README.zh-HK.md)
 
 [English](./crm-2026-10-25-add-to-a-running-answer.md) · [简体中文](./crm-2026-10-25-add-to-a-running-answer.zh-CN.md)

@@ -9,6 +9,6 @@
 
 朋友和同事彼此认识时，你的人脉依然清清楚楚。
 
-[体验预览版](https://canary.marsdata.ai/changelog/relationships-between-contacts) · [全部更新](../README.zh-CN.md)
+[体验预览版](https://marsdata.ai/changelog/relationships-between-contacts) · [全部更新](../README.zh-CN.md)
 
 [English](./crm-2026-10-07-relationships-between-contacts.md) · [繁體中文](./crm-2026-10-07-relationships-between-contacts.zh-HK.md)

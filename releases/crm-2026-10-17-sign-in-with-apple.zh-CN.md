@@ -13,6 +13,6 @@
 
 *示意图，使用虚构演示数据。*
 
-[体验预览版](https://canary.marsdata.ai/changelog/sign-in-with-apple) · [全部更新](../README.zh-CN.md)
+[体验预览版](https://marsdata.ai/changelog/sign-in-with-apple) · [全部更新](../README.zh-CN.md)
 
 [English](./crm-2026-10-17-sign-in-with-apple.md) · [繁體中文](./crm-2026-10-17-sign-in-with-apple.zh-HK.md)

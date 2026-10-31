@@ -17,6 +17,6 @@ One request gets you a deck or document you can edit and present straight away.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/mars-makes-decks-and-documents) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/mars-makes-decks-and-documents) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-24-mars-makes-decks-and-documents.zh-CN.md) · [繁體中文](./crm-2026-10-24-mars-makes-decks-and-documents.zh-HK.md)

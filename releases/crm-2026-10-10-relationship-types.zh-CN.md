@@ -9,6 +9,6 @@
 
 一眼看清每段关系走到了哪一步。
 
-[体验预览版](https://canary.marsdata.ai/changelog/relationship-types) · [全部更新](../README.zh-CN.md)
+[体验预览版](https://marsdata.ai/changelog/relationship-types) · [全部更新](../README.zh-CN.md)
 
 [English](./crm-2026-10-10-relationship-types.md) · [繁體中文](./crm-2026-10-10-relationship-types.zh-HK.md)

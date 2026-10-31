@@ -13,6 +13,6 @@ Answers with diagrams appear sooner and stay readable on any screen.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/faster-adaptive-diagrams) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/faster-adaptive-diagrams) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-20-faster-adaptive-diagrams.zh-CN.md) · [繁體中文](./crm-2026-10-20-faster-adaptive-diagrams.zh-HK.md)

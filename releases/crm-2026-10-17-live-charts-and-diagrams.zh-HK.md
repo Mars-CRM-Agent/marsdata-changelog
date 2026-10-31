@@ -13,6 +13,6 @@
 
 *示意圖，使用虛構演示資料。*
 
-[體驗預覽版](https://canary.marsdata.ai/changelog/live-charts-and-diagrams) · [全部更新](../README.zh-HK.md)
+[體驗預覽版](https://marsdata.ai/changelog/live-charts-and-diagrams) · [全部更新](../README.zh-HK.md)
 
 [English](./crm-2026-10-17-live-charts-and-diagrams.md) · [简体中文](./crm-2026-10-17-live-charts-and-diagrams.zh-CN.md)

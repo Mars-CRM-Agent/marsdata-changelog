@@ -17,6 +17,6 @@ Bring a sourced pay range to a hiring plan, an offer or an investor's question, 
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/what-a-role-pays) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/what-a-role-pays) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-25-what-a-role-pays.zh-CN.md) · [繁體中文](./crm-2026-10-25-what-a-role-pays.zh-HK.md)

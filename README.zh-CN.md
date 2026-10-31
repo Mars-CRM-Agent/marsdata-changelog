@@ -3,14 +3,16 @@
 
 > **预览** — 以下功能目前处于预览阶段，尚未正式上线。
 
-[体验预览版](https://canary.marsdata.ai) · [English](./README.md) · [简体中文](./README.zh-CN.md) · [繁體中文](./README.zh-HK.md)
+[体验预览版](https://marsdata.ai) · [English](./README.md) · [简体中文](./README.zh-CN.md) · [繁體中文](./README.zh-HK.md)
 
 ## 预览版更新
 
-![不用切应用，飞书里就能问 Mars](assets/crm-mars-in-feishu.webp)
+![一句话，Mars 另开一个对话去办](assets/crm-conversations-that-hand-off-work.webp)
 
 *示意图，使用虚构演示数据。*
 
+- **2026-10-31** · [一句话，Mars 另开一个对话去办](releases/crm-2026-10-31-conversations-that-hand-off-work.zh-CN.md) · 预览 · `0.1.1.9443`
+- **2026-10-31** · [洞察一多，先看你要的那一类](releases/crm-2026-10-31-filter-relationship-insights.zh-CN.md) · 预览 · `0.1.1.9443`
 - **2026-10-28** · [不用切应用，飞书里就能问 Mars](releases/crm-2026-10-28-mars-in-feishu.zh-CN.md) · 预览 · `0.1.1.8920`
 - **2026-10-28** · [说过的那句话，直接拿来接着问](releases/crm-2026-10-28-quote-past-conversations.zh-CN.md) · 预览 · `0.1.1.8920`
 - **2026-10-27** · [问一句，直达那页设置](releases/crm-2026-10-27-open-settings-from-an-answer.zh-CN.md) · 预览 · `0.1.1.8292`

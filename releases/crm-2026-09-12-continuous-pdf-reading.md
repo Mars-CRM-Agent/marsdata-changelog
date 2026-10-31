@@ -13,6 +13,6 @@ Find the right page, and the right file, at a glance.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/continuous-pdf-reading) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/continuous-pdf-reading) · [All updates](../README.md)
 
 [简体中文](./crm-2026-09-12-continuous-pdf-reading.zh-CN.md) · [繁體中文](./crm-2026-09-12-continuous-pdf-reading.zh-HK.md)

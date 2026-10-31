@@ -13,6 +13,6 @@ Your calendar shows what really happened, not only what was scheduled.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/event-status) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/event-status) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-07-event-status.zh-CN.md) · [繁體中文](./crm-2026-10-07-event-status.zh-HK.md)

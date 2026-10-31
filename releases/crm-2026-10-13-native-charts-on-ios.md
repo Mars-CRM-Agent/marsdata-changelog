@@ -13,6 +13,6 @@ Charts look native on iPhone, and any text you pick is easy to reuse.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/native-charts-on-ios) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/native-charts-on-ios) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-13-native-charts-on-ios.zh-CN.md) · [繁體中文](./crm-2026-10-13-native-charts-on-ios.zh-HK.md)

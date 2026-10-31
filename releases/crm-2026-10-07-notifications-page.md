@@ -13,6 +13,6 @@ Hear about finished answers and upcoming events without keeping Mars open.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/notifications-page) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/notifications-page) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-07-notifications-page.zh-CN.md) · [繁體中文](./crm-2026-10-07-notifications-page.zh-HK.md)

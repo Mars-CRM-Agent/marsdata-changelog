@@ -13,6 +13,6 @@ Long chats and dense pages read comfortably at the size that suits you.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/text-size) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/text-size) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-07-text-size.zh-CN.md) · [繁體中文](./crm-2026-10-07-text-size.zh-HK.md)

@@ -13,6 +13,6 @@ Your existing contacts reach Mars in one go, and you decide exactly who.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/import-contacts) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/import-contacts) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-13-import-contacts.zh-CN.md) · [繁體中文](./crm-2026-10-13-import-contacts.zh-HK.md)

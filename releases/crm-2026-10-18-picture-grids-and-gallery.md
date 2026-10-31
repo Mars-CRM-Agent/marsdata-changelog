@@ -13,6 +13,6 @@ A batch of screenshots stays one message, tidy to send and easy to browse.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/picture-grids-and-gallery) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/picture-grids-and-gallery) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-18-picture-grids-and-gallery.zh-CN.md) · [繁體中文](./crm-2026-10-18-picture-grids-and-gallery.zh-HK.md)

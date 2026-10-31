@@ -17,6 +17,6 @@
 
 *示意圖，使用虛構演示資料。*
 
-[體驗預覽版](https://canary.marsdata.ai/changelog/sort-by-value) · [全部更新](../README.zh-HK.md)
+[體驗預覽版](https://marsdata.ai/changelog/sort-by-value) · [全部更新](../README.zh-HK.md)
 
 [English](./crm-2026-10-23-sort-by-value.md) · [简体中文](./crm-2026-10-23-sort-by-value.zh-CN.md)

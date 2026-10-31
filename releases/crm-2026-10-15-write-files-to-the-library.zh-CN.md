@@ -13,6 +13,6 @@ Mars 可以把结果写成 Markdown、文本和 JSON 文件，保存到资料库
 
 *示意图，使用虚构演示数据。*
 
-[体验预览版](https://canary.marsdata.ai/changelog/write-files-to-the-library) · [全部更新](../README.zh-CN.md)
+[体验预览版](https://marsdata.ai/changelog/write-files-to-the-library) · [全部更新](../README.zh-CN.md)
 
 [English](./crm-2026-10-15-write-files-to-the-library.md) · [繁體中文](./crm-2026-10-15-write-files-to-the-library.zh-HK.md)

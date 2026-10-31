@@ -13,6 +13,6 @@ Spot your heaviest hours and check refunds in one place.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/usage-records) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/usage-records) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-07-usage-records.zh-CN.md) · [繁體中文](./crm-2026-10-07-usage-records.zh-HK.md)

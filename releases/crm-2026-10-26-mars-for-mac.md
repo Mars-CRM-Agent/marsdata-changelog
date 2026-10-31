@@ -17,6 +17,6 @@ Sort out people and conversations on a big screen, then pick up on your iPhone w
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/mars-for-mac) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/mars-for-mac) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-26-mars-for-mac.zh-CN.md) · [繁體中文](./crm-2026-10-26-mars-for-mac.zh-HK.md)

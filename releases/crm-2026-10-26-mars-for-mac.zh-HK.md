@@ -17,6 +17,6 @@ Mars 的 Mac 應用與 iPhone、iPad 應用出自同一套原生代碼，在 Mac
 
 *示意圖，使用虛構演示資料。*
 
-[體驗預覽版](https://canary.marsdata.ai/changelog/mars-for-mac) · [全部更新](../README.zh-HK.md)
+[體驗預覽版](https://marsdata.ai/changelog/mars-for-mac) · [全部更新](../README.zh-HK.md)
 
 [English](./crm-2026-10-26-mars-for-mac.md) · [简体中文](./crm-2026-10-26-mars-for-mac.zh-CN.md)

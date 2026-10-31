@@ -13,6 +13,6 @@ Mars 从 iOS 同步你的 Apple 健康每日汇总，之后网页和你的其他
 
 *示意图，使用虚构演示数据。*
 
-[体验预览版](https://canary.marsdata.ai/changelog/apple-health-sync) · [全部更新](../README.zh-CN.md)
+[体验预览版](https://marsdata.ai/changelog/apple-health-sync) · [全部更新](../README.zh-CN.md)
 
 [English](./crm-2026-10-17-apple-health-sync.md) · [繁體中文](./crm-2026-10-17-apple-health-sync.zh-HK.md)

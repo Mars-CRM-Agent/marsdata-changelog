@@ -13,6 +13,6 @@ Dates and times match where you are, so reminders arrive at the hour you expect.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/time-zone-setting) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/time-zone-setting) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-07-time-zone-setting.zh-CN.md) · [繁體中文](./crm-2026-10-07-time-zone-setting.zh-HK.md)

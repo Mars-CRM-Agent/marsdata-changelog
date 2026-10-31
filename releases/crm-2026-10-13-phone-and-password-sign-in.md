@@ -13,6 +13,6 @@ Signing in stays clear, even when an extra check is needed.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/phone-and-password-sign-in) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/phone-and-password-sign-in) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-13-phone-and-password-sign-in.zh-CN.md) · [繁體中文](./crm-2026-10-13-phone-and-password-sign-in.zh-HK.md)

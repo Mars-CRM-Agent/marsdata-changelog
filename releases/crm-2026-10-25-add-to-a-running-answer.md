@@ -17,6 +17,6 @@ Steer the answer the moment you think of something, with no waiting and no start
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/add-to-a-running-answer) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/add-to-a-running-answer) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-25-add-to-a-running-answer.zh-CN.md) · [繁體中文](./crm-2026-10-25-add-to-a-running-answer.zh-HK.md)

@@ -13,6 +13,6 @@
 
 *示意圖，使用虛構演示資料。*
 
-[體驗預覽版](https://canary.marsdata.ai/changelog/plans-on-web-and-ios) · [全部更新](../README.zh-HK.md)
+[體驗預覽版](https://marsdata.ai/changelog/plans-on-web-and-ios) · [全部更新](../README.zh-HK.md)
 
 [English](./crm-2026-10-15-plans-on-web-and-ios.md) · [简体中文](./crm-2026-10-15-plans-on-web-and-ios.zh-CN.md)

@@ -13,6 +13,6 @@ Keep every version, and review Word edits before you accept them.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/revised-office-files) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/revised-office-files) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-10-revised-office-files.zh-CN.md) · [繁體中文](./crm-2026-10-10-revised-office-files.zh-HK.md)

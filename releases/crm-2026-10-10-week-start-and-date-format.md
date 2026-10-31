@@ -13,6 +13,6 @@ Calendars and event lists read the way you expect.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/week-start-and-date-format) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/week-start-and-date-format) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-10-week-start-and-date-format.zh-CN.md) · [繁體中文](./crm-2026-10-10-week-start-and-date-format.zh-HK.md)

@@ -13,6 +13,6 @@
 
 *示意圖，使用虛構演示資料。 截圖介面為簡體中文.*
 
-[體驗預覽版](https://canary.marsdata.ai/changelog/sign-in-with-apple) · [全部更新](../README.zh-HK.md)
+[體驗預覽版](https://marsdata.ai/changelog/sign-in-with-apple) · [全部更新](../README.zh-HK.md)
 
 [English](./crm-2026-10-17-sign-in-with-apple.md) · [简体中文](./crm-2026-10-17-sign-in-with-apple.zh-CN.md)

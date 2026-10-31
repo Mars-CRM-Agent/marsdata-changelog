@@ -13,6 +13,6 @@
 
 *示意圖，使用虛構演示資料。*
 
-[體驗預覽版](https://canary.marsdata.ai/changelog/picture-grids-and-gallery) · [全部更新](../README.zh-HK.md)
+[體驗預覽版](https://marsdata.ai/changelog/picture-grids-and-gallery) · [全部更新](../README.zh-HK.md)
 
 [English](./crm-2026-10-18-picture-grids-and-gallery.md) · [简体中文](./crm-2026-10-18-picture-grids-and-gallery.zh-CN.md)

@@ -13,6 +13,6 @@
 
 *示意图，使用虚构演示数据。*
 
-[体验预览版](https://canary.marsdata.ai/changelog/find-in-chat-and-a-new-answer-menu) · [全部更新](../README.zh-CN.md)
+[体验预览版](https://marsdata.ai/changelog/find-in-chat-and-a-new-answer-menu) · [全部更新](../README.zh-CN.md)
 
 [English](./crm-2026-10-17-find-in-chat-and-a-new-answer-menu.md) · [繁體中文](./crm-2026-10-17-find-in-chat-and-a-new-answer-menu.zh-HK.md)

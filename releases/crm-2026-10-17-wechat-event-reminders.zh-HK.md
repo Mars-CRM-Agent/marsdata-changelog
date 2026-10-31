@@ -9,6 +9,6 @@ Mars 會把每條日程提醒發送到你綁定的每個微信，在網頁或 iO
 
 提醒出現在你每天都在用的地方，重要日程不再錯過。
 
-[體驗預覽版](https://canary.marsdata.ai/changelog/wechat-event-reminders) · [全部更新](../README.zh-HK.md)
+[體驗預覽版](https://marsdata.ai/changelog/wechat-event-reminders) · [全部更新](../README.zh-HK.md)
 
 [English](./crm-2026-10-17-wechat-event-reminders.md) · [简体中文](./crm-2026-10-17-wechat-event-reminders.zh-CN.md)

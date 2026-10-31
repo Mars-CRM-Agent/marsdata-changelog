@@ -13,6 +13,6 @@ Recurring check-ins start on their own, without you opening Mars first.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/reminders-that-start-a-conversation) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/reminders-that-start-a-conversation) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-17-reminders-that-start-a-conversation.zh-CN.md) · [繁體中文](./crm-2026-10-17-reminders-that-start-a-conversation.zh-HK.md)

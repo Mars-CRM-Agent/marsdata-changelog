@@ -17,6 +17,6 @@
 
 *示意图，使用虚构演示数据。*
 
-[体验预览版](https://canary.marsdata.ai/changelog/share-links-with-a-password) · [全部更新](../README.zh-CN.md)
+[体验预览版](https://marsdata.ai/changelog/share-links-with-a-password) · [全部更新](../README.zh-CN.md)
 
 [English](./crm-2026-10-22-share-links-with-a-password.md) · [繁體中文](./crm-2026-10-22-share-links-with-a-password.zh-HK.md)

@@ -13,6 +13,6 @@ The same Mars work, wherever you take your iPhone or iPad.
 
 *Illustration using fictional demo data. Screenshot interface: Simplified Chinese.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/mars-for-ios) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/mars-for-ios) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-10-mars-for-ios.zh-CN.md) · [繁體中文](./crm-2026-10-10-mars-for-ios.zh-HK.md)

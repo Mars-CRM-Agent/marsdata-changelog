@@ -13,6 +13,6 @@ Know which conversation needs you without opening a single one.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/conversation-status-at-a-glance) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/conversation-status-at-a-glance) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-17-conversation-status-at-a-glance.zh-CN.md) · [繁體中文](./crm-2026-10-17-conversation-status-at-a-glance.zh-HK.md)

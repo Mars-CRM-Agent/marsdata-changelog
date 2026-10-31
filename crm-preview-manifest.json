@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "preview",
-  "origin": "https://canary.marsdata.ai",
-  "updates": 68,
+  "origin": "https://marsdata.ai",
+  "updates": 70,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -41,6 +41,12 @@
     "assets/crm-conversation-status-at-a-glance.en.webp",
     "assets/crm-conversation-status-at-a-glance.webp",
     "assets/crm-conversation-status-at-a-glance.zh-TW.webp",
+    "assets/crm-conversations-that-hand-off-work.en.webp",
+    "assets/crm-conversations-that-hand-off-work.phone.en.webp",
+    "assets/crm-conversations-that-hand-off-work.phone.webp",
+    "assets/crm-conversations-that-hand-off-work.phone.zh-TW.webp",
+    "assets/crm-conversations-that-hand-off-work.webp",
+    "assets/crm-conversations-that-hand-off-work.zh-TW.webp",
     "assets/crm-convert-iwork-files.en.webp",
     "assets/crm-convert-iwork-files.webp",
     "assets/crm-convert-iwork-files.zh-TW.webp",
@@ -54,6 +60,12 @@
     "assets/crm-faster-adaptive-diagrams.webp",
     "assets/crm-faster-adaptive-diagrams.zh-TW.webp",
     "assets/crm-feedback-from-thumbs-down.webp",
+    "assets/crm-filter-relationship-insights.en.webp",
+    "assets/crm-filter-relationship-insights.phone.en.webp",
+    "assets/crm-filter-relationship-insights.phone.webp",
+    "assets/crm-filter-relationship-insights.phone.zh-TW.webp",
+    "assets/crm-filter-relationship-insights.webp",
+    "assets/crm-filter-relationship-insights.zh-TW.webp",
     "assets/crm-find-in-chat-and-a-new-answer-menu.en.webp",
     "assets/crm-find-in-chat-and-a-new-answer-menu.webp",
     "assets/crm-find-in-chat-and-a-new-answer-menu.zh-TW.webp",
@@ -434,6 +446,12 @@
     "releases/crm-2026-10-28-mars-in-feishu.zh-HK.md",
     "releases/crm-2026-10-28-quote-past-conversations.md",
     "releases/crm-2026-10-28-quote-past-conversations.zh-CN.md",
-    "releases/crm-2026-10-28-quote-past-conversations.zh-HK.md"
+    "releases/crm-2026-10-28-quote-past-conversations.zh-HK.md",
+    "releases/crm-2026-10-31-conversations-that-hand-off-work.md",
+    "releases/crm-2026-10-31-conversations-that-hand-off-work.zh-CN.md",
+    "releases/crm-2026-10-31-conversations-that-hand-off-work.zh-HK.md",
+    "releases/crm-2026-10-31-filter-relationship-insights.md",
+    "releases/crm-2026-10-31-filter-relationship-insights.zh-CN.md",
+    "releases/crm-2026-10-31-filter-relationship-insights.zh-HK.md"
   ]
 }

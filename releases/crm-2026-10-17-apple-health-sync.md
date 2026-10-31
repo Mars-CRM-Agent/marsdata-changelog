@@ -13,6 +13,6 @@ Your health summaries follow you to every device where you use Mars.
 
 *Illustration using fictional demo data. Screenshot interface: Simplified Chinese.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/apple-health-sync) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/apple-health-sync) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-17-apple-health-sync.zh-CN.md) · [繁體中文](./crm-2026-10-17-apple-health-sync.zh-HK.md)

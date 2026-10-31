@@ -13,6 +13,6 @@ Close a shared link whenever you like, and find an old answer by its words.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/stop-sharing-and-wider-search) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/stop-sharing-and-wider-search) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-07-stop-sharing-and-wider-search.zh-CN.md) · [繁體中文](./crm-2026-10-07-stop-sharing-and-wider-search.zh-HK.md)

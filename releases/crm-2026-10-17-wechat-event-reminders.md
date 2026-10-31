@@ -9,6 +9,6 @@ Mars sends each event reminder to every WeChat you have bound; turn WeChat remin
 
 Reminders land where you already spend your day, so important events don't slip by.
 
-[Explore the preview](https://canary.marsdata.ai/changelog/wechat-event-reminders) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/wechat-event-reminders) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-17-wechat-event-reminders.zh-CN.md) · [繁體中文](./crm-2026-10-17-wechat-event-reminders.zh-HK.md)

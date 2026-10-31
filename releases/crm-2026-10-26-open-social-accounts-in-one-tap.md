@@ -17,6 +17,6 @@ Go from asking about someone to adding them on WeChat or following them, in one 
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/open-social-accounts-in-one-tap) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/open-social-accounts-in-one-tap) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-26-open-social-accounts-in-one-tap.zh-CN.md) · [繁體中文](./crm-2026-10-26-open-social-accounts-in-one-tap.zh-HK.md)

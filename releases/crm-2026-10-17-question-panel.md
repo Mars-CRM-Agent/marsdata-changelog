@@ -13,6 +13,6 @@ Fewer wrong turns on long tasks, and every decision stays yours.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/question-panel) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/question-panel) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-17-question-panel.zh-CN.md) · [繁體中文](./crm-2026-10-17-question-panel.zh-HK.md)

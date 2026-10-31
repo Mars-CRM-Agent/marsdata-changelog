@@ -13,6 +13,6 @@ Support gets the full context, so problems get fixed faster.
 
 *Illustration using fictional demo data. Screenshot interface: Simplified Chinese.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/feedback-from-thumbs-down) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/feedback-from-thumbs-down) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-15-feedback-from-thumbs-down.zh-CN.md) · [繁體中文](./crm-2026-10-15-feedback-from-thumbs-down.zh-HK.md)

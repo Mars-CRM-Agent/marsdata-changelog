@@ -17,6 +17,6 @@
 
 *示意图，使用虚构演示数据。*
 
-[体验预览版](https://canary.marsdata.ai/changelog/what-a-role-pays) · [全部更新](../README.zh-CN.md)
+[体验预览版](https://marsdata.ai/changelog/what-a-role-pays) · [全部更新](../README.zh-CN.md)
 
 [English](./crm-2026-10-25-what-a-role-pays.md) · [繁體中文](./crm-2026-10-25-what-a-role-pays.zh-HK.md)

@@ -13,6 +13,6 @@
 
 *示意图，使用虚构演示数据。*
 
-[体验预览版](https://canary.marsdata.ai/changelog/grouped-personal-memory) · [全部更新](../README.zh-CN.md)
+[体验预览版](https://marsdata.ai/changelog/grouped-personal-memory) · [全部更新](../README.zh-CN.md)
 
 [English](./crm-2026-09-30-grouped-personal-memory.md) · [繁體中文](./crm-2026-09-30-grouped-personal-memory.zh-HK.md)

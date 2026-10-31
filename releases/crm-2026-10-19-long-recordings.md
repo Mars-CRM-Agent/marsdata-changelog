@@ -13,6 +13,6 @@ A whole meeting gets the same precise answers as a short clip.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/long-recordings) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/long-recordings) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-19-long-recordings.zh-CN.md) · [繁體中文](./crm-2026-10-19-long-recordings.zh-HK.md)

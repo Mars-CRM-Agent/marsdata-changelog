@@ -3,9 +3,29 @@
 
 > **Preview** — These features are available in the preview version and have not been generally released.
 
-[Explore the preview](https://canary.marsdata.ai) · [English](./CHANGELOG.md) · [简体中文](./CHANGELOG.zh-CN.md) · [繁體中文](./CHANGELOG.zh-HK.md)
+[Explore the preview](https://marsdata.ai) · [English](./CHANGELOG.md) · [简体中文](./CHANGELOG.zh-CN.md) · [繁體中文](./CHANGELOG.zh-HK.md)
 
 ## Preview updates
+
+### [Mars hands work to a fresh conversation](releases/crm-2026-10-31-conversations-that-hand-off-work.md)
+
+**Preview** · 2026-10-31 · `0.1.1.9443`
+
+Mars can open a new conversation for a task or pass a result to another of your chats, with its source shown.
+
+![Mars hands work to a fresh conversation](assets/crm-conversations-that-hand-off-work.en.webp)
+
+*Illustration using fictional demo data.*
+
+### [The insights you need, filtered first](releases/crm-2026-10-31-filter-relationship-insights.md)
+
+**Preview** · 2026-10-31 · `0.1.1.9443`
+
+Sort a contact's insights by time and filter them by six types and by status; only active ones show by default.
+
+![The insights you need, filtered first](assets/crm-filter-relationship-insights.en.webp)
+
+*Illustration using fictional demo data.*
 
 ### [Mars, inside your Feishu](releases/crm-2026-10-28-mars-in-feishu.md)
 

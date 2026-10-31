@@ -13,6 +13,6 @@
 
 *示意圖，使用虛構演示資料。 截圖介面為簡體中文.*
 
-[體驗預覽版](https://canary.marsdata.ai/changelog/mars-for-ios) · [全部更新](../README.zh-HK.md)
+[體驗預覽版](https://marsdata.ai/changelog/mars-for-ios) · [全部更新](../README.zh-HK.md)
 
 [English](./crm-2026-10-10-mars-for-ios.md) · [简体中文](./crm-2026-10-10-mars-for-ios.zh-CN.md)

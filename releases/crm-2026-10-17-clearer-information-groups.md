@@ -13,6 +13,6 @@ Each group is short enough to scan at a glance, so you find the detail fast.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/clearer-information-groups) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/clearer-information-groups) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-17-clearer-information-groups.zh-CN.md) · [繁體中文](./crm-2026-10-17-clearer-information-groups.zh-HK.md)

@@ -13,6 +13,6 @@ Each platform has its own checkout, so you pay the way your device supports.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/plans-on-web-and-ios) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/plans-on-web-and-ios) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-15-plans-on-web-and-ios.zh-CN.md) · [繁體中文](./crm-2026-10-15-plans-on-web-and-ios.zh-HK.md)

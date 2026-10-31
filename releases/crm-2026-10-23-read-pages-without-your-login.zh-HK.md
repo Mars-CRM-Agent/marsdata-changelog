@@ -17,6 +17,6 @@
 
 *示意圖，使用虛構演示資料。*
 
-[體驗預覽版](https://canary.marsdata.ai/changelog/read-pages-without-your-login) · [全部更新](../README.zh-HK.md)
+[體驗預覽版](https://marsdata.ai/changelog/read-pages-without-your-login) · [全部更新](../README.zh-HK.md)
 
 [English](./crm-2026-10-23-read-pages-without-your-login.md) · [简体中文](./crm-2026-10-23-read-pages-without-your-login.zh-CN.md)

@@ -13,6 +13,6 @@ Find what you need in a long chat, and do anything with an answer from one menu.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/find-in-chat-and-a-new-answer-menu) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/find-in-chat-and-a-new-answer-menu) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-17-find-in-chat-and-a-new-answer-menu.zh-CN.md) · [繁體中文](./crm-2026-10-17-find-in-chat-and-a-new-answer-menu.zh-HK.md)

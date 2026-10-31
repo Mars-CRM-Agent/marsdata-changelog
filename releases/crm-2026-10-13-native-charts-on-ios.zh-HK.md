@@ -13,6 +13,6 @@
 
 *示意圖，使用虛構演示資料。*
 
-[體驗預覽版](https://canary.marsdata.ai/changelog/native-charts-on-ios) · [全部更新](../README.zh-HK.md)
+[體驗預覽版](https://marsdata.ai/changelog/native-charts-on-ios) · [全部更新](../README.zh-HK.md)
 
 [English](./crm-2026-10-13-native-charts-on-ios.md) · [简体中文](./crm-2026-10-13-native-charts-on-ios.zh-CN.md)

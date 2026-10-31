@@ -13,6 +13,6 @@ One place per topic, with nothing empty in the way.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/grouped-personal-memory) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/grouped-personal-memory) · [All updates](../README.md)
 
 [简体中文](./crm-2026-09-30-grouped-personal-memory.zh-CN.md) · [繁體中文](./crm-2026-09-30-grouped-personal-memory.zh-HK.md)

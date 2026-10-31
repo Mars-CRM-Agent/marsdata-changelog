@@ -13,6 +13,6 @@ Mars 记住了这条信息，可它是从哪里来的？
 
 *示意图，使用虚构演示数据。*
 
-[体验预览版](https://canary.marsdata.ai/changelog/what-mars-learned-with-sources) · [全部更新](../README.zh-CN.md)
+[体验预览版](https://marsdata.ai/changelog/what-mars-learned-with-sources) · [全部更新](../README.zh-CN.md)
 
 [English](./crm-2026-09-28-what-mars-learned-with-sources.md) · [繁體中文](./crm-2026-09-28-what-mars-learned-with-sources.zh-HK.md)

@@ -13,6 +13,6 @@ Scan your whole network at a glance and see who to follow up with first.
 
 *Illustration using fictional demo data.*
 
-[Explore the preview](https://canary.marsdata.ai/changelog/relationship-activity-lines) · [All updates](../README.md)
+[Explore the preview](https://marsdata.ai/changelog/relationship-activity-lines) · [All updates](../README.md)
 
 [简体中文](./crm-2026-10-17-relationship-activity-lines.zh-CN.md) · [繁體中文](./crm-2026-10-17-relationship-activity-lines.zh-HK.md)
