@@ -7,6 +7,16 @@
 
 ## Preview updates
 
+### [From the web? Saved only on your say-so](releases/crm-2026-11-01-confirm-before-saving-from-the-web.md)
+
+**Preview** · 2026-11-01 · `0.1.1.9572`
+
+Before Mars saves details it only found on a web page, it quotes them and asks you to confirm.
+
+![From the web? Saved only on your say-so](assets/crm-confirm-before-saving-from-the-web.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [Mars hands work to a fresh conversation](releases/crm-2026-10-31-conversations-that-hand-off-work.md)
 
 **Preview** · 2026-10-31 · `0.1.1.9443`

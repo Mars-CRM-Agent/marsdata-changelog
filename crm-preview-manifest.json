@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://marsdata.ai",
-  "updates": 70,
+  "updates": 71,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -35,6 +35,12 @@
     "assets/crm-clearer-information-groups.en.webp",
     "assets/crm-clearer-information-groups.webp",
     "assets/crm-clearer-information-groups.zh-TW.webp",
+    "assets/crm-confirm-before-saving-from-the-web.en.webp",
+    "assets/crm-confirm-before-saving-from-the-web.phone.en.webp",
+    "assets/crm-confirm-before-saving-from-the-web.phone.webp",
+    "assets/crm-confirm-before-saving-from-the-web.phone.zh-TW.webp",
+    "assets/crm-confirm-before-saving-from-the-web.webp",
+    "assets/crm-confirm-before-saving-from-the-web.zh-TW.webp",
     "assets/crm-continuous-pdf-reading.en.webp",
     "assets/crm-continuous-pdf-reading.webp",
     "assets/crm-continuous-pdf-reading.zh-TW.webp",
@@ -452,6 +458,9 @@
     "releases/crm-2026-10-31-conversations-that-hand-off-work.zh-HK.md",
     "releases/crm-2026-10-31-filter-relationship-insights.md",
     "releases/crm-2026-10-31-filter-relationship-insights.zh-CN.md",
-    "releases/crm-2026-10-31-filter-relationship-insights.zh-HK.md"
+    "releases/crm-2026-10-31-filter-relationship-insights.zh-HK.md",
+    "releases/crm-2026-11-01-confirm-before-saving-from-the-web.md",
+    "releases/crm-2026-11-01-confirm-before-saving-from-the-web.zh-CN.md",
+    "releases/crm-2026-11-01-confirm-before-saving-from-the-web.zh-HK.md"
   ]
 }

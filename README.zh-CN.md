@@ -7,10 +7,11 @@
 
 ## 预览版更新
 
-![一句话，Mars 另开一个对话去办](assets/crm-conversations-that-hand-off-work.webp)
+![网上看到的，先问你再存](assets/crm-confirm-before-saving-from-the-web.webp)
 
 *示意图，使用虚构演示数据。*
 
+- **2026-11-01** · [网上看到的，先问你再存](releases/crm-2026-11-01-confirm-before-saving-from-the-web.zh-CN.md) · 预览 · `0.1.1.9572`
 - **2026-10-31** · [一句话，Mars 另开一个对话去办](releases/crm-2026-10-31-conversations-that-hand-off-work.zh-CN.md) · 预览 · `0.1.1.9443`
 - **2026-10-31** · [洞察一多，先看你要的那一类](releases/crm-2026-10-31-filter-relationship-insights.zh-CN.md) · 预览 · `0.1.1.9443`
 - **2026-10-28** · [不用切应用，飞书里就能问 Mars](releases/crm-2026-10-28-mars-in-feishu.zh-CN.md) · 预览 · `0.1.1.8920`

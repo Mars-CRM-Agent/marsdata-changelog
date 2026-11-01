@@ -7,6 +7,16 @@
 
 ## 預覽版更新
 
+### [網上看到的，先問你再存](releases/crm-2026-11-01-confirm-before-saving-from-the-web.zh-HK.md)
+
+**預覽** · 2026-11-01 · `0.1.1.9572`
+
+Mars 要把只來自網頁的信息存進檔案時，會先列出原文請你確認，點「確認保存」才寫入。
+
+![網上看到的，先問你再存](assets/crm-confirm-before-saving-from-the-web.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
 ### [一句話，Mars 另開一個對話去辦](releases/crm-2026-10-31-conversations-that-hand-off-work.zh-HK.md)
 
 **預覽** · 2026-10-31 · `0.1.1.9443`
