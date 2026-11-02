@@ -7,6 +7,26 @@
 
 ## Preview updates
 
+### [Two people, one name? Mars asks first](releases/crm-2026-11-02-same-name-ask-first.md)
+
+**Preview** · 2026-11-02 · `0.1.1.9961`
+
+When someone new shares a name, phone, email or WeChat ID with a person you know, Mars asks if they are the same before filing anything.
+
+![Two people, one name? Mars asks first](assets/crm-same-name-ask-first.en.webp)
+
+*Illustration using fictional demo data.*
+
+### [Your keyboard knows the way around Mars](releases/crm-2026-11-02-keyboard-shortcuts-everywhere.md)
+
+**Preview** · 2026-11-02 · `0.1.1.9961`
+
+One set of keyboard shortcuts on the web, Mac, iPad and iPhone: search, start a chat or jump to any area without the mouse.
+
+![Your keyboard knows the way around Mars](assets/crm-keyboard-shortcuts-everywhere.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [From the web? Saved only on your say-so](releases/crm-2026-11-01-confirm-before-saving-from-the-web.md)
 
 **Preview** · 2026-11-01 · `0.1.1.9572`

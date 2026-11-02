@@ -7,10 +7,12 @@
 
 ## Preview updates
 
-![From the web? Saved only on your say-so](assets/crm-confirm-before-saving-from-the-web.en.webp)
+![Two people, one name? Mars asks first](assets/crm-same-name-ask-first.en.webp)
 
 *Illustration using fictional demo data.*
 
+- **2026-11-02** · [Two people, one name? Mars asks first](releases/crm-2026-11-02-same-name-ask-first.md) · Preview · `0.1.1.9961`
+- **2026-11-02** · [Your keyboard knows the way around Mars](releases/crm-2026-11-02-keyboard-shortcuts-everywhere.md) · Preview · `0.1.1.9961`
 - **2026-11-01** · [From the web? Saved only on your say-so](releases/crm-2026-11-01-confirm-before-saving-from-the-web.md) · Preview · `0.1.1.9572`
 - **2026-10-31** · [Mars hands work to a fresh conversation](releases/crm-2026-10-31-conversations-that-hand-off-work.md) · Preview · `0.1.1.9443`
 - **2026-10-31** · [The insights you need, filtered first](releases/crm-2026-10-31-filter-relationship-insights.md) · Preview · `0.1.1.9443`

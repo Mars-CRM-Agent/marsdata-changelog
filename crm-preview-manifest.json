@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://marsdata.ai",
-  "updates": 71,
+  "updates": 73,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -87,6 +87,12 @@
     "assets/crm-iwork-and-wps-previews.en.webp",
     "assets/crm-iwork-and-wps-previews.webp",
     "assets/crm-iwork-and-wps-previews.zh-TW.webp",
+    "assets/crm-keyboard-shortcuts-everywhere.en.webp",
+    "assets/crm-keyboard-shortcuts-everywhere.phone.en.webp",
+    "assets/crm-keyboard-shortcuts-everywhere.phone.webp",
+    "assets/crm-keyboard-shortcuts-everywhere.phone.zh-TW.webp",
+    "assets/crm-keyboard-shortcuts-everywhere.webp",
+    "assets/crm-keyboard-shortcuts-everywhere.zh-TW.webp",
     "assets/crm-live-charts-and-diagrams.en.webp",
     "assets/crm-live-charts-and-diagrams.webp",
     "assets/crm-live-charts-and-diagrams.zh-TW.webp",
@@ -203,6 +209,12 @@
     "assets/crm-safer-deletes.en.webp",
     "assets/crm-safer-deletes.webp",
     "assets/crm-safer-deletes.zh-TW.webp",
+    "assets/crm-same-name-ask-first.en.webp",
+    "assets/crm-same-name-ask-first.phone.en.webp",
+    "assets/crm-same-name-ask-first.phone.webp",
+    "assets/crm-same-name-ask-first.phone.zh-TW.webp",
+    "assets/crm-same-name-ask-first.webp",
+    "assets/crm-same-name-ask-first.zh-TW.webp",
     "assets/crm-share-links-with-a-password.en.webp",
     "assets/crm-share-links-with-a-password.phone.en.webp",
     "assets/crm-share-links-with-a-password.phone.webp",
@@ -461,6 +473,12 @@
     "releases/crm-2026-10-31-filter-relationship-insights.zh-HK.md",
     "releases/crm-2026-11-01-confirm-before-saving-from-the-web.md",
     "releases/crm-2026-11-01-confirm-before-saving-from-the-web.zh-CN.md",
-    "releases/crm-2026-11-01-confirm-before-saving-from-the-web.zh-HK.md"
+    "releases/crm-2026-11-01-confirm-before-saving-from-the-web.zh-HK.md",
+    "releases/crm-2026-11-02-keyboard-shortcuts-everywhere.md",
+    "releases/crm-2026-11-02-keyboard-shortcuts-everywhere.zh-CN.md",
+    "releases/crm-2026-11-02-keyboard-shortcuts-everywhere.zh-HK.md",
+    "releases/crm-2026-11-02-same-name-ask-first.md",
+    "releases/crm-2026-11-02-same-name-ask-first.zh-CN.md",
+    "releases/crm-2026-11-02-same-name-ask-first.zh-HK.md"
   ]
 }

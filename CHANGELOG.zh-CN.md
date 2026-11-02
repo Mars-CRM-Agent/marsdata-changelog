@@ -7,6 +7,26 @@
 
 ## 预览版更新
 
+### [同名不同人，Mars 先问你](releases/crm-2026-11-02-same-name-ask-first.zh-CN.md)
+
+**预览** · 2026-11-02 · `0.1.1.9961`
+
+新认识的人和已有联系人重名，或手机号、邮箱、微信相同时，Mars 先问你是不是同一个人，再建档或补充。
+
+![同名不同人，Mars 先问你](assets/crm-same-name-ask-first.webp)
+
+*示意图，使用虚构演示数据。*
+
+### [手不离键盘，Mars 随叫随到](releases/crm-2026-11-02-keyboard-shortcuts-everywhere.zh-CN.md)
+
+**预览** · 2026-11-02 · `0.1.1.9961`
+
+网页、Mac、iPad、iPhone 共用一套快捷键：搜索、开新对话、跳到任一页面，都不用碰鼠标。
+
+![手不离键盘，Mars 随叫随到](assets/crm-keyboard-shortcuts-everywhere.webp)
+
+*示意图，使用虚构演示数据。*
+
 ### [网上看到的，先问你再存](releases/crm-2026-11-01-confirm-before-saving-from-the-web.zh-CN.md)
 
 **预览** · 2026-11-01 · `0.1.1.9572`
