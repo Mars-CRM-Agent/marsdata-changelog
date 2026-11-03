@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://marsdata.ai",
-  "updates": 73,
+  "updates": 74,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -137,6 +137,12 @@
     "assets/crm-mars-widgets-on-iphone.phone.zh-TW.webp",
     "assets/crm-mars-widgets-on-iphone.webp",
     "assets/crm-mars-widgets-on-iphone.zh-TW.webp",
+    "assets/crm-meeting-recording-report-deck.en.webp",
+    "assets/crm-meeting-recording-report-deck.phone.en.webp",
+    "assets/crm-meeting-recording-report-deck.phone.webp",
+    "assets/crm-meeting-recording-report-deck.phone.zh-TW.webp",
+    "assets/crm-meeting-recording-report-deck.webp",
+    "assets/crm-meeting-recording-report-deck.zh-TW.webp",
     "assets/crm-month-events-beside-the-day.en.webp",
     "assets/crm-month-events-beside-the-day.webp",
     "assets/crm-month-events-beside-the-day.zh-TW.webp",
@@ -479,6 +485,9 @@
     "releases/crm-2026-11-02-keyboard-shortcuts-everywhere.zh-HK.md",
     "releases/crm-2026-11-02-same-name-ask-first.md",
     "releases/crm-2026-11-02-same-name-ask-first.zh-CN.md",
-    "releases/crm-2026-11-02-same-name-ask-first.zh-HK.md"
+    "releases/crm-2026-11-02-same-name-ask-first.zh-HK.md",
+    "releases/crm-2026-11-03-meeting-recording-report-deck.md",
+    "releases/crm-2026-11-03-meeting-recording-report-deck.zh-CN.md",
+    "releases/crm-2026-11-03-meeting-recording-report-deck.zh-HK.md"
   ]
 }

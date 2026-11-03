@@ -7,10 +7,11 @@
 
 ## Preview updates
 
-![Two people, one name? Mars asks first](assets/crm-same-name-ask-first.en.webp)
+![Meeting recording in, report deck out](assets/crm-meeting-recording-report-deck.en.webp)
 
 *Illustration using fictional demo data.*
 
+- **2026-11-03** · [Meeting recording in, report deck out](releases/crm-2026-11-03-meeting-recording-report-deck.md) · Preview · `0.1.1.10074`
 - **2026-11-02** · [Two people, one name? Mars asks first](releases/crm-2026-11-02-same-name-ask-first.md) · Preview · `0.1.1.9961`
 - **2026-11-02** · [Your keyboard knows the way around Mars](releases/crm-2026-11-02-keyboard-shortcuts-everywhere.md) · Preview · `0.1.1.9961`
 - **2026-11-01** · [From the web? Saved only on your say-so](releases/crm-2026-11-01-confirm-before-saving-from-the-web.md) · Preview · `0.1.1.9572`

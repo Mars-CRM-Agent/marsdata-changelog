@@ -7,6 +7,16 @@
 
 ## 预览版更新
 
+### [会议录音进来，汇报 PPT 出去](releases/crm-2026-11-03-meeting-recording-report-deck.zh-CN.md)
+
+**预览** · 2026-11-03 · `0.1.1.10074`
+
+附上会议录音，说一句「做成汇报 PPT」，Mars 就把会议概要、决策、带负责人的行动项和各方观点排成 PPT，每一条都标着录音时间点。
+
+![会议录音进来，汇报 PPT 出去](assets/crm-meeting-recording-report-deck.webp)
+
+*示意图，使用虚构演示数据。*
+
 ### [同名不同人，Mars 先问你](releases/crm-2026-11-02-same-name-ask-first.zh-CN.md)
 
 **预览** · 2026-11-02 · `0.1.1.9961`

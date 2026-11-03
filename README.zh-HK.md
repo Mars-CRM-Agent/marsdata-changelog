@@ -7,10 +7,11 @@
 
 ## 預覽版更新
 
-![同名不同人，Mars 先問你](assets/crm-same-name-ask-first.zh-TW.webp)
+![會議錄音進來，彙報 PPT 出去](assets/crm-meeting-recording-report-deck.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
+- **2026-11-03** · [會議錄音進來，彙報 PPT 出去](releases/crm-2026-11-03-meeting-recording-report-deck.zh-HK.md) · 預覽 · `0.1.1.10074`
 - **2026-11-02** · [同名不同人，Mars 先問你](releases/crm-2026-11-02-same-name-ask-first.zh-HK.md) · 預覽 · `0.1.1.9961`
 - **2026-11-02** · [手不離鍵盤，Mars 隨叫隨到](releases/crm-2026-11-02-keyboard-shortcuts-everywhere.zh-HK.md) · 預覽 · `0.1.1.9961`
 - **2026-11-01** · [網上看到的，先問你再存](releases/crm-2026-11-01-confirm-before-saving-from-the-web.zh-HK.md) · 預覽 · `0.1.1.9572`

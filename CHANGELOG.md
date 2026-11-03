@@ -7,6 +7,16 @@
 
 ## Preview updates
 
+### [Meeting recording in, report deck out](releases/crm-2026-11-03-meeting-recording-report-deck.md)
+
+**Preview** · 2026-11-03 · `0.1.1.10074`
+
+Attach a meeting recording and ask for a report deck: Mars turns it into slides of the summary, decisions, action items with owners and each speaker's views, every point timed to the recording.
+
+![Meeting recording in, report deck out](assets/crm-meeting-recording-report-deck.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [Two people, one name? Mars asks first](releases/crm-2026-11-02-same-name-ask-first.md)
 
 **Preview** · 2026-11-02 · `0.1.1.9961`
