@@ -9,11 +9,21 @@
 
 ### [会议录音进来，汇报 PPT 出去](releases/crm-2026-11-03-meeting-recording-report-deck.zh-CN.md)
 
-**预览** · 2026-11-03 · `0.1.1.10074`
+**预览** · 2026-11-03 · `0.1.1.10101`
 
 附上会议录音，说一句「做成汇报 PPT」，Mars 就把会议概要、决策、带负责人的行动项和各方观点排成 PPT，每一条都标着录音时间点。
 
 ![会议录音进来，汇报 PPT 出去](assets/crm-meeting-recording-report-deck.webp)
+
+*示意图，使用虚构演示数据。*
+
+### [回信写好，Gmail 一点就开](releases/crm-2026-11-03-email-reply-open-in-gmail.zh-CN.md)
+
+**预览** · 2026-11-03 · `0.1.1.10101`
+
+让 Mars 回一封邮件，草稿自带收件人和主题；点一下就在 Gmail 里打开，核对后由你亲手发出。
+
+![回信写好，Gmail 一点就开](assets/crm-email-reply-open-in-gmail.webp)
 
 *示意图，使用虚构演示数据。*
 

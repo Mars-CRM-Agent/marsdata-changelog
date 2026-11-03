@@ -9,11 +9,21 @@
 
 ### [會議錄音進來，彙報 PPT 出去](releases/crm-2026-11-03-meeting-recording-report-deck.zh-HK.md)
 
-**預覽** · 2026-11-03 · `0.1.1.10074`
+**預覽** · 2026-11-03 · `0.1.1.10101`
 
 附上會議錄音，説一句「做成彙報 PPT」，Mars 就把會議概要、決策、帶負責人的行動項和各方觀點排成 PPT，每一條都標着錄音時間點。
 
 ![會議錄音進來，彙報 PPT 出去](assets/crm-meeting-recording-report-deck.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [回信寫好，Gmail 一點就開](releases/crm-2026-11-03-email-reply-open-in-gmail.zh-HK.md)
+
+**預覽** · 2026-11-03 · `0.1.1.10101`
+
+讓 Mars 回一封郵件，草稿自帶收件人和主題；點一下就在 Gmail 裏打開，核對後由你親手發出。
+
+![回信寫好，Gmail 一點就開](assets/crm-email-reply-open-in-gmail.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 

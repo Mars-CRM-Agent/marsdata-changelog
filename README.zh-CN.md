@@ -11,7 +11,8 @@
 
 *示意图，使用虚构演示数据。*
 
-- **2026-11-03** · [会议录音进来，汇报 PPT 出去](releases/crm-2026-11-03-meeting-recording-report-deck.zh-CN.md) · 预览 · `0.1.1.10074`
+- **2026-11-03** · [会议录音进来，汇报 PPT 出去](releases/crm-2026-11-03-meeting-recording-report-deck.zh-CN.md) · 预览 · `0.1.1.10101`
+- **2026-11-03** · [回信写好，Gmail 一点就开](releases/crm-2026-11-03-email-reply-open-in-gmail.zh-CN.md) · 预览 · `0.1.1.10101`
 - **2026-11-02** · [同名不同人，Mars 先问你](releases/crm-2026-11-02-same-name-ask-first.zh-CN.md) · 预览 · `0.1.1.9961`
 - **2026-11-02** · [手不离键盘，Mars 随叫随到](releases/crm-2026-11-02-keyboard-shortcuts-everywhere.zh-CN.md) · 预览 · `0.1.1.9961`
 - **2026-11-01** · [网上看到的，先问你再存](releases/crm-2026-11-01-confirm-before-saving-from-the-web.zh-CN.md) · 预览 · `0.1.1.9572`

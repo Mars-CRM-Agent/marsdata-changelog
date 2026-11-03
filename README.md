@@ -11,7 +11,8 @@
 
 *Illustration using fictional demo data.*
 
-- **2026-11-03** · [Meeting recording in, report deck out](releases/crm-2026-11-03-meeting-recording-report-deck.md) · Preview · `0.1.1.10074`
+- **2026-11-03** · [Meeting recording in, report deck out](releases/crm-2026-11-03-meeting-recording-report-deck.md) · Preview · `0.1.1.10101`
+- **2026-11-03** · [Your reply, already waiting in Gmail](releases/crm-2026-11-03-email-reply-open-in-gmail.md) · Preview · `0.1.1.10101`
 - **2026-11-02** · [Two people, one name? Mars asks first](releases/crm-2026-11-02-same-name-ask-first.md) · Preview · `0.1.1.9961`
 - **2026-11-02** · [Your keyboard knows the way around Mars](releases/crm-2026-11-02-keyboard-shortcuts-everywhere.md) · Preview · `0.1.1.9961`
 - **2026-11-01** · [From the web? Saved only on your say-so](releases/crm-2026-11-01-confirm-before-saving-from-the-web.md) · Preview · `0.1.1.9572`

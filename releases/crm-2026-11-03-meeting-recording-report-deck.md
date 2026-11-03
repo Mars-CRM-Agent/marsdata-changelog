@@ -1,6 +1,6 @@
 # Meeting recording in, report deck out
 
-> **Preview** · 2026-11-03 · `0.1.1.10074`
+> **Preview** · 2026-11-03 · `0.1.1.10101`
 > These features are available in the preview version and have not been generally released.
 
 Minutes take an evening; turning them into slides takes another.

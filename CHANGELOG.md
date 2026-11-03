@@ -9,11 +9,21 @@
 
 ### [Meeting recording in, report deck out](releases/crm-2026-11-03-meeting-recording-report-deck.md)
 
-**Preview** · 2026-11-03 · `0.1.1.10074`
+**Preview** · 2026-11-03 · `0.1.1.10101`
 
 Attach a meeting recording and ask for a report deck: Mars turns it into slides of the summary, decisions, action items with owners and each speaker's views, every point timed to the recording.
 
 ![Meeting recording in, report deck out](assets/crm-meeting-recording-report-deck.en.webp)
+
+*Illustration using fictional demo data.*
+
+### [Your reply, already waiting in Gmail](releases/crm-2026-11-03-email-reply-open-in-gmail.md)
+
+**Preview** · 2026-11-03 · `0.1.1.10101`
+
+Ask Mars to answer an email: the draft arrives with the recipient and subject filled in, and one tap opens it in Gmail for you to check and send.
+
+![Your reply, already waiting in Gmail](assets/crm-email-reply-open-in-gmail.en.webp)
 
 *Illustration using fictional demo data.*
 
