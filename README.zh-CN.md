@@ -7,10 +7,11 @@
 
 ## 预览版更新
 
-![会议录音进来，汇报 PPT 出去](assets/crm-meeting-recording-report-deck.webp)
+![一句话做海报，价格日期不走样](assets/crm-posters-with-exact-words.webp)
 
 *示意图，使用虚构演示数据。*
 
+- **2026-11-04** · [一句话做海报，价格日期不走样](releases/crm-2026-11-04-posters-with-exact-words.zh-CN.md) · 预览 · `0.1.1.10253`
 - **2026-11-03** · [会议录音进来，汇报 PPT 出去](releases/crm-2026-11-03-meeting-recording-report-deck.zh-CN.md) · 预览 · `0.1.1.10101`
 - **2026-11-03** · [回信写好，Gmail 一点就开](releases/crm-2026-11-03-email-reply-open-in-gmail.zh-CN.md) · 预览 · `0.1.1.10101`
 - **2026-11-02** · [同名不同人，Mars 先问你](releases/crm-2026-11-02-same-name-ask-first.zh-CN.md) · 预览 · `0.1.1.9961`

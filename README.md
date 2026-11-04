@@ -7,10 +7,11 @@
 
 ## Preview updates
 
-![Meeting recording in, report deck out](assets/crm-meeting-recording-report-deck.en.webp)
+![Posters with every price and date right](assets/crm-posters-with-exact-words.en.webp)
 
 *Illustration using fictional demo data.*
 
+- **2026-11-04** · [Posters with every price and date right](releases/crm-2026-11-04-posters-with-exact-words.md) · Preview · `0.1.1.10253`
 - **2026-11-03** · [Meeting recording in, report deck out](releases/crm-2026-11-03-meeting-recording-report-deck.md) · Preview · `0.1.1.10101`
 - **2026-11-03** · [Your reply, already waiting in Gmail](releases/crm-2026-11-03-email-reply-open-in-gmail.md) · Preview · `0.1.1.10101`
 - **2026-11-02** · [Two people, one name? Mars asks first](releases/crm-2026-11-02-same-name-ask-first.md) · Preview · `0.1.1.9961`

@@ -7,6 +7,16 @@
 
 ## 預覽版更新
 
+### [一句話做海報，價格日期不走樣](releases/crm-2026-11-04-posters-with-exact-words.zh-HK.md)
+
+**預覽** · 2026-11-04 · `0.1.1.10253`
+
+讓 Mars 做一張海報，標題、日期、價格都按你給的字排上去；一次 4 款版式，PNG 拿去就發，pptx 還能接着改。
+
+![一句話做海報，價格日期不走樣](assets/crm-posters-with-exact-words.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
 ### [會議錄音進來，彙報 PPT 出去](releases/crm-2026-11-03-meeting-recording-report-deck.zh-HK.md)
 
 **預覽** · 2026-11-03 · `0.1.1.10101`

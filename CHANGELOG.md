@@ -7,6 +7,16 @@
 
 ## Preview updates
 
+### [Posters with every price and date right](releases/crm-2026-11-04-posters-with-exact-words.md)
+
+**Preview** · 2026-11-04 · `0.1.1.10253`
+
+Ask Mars for a poster and every title, date and price is set from the words you gave: four layouts at once, a PNG to post and a .pptx to edit.
+
+![Posters with every price and date right](assets/crm-posters-with-exact-words.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [Meeting recording in, report deck out](releases/crm-2026-11-03-meeting-recording-report-deck.md)
 
 **Preview** · 2026-11-03 · `0.1.1.10101`

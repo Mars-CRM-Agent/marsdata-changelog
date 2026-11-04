@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://marsdata.ai",
-  "updates": 75,
+  "updates": 76,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -185,6 +185,12 @@
     "assets/crm-plans-on-web-and-ios.en.webp",
     "assets/crm-plans-on-web-and-ios.webp",
     "assets/crm-plans-on-web-and-ios.zh-TW.webp",
+    "assets/crm-posters-with-exact-words.en.webp",
+    "assets/crm-posters-with-exact-words.phone.en.webp",
+    "assets/crm-posters-with-exact-words.phone.webp",
+    "assets/crm-posters-with-exact-words.phone.zh-TW.webp",
+    "assets/crm-posters-with-exact-words.webp",
+    "assets/crm-posters-with-exact-words.zh-TW.webp",
     "assets/crm-privacy-lock.en.webp",
     "assets/crm-privacy-lock.webp",
     "assets/crm-privacy-lock.zh-TW.webp",
@@ -497,6 +503,9 @@
     "releases/crm-2026-11-03-email-reply-open-in-gmail.zh-HK.md",
     "releases/crm-2026-11-03-meeting-recording-report-deck.md",
     "releases/crm-2026-11-03-meeting-recording-report-deck.zh-CN.md",
-    "releases/crm-2026-11-03-meeting-recording-report-deck.zh-HK.md"
+    "releases/crm-2026-11-03-meeting-recording-report-deck.zh-HK.md",
+    "releases/crm-2026-11-04-posters-with-exact-words.md",
+    "releases/crm-2026-11-04-posters-with-exact-words.zh-CN.md",
+    "releases/crm-2026-11-04-posters-with-exact-words.zh-HK.md"
   ]
 }
