@@ -11,7 +11,8 @@
 
 *示意圖，使用虛構演示資料。*
 
-- **2026-11-04** · [一句話做海報，價格日期不走樣](releases/crm-2026-11-04-posters-with-exact-words.zh-HK.md) · 預覽 · `0.1.1.10253`
+- **2026-11-04** · [一句話做海報，價格日期不走樣](releases/crm-2026-11-04-posters-with-exact-words.zh-HK.md) · 預覽 · `0.1.1.10457`
+- **2026-11-04** · [分享過的鏈接，一頁管齊](releases/crm-2026-11-04-manage-shared-links.zh-HK.md) · 預覽 · `0.1.1.10457`
 - **2026-11-03** · [會議錄音進來，彙報 PPT 出去](releases/crm-2026-11-03-meeting-recording-report-deck.zh-HK.md) · 預覽 · `0.1.1.10101`
 - **2026-11-03** · [回信寫好，Gmail 一點就開](releases/crm-2026-11-03-email-reply-open-in-gmail.zh-HK.md) · 預覽 · `0.1.1.10101`
 - **2026-11-02** · [同名不同人，Mars 先問你](releases/crm-2026-11-02-same-name-ask-first.zh-HK.md) · 預覽 · `0.1.1.9961`

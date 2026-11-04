@@ -1,6 +1,6 @@
 # Posters with every price and date right
 
-> **Preview** · 2026-11-04 · `0.1.1.10253`
+> **Preview** · 2026-11-04 · `0.1.1.10457`
 > These features are available in the preview version and have not been generally released.
 
 AI posters look great until you read them: a price off by a digit, a garbled date, every word to check by hand.

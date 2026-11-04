@@ -9,11 +9,21 @@
 
 ### [一句話做海報，價格日期不走樣](releases/crm-2026-11-04-posters-with-exact-words.zh-HK.md)
 
-**預覽** · 2026-11-04 · `0.1.1.10253`
+**預覽** · 2026-11-04 · `0.1.1.10457`
 
 讓 Mars 做一張海報，標題、日期、價格都按你給的字排上去；一次 4 款版式，PNG 拿去就發，pptx 還能接着改。
 
 ![一句話做海報，價格日期不走樣](assets/crm-posters-with-exact-words.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [分享過的鏈接，一頁管齊](releases/crm-2026-11-04-manage-shared-links.zh-HK.md)
+
+**預覽** · 2026-11-04 · `0.1.1.10457`
+
+分享過的鏈接集中在一頁：哪條設了密碼一眼看清，單條或批量複製、刪除都行。
+
+![分享過的鏈接，一頁管齊](assets/crm-manage-shared-links.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 

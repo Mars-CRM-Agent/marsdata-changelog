@@ -9,11 +9,21 @@
 
 ### [Posters with every price and date right](releases/crm-2026-11-04-posters-with-exact-words.md)
 
-**Preview** · 2026-11-04 · `0.1.1.10253`
+**Preview** · 2026-11-04 · `0.1.1.10457`
 
 Ask Mars for a poster and every title, date and price is set from the words you gave: four layouts at once, a PNG to post and a .pptx to edit.
 
 ![Posters with every price and date right](assets/crm-posters-with-exact-words.en.webp)
+
+*Illustration using fictional demo data.*
+
+### [Shared links, managed from a single list](releases/crm-2026-11-04-manage-shared-links.md)
+
+**Preview** · 2026-11-04 · `0.1.1.10457`
+
+Every share link you have made, in one list: see which ones need a password, then copy or delete one or many at once.
+
+![Shared links, managed from a single list](assets/crm-manage-shared-links.en.webp)
 
 *Illustration using fictional demo data.*
 
