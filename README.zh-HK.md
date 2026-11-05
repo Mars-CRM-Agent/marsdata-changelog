@@ -7,10 +7,11 @@
 
 ## 預覽版更新
 
-![一句話做海報，價格日期不走樣](assets/crm-posters-with-exact-words.zh-TW.webp)
+![搜不到？一點交給 Mars 去找](assets/crm-ask-mars-when-search-misses.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
+- **2026-11-05** · [搜不到？一點交給 Mars 去找](releases/crm-2026-11-05-ask-mars-when-search-misses.zh-HK.md) · 預覽 · `0.1.1.10670`
 - **2026-11-04** · [一句話做海報，價格日期不走樣](releases/crm-2026-11-04-posters-with-exact-words.zh-HK.md) · 預覽 · `0.1.1.10457`
 - **2026-11-04** · [分享過的鏈接，一頁管齊](releases/crm-2026-11-04-manage-shared-links.zh-HK.md) · 預覽 · `0.1.1.10457`
 - **2026-11-03** · [會議錄音進來，彙報 PPT 出去](releases/crm-2026-11-03-meeting-recording-report-deck.zh-HK.md) · 預覽 · `0.1.1.10101`

@@ -7,6 +7,16 @@
 
 ## Preview updates
 
+### [Search came up empty? Hand it to Mars](releases/crm-2026-11-05-ask-mars-when-search-misses.md)
+
+**Preview** · 2026-11-05 · `0.1.1.10670`
+
+When a search on a contact's page or in the Library finds nothing, tap Ask Mars: a new conversation opens with the question already written.
+
+![Search came up empty? Hand it to Mars](assets/crm-ask-mars-when-search-misses.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [Posters with every price and date right](releases/crm-2026-11-04-posters-with-exact-words.md)
 
 **Preview** · 2026-11-04 · `0.1.1.10457`

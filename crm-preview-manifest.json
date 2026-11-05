@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://marsdata.ai",
-  "updates": 77,
+  "updates": 78,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -29,6 +29,12 @@
     "assets/crm-archive-previews.en.webp",
     "assets/crm-archive-previews.webp",
     "assets/crm-archive-previews.zh-TW.webp",
+    "assets/crm-ask-mars-when-search-misses.en.webp",
+    "assets/crm-ask-mars-when-search-misses.phone.en.webp",
+    "assets/crm-ask-mars-when-search-misses.phone.webp",
+    "assets/crm-ask-mars-when-search-misses.phone.zh-TW.webp",
+    "assets/crm-ask-mars-when-search-misses.webp",
+    "assets/crm-ask-mars-when-search-misses.zh-TW.webp",
     "assets/crm-cited-link-titles.en.webp",
     "assets/crm-cited-link-titles.webp",
     "assets/crm-cited-link-titles.zh-TW.webp",
@@ -515,6 +521,9 @@
     "releases/crm-2026-11-04-manage-shared-links.zh-HK.md",
     "releases/crm-2026-11-04-posters-with-exact-words.md",
     "releases/crm-2026-11-04-posters-with-exact-words.zh-CN.md",
-    "releases/crm-2026-11-04-posters-with-exact-words.zh-HK.md"
+    "releases/crm-2026-11-04-posters-with-exact-words.zh-HK.md",
+    "releases/crm-2026-11-05-ask-mars-when-search-misses.md",
+    "releases/crm-2026-11-05-ask-mars-when-search-misses.zh-CN.md",
+    "releases/crm-2026-11-05-ask-mars-when-search-misses.zh-HK.md"
   ]
 }

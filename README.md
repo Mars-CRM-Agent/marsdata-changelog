@@ -7,10 +7,11 @@
 
 ## Preview updates
 
-![Posters with every price and date right](assets/crm-posters-with-exact-words.en.webp)
+![Search came up empty? Hand it to Mars](assets/crm-ask-mars-when-search-misses.en.webp)
 
 *Illustration using fictional demo data.*
 
+- **2026-11-05** · [Search came up empty? Hand it to Mars](releases/crm-2026-11-05-ask-mars-when-search-misses.md) · Preview · `0.1.1.10670`
 - **2026-11-04** · [Posters with every price and date right](releases/crm-2026-11-04-posters-with-exact-words.md) · Preview · `0.1.1.10457`
 - **2026-11-04** · [Shared links, managed from a single list](releases/crm-2026-11-04-manage-shared-links.md) · Preview · `0.1.1.10457`
 - **2026-11-03** · [Meeting recording in, report deck out](releases/crm-2026-11-03-meeting-recording-report-deck.md) · Preview · `0.1.1.10101`

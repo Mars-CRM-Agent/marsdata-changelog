@@ -7,6 +7,16 @@
 
 ## 預覽版更新
 
+### [搜不到？一點交給 Mars 去找](releases/crm-2026-11-05-ask-mars-when-search-misses.zh-HK.md)
+
+**預覽** · 2026-11-05 · `0.1.1.10670`
+
+聯繫人頁或資料庫裏搜不到時，點「問問Mars」：新對話直接打開，問題已經替你寫好。
+
+![搜不到？一點交給 Mars 去找](assets/crm-ask-mars-when-search-misses.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
 ### [一句話做海報，價格日期不走樣](releases/crm-2026-11-04-posters-with-exact-words.zh-HK.md)
 
 **預覽** · 2026-11-04 · `0.1.1.10457`
