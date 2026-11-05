@@ -7,13 +7,13 @@
 
 ## 预览版更新
 
-### [搜不到？一点交给 Mars 去找](releases/crm-2026-11-05-ask-mars-when-search-misses.zh-CN.md)
+### [搜不到？直接交给 Mars 去找](releases/crm-2026-11-05-ask-mars-when-search-misses.zh-CN.md)
 
 **预览** · 2026-11-05 · `0.1.1.10670`
 
 联系人页或资料库里搜不到时，点「问问Mars」：新对话直接打开，问题已经替你写好。
 
-![搜不到？一点交给 Mars 去找](assets/crm-ask-mars-when-search-misses.webp)
+![搜不到？直接交给 Mars 去找](assets/crm-ask-mars-when-search-misses.webp)
 
 *示意图，使用虚构演示数据。*
 

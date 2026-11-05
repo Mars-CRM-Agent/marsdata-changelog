@@ -1,4 +1,4 @@
-# 搜不到？一點交給 Mars 去找
+# 搜不到？直接交給 Mars 去找
 
 > **預覽** · 2026-11-05 · `0.1.1.10670`
 > 以下功能目前處於預覽階段，尚未正式上線。
@@ -9,11 +9,11 @@
 
 搜不到不再是終點：點一下，Mars 接着幫你找。
 
-![搜不到？一點交給 Mars 去找 — 電腦端](../assets/crm-ask-mars-when-search-misses.zh-TW.webp)
+![搜不到？直接交給 Mars 去找 — 電腦端](../assets/crm-ask-mars-when-search-misses.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
-![搜不到？一點交給 Mars 去找 — iPhone](../assets/crm-ask-mars-when-search-misses.phone.zh-TW.webp)
+![搜不到？直接交給 Mars 去找 — iPhone](../assets/crm-ask-mars-when-search-misses.phone.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 

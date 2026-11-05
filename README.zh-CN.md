@@ -7,11 +7,11 @@
 
 ## 预览版更新
 
-![搜不到？一点交给 Mars 去找](assets/crm-ask-mars-when-search-misses.webp)
+![搜不到？直接交给 Mars 去找](assets/crm-ask-mars-when-search-misses.webp)
 
 *示意图，使用虚构演示数据。*
 
-- **2026-11-05** · [搜不到？一点交给 Mars 去找](releases/crm-2026-11-05-ask-mars-when-search-misses.zh-CN.md) · 预览 · `0.1.1.10670`
+- **2026-11-05** · [搜不到？直接交给 Mars 去找](releases/crm-2026-11-05-ask-mars-when-search-misses.zh-CN.md) · 预览 · `0.1.1.10670`
 - **2026-11-04** · [一句话做海报，价格日期不走样](releases/crm-2026-11-04-posters-with-exact-words.zh-CN.md) · 预览 · `0.1.1.10457`
 - **2026-11-04** · [分享过的链接，一页管齐](releases/crm-2026-11-04-manage-shared-links.zh-CN.md) · 预览 · `0.1.1.10457`
 - **2026-11-03** · [会议录音进来，汇报 PPT 出去](releases/crm-2026-11-03-meeting-recording-report-deck.zh-CN.md) · 预览 · `0.1.1.10101`
