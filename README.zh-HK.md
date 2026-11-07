@@ -7,10 +7,11 @@
 
 ## 預覽版更新
 
-![搜不到？直接交給 Mars 去找](assets/crm-ask-mars-when-search-misses.zh-TW.webp)
+![日語、韓語、泰語用户，打開就是母語](assets/crm-mars-in-japanese-korean-thai.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
+- **2026-11-07** · [日語、韓語、泰語用户，打開就是母語](releases/crm-2026-11-07-mars-in-japanese-korean-thai.zh-HK.md) · 預覽 · `0.1.1.11027`
 - **2026-11-05** · [搜不到？直接交給 Mars 去找](releases/crm-2026-11-05-ask-mars-when-search-misses.zh-HK.md) · 預覽 · `0.1.1.10670`
 - **2026-11-04** · [一句話做海報，價格日期不走樣](releases/crm-2026-11-04-posters-with-exact-words.zh-HK.md) · 預覽 · `0.1.1.10457`
 - **2026-11-04** · [分享過的鏈接，一頁管齊](releases/crm-2026-11-04-manage-shared-links.zh-HK.md) · 預覽 · `0.1.1.10457`

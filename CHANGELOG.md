@@ -7,6 +7,16 @@
 
 ## Preview updates
 
+### [Mars, now in Japanese, Korean and Thai](releases/crm-2026-11-07-mars-in-japanese-korean-thai.md)
+
+**Preview** · 2026-11-07 · `0.1.1.11027`
+
+Mars adds Japanese, Korean and Thai: the web and iOS apps, voice input and the fields Mars saves, all in your language.
+
+![Mars, now in Japanese, Korean and Thai](assets/crm-mars-in-japanese-korean-thai.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [Search came up empty? Hand it to Mars](releases/crm-2026-11-05-ask-mars-when-search-misses.md)
 
 **Preview** · 2026-11-05 · `0.1.1.10670`

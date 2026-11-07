@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://marsdata.ai",
-  "updates": 78,
+  "updates": 79,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -137,6 +137,12 @@
     "assets/crm-mars-in-feishu.phone.zh-TW.webp",
     "assets/crm-mars-in-feishu.webp",
     "assets/crm-mars-in-feishu.zh-TW.webp",
+    "assets/crm-mars-in-japanese-korean-thai.en.webp",
+    "assets/crm-mars-in-japanese-korean-thai.phone.en.webp",
+    "assets/crm-mars-in-japanese-korean-thai.phone.webp",
+    "assets/crm-mars-in-japanese-korean-thai.phone.zh-TW.webp",
+    "assets/crm-mars-in-japanese-korean-thai.webp",
+    "assets/crm-mars-in-japanese-korean-thai.zh-TW.webp",
     "assets/crm-mars-makes-decks-and-documents.en.webp",
     "assets/crm-mars-makes-decks-and-documents.phone.en.webp",
     "assets/crm-mars-makes-decks-and-documents.phone.webp",
@@ -524,6 +530,9 @@
     "releases/crm-2026-11-04-posters-with-exact-words.zh-HK.md",
     "releases/crm-2026-11-05-ask-mars-when-search-misses.md",
     "releases/crm-2026-11-05-ask-mars-when-search-misses.zh-CN.md",
-    "releases/crm-2026-11-05-ask-mars-when-search-misses.zh-HK.md"
+    "releases/crm-2026-11-05-ask-mars-when-search-misses.zh-HK.md",
+    "releases/crm-2026-11-07-mars-in-japanese-korean-thai.md",
+    "releases/crm-2026-11-07-mars-in-japanese-korean-thai.zh-CN.md",
+    "releases/crm-2026-11-07-mars-in-japanese-korean-thai.zh-HK.md"
   ]
 }

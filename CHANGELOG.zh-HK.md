@@ -7,6 +7,16 @@
 
 ## 預覽版更新
 
+### [日語、韓語、泰語用户，打開就是母語](releases/crm-2026-11-07-mars-in-japanese-korean-thai.zh-HK.md)
+
+**預覽** · 2026-11-07 · `0.1.1.11027`
+
+Mars 新增日語、韓語和泰語：網頁版和 iOS 應用的界面、語音輸入，連 Mars 記下的信息名都換成你的語言。
+
+![日語、韓語、泰語用户，打開就是母語](assets/crm-mars-in-japanese-korean-thai.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
 ### [搜不到？直接交給 Mars 去找](releases/crm-2026-11-05-ask-mars-when-search-misses.zh-HK.md)
 
 **預覽** · 2026-11-05 · `0.1.1.10670`
