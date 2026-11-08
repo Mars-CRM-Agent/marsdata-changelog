@@ -7,10 +7,11 @@
 
 ## Preview updates
 
-![Mars, now in Japanese, Korean and Thai](assets/crm-mars-in-japanese-korean-thai.en.webp)
+![Edit your question, get a fresh answer](assets/crm-edit-your-question.en.webp)
 
 *Illustration using fictional demo data.*
 
+- **2026-11-08** · [Edit your question, get a fresh answer](releases/crm-2026-11-08-edit-your-question.md) · Preview · `0.1.1.11207`
 - **2026-11-07** · [Mars, now in Japanese, Korean and Thai](releases/crm-2026-11-07-mars-in-japanese-korean-thai.md) · Preview · `0.1.1.11027`
 - **2026-11-05** · [Search came up empty? Hand it to Mars](releases/crm-2026-11-05-ask-mars-when-search-misses.md) · Preview · `0.1.1.10670`
 - **2026-11-04** · [Posters with every price and date right](releases/crm-2026-11-04-posters-with-exact-words.md) · Preview · `0.1.1.10457`

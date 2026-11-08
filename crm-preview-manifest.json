@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://marsdata.ai",
-  "updates": 79,
+  "updates": 80,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -65,6 +65,12 @@
     "assets/crm-deep-research-you-can-follow.en.webp",
     "assets/crm-deep-research-you-can-follow.webp",
     "assets/crm-deep-research-you-can-follow.zh-TW.webp",
+    "assets/crm-edit-your-question.en.webp",
+    "assets/crm-edit-your-question.phone.en.webp",
+    "assets/crm-edit-your-question.phone.webp",
+    "assets/crm-edit-your-question.phone.zh-TW.webp",
+    "assets/crm-edit-your-question.webp",
+    "assets/crm-edit-your-question.zh-TW.webp",
     "assets/crm-email-reply-open-in-gmail.en.webp",
     "assets/crm-email-reply-open-in-gmail.phone.en.webp",
     "assets/crm-email-reply-open-in-gmail.phone.webp",
@@ -533,6 +539,9 @@
     "releases/crm-2026-11-05-ask-mars-when-search-misses.zh-HK.md",
     "releases/crm-2026-11-07-mars-in-japanese-korean-thai.md",
     "releases/crm-2026-11-07-mars-in-japanese-korean-thai.zh-CN.md",
-    "releases/crm-2026-11-07-mars-in-japanese-korean-thai.zh-HK.md"
+    "releases/crm-2026-11-07-mars-in-japanese-korean-thai.zh-HK.md",
+    "releases/crm-2026-11-08-edit-your-question.md",
+    "releases/crm-2026-11-08-edit-your-question.zh-CN.md",
+    "releases/crm-2026-11-08-edit-your-question.zh-HK.md"
   ]
 }

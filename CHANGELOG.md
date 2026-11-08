@@ -7,6 +7,16 @@
 
 ## Preview updates
 
+### [Edit your question, get a fresh answer](releases/crm-2026-11-08-edit-your-question.md)
+
+**Preview** · 2026-11-08 · `0.1.1.11207`
+
+Edit any question you sent: Mars answers your latest question again in place, and an earlier one in a new branch that leaves the original conversation untouched.
+
+![Edit your question, get a fresh answer](assets/crm-edit-your-question.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [Mars, now in Japanese, Korean and Thai](releases/crm-2026-11-07-mars-in-japanese-korean-thai.md)
 
 **Preview** · 2026-11-07 · `0.1.1.11027`
