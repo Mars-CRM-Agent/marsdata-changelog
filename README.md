@@ -7,10 +7,11 @@
 
 ## Preview updates
 
-![Mars on the web: under half the download](assets/crm-lighter-web-opening.en.webp)
+![See the whole board with Mars-2.0 Corona](assets/crm-mars-2-0-corona.en.webp)
 
 *Illustration using fictional demo data.*
 
+- **2026-11-11** · [See the whole board with Mars-2.0 Corona](releases/crm-2026-11-11-mars-2-0-corona.md) · Preview · `0.1.1.11616`
 - **2026-11-10** · [Mars on the web: under half the download](releases/crm-2026-11-10-lighter-web-opening.md) · Preview · `0.1.1.11493`
 - **2026-11-08** · [Edit your question, get a fresh answer](releases/crm-2026-11-08-edit-your-question.md) · Preview · `0.1.1.11207`
 - **2026-11-07** · [Mars, now in Japanese, Korean and Thai](releases/crm-2026-11-07-mars-in-japanese-korean-thai.md) · Preview · `0.1.1.11027`

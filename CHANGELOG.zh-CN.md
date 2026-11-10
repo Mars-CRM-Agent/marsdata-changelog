@@ -7,6 +7,16 @@
 
 ## 预览版更新
 
+### [复杂局势，先用 Mars-2.0 Corona 推演](releases/crm-2026-11-11-mars-2-0-corona.zh-CN.md)
+
+**预览** · 2026-11-11 · `0.1.1.11616`
+
+新增旗舰模型 Mars-2.0 Corona（全局推演），位于 Blaze、Flare 与 Ember 之上，复杂局势与长链路难题一键切换推演。
+
+![复杂局势，先用 Mars-2.0 Corona 推演](assets/crm-mars-2-0-corona.webp)
+
+*示意图，使用虚构演示数据。*
+
 ### [网页版打开，下载少一半多](releases/crm-2026-11-10-lighter-web-opening.zh-CN.md)
 
 **预览** · 2026-11-10 · `0.1.1.11493`

@@ -7,6 +7,16 @@
 
 ## Preview updates
 
+### [See the whole board with Mars-2.0 Corona](releases/crm-2026-11-11-mars-2-0-corona.md)
+
+**Preview** · 2026-11-11 · `0.1.1.11616`
+
+Mars-2.0 Corona joins at the top of the model lineup for global foresight across multi-party decisions, while keeping your draft intact when you switch.
+
+![See the whole board with Mars-2.0 Corona](assets/crm-mars-2-0-corona.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [Mars on the web: under half the download](releases/crm-2026-11-10-lighter-web-opening.md)
 
 **Preview** · 2026-11-10 · `0.1.1.11493`
