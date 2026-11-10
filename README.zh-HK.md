@@ -7,10 +7,11 @@
 
 ## 預覽版更新
 
-![問題沒問對？改一句，重新回答](assets/crm-edit-your-question.zh-TW.webp)
+![網頁版打開，少下約六成](assets/crm-lighter-web-opening.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
+- **2026-11-10** · [網頁版打開，少下約六成](releases/crm-2026-11-10-lighter-web-opening.zh-HK.md) · 預覽 · `0.1.1.11493`
 - **2026-11-08** · [問題沒問對？改一句，重新回答](releases/crm-2026-11-08-edit-your-question.zh-HK.md) · 預覽 · `0.1.1.11207`
 - **2026-11-07** · [日語、韓語、泰語用户，打開就是母語](releases/crm-2026-11-07-mars-in-japanese-korean-thai.zh-HK.md) · 預覽 · `0.1.1.11027`
 - **2026-11-05** · [搜不到？直接交給 Mars 去找](releases/crm-2026-11-05-ask-mars-when-search-misses.zh-HK.md) · 預覽 · `0.1.1.10670`

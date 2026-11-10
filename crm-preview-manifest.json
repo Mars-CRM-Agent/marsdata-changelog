@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://marsdata.ai",
-  "updates": 80,
+  "updates": 81,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -111,6 +111,12 @@
     "assets/crm-keyboard-shortcuts-everywhere.phone.zh-TW.webp",
     "assets/crm-keyboard-shortcuts-everywhere.webp",
     "assets/crm-keyboard-shortcuts-everywhere.zh-TW.webp",
+    "assets/crm-lighter-web-opening.en.webp",
+    "assets/crm-lighter-web-opening.phone.en.webp",
+    "assets/crm-lighter-web-opening.phone.webp",
+    "assets/crm-lighter-web-opening.phone.zh-TW.webp",
+    "assets/crm-lighter-web-opening.webp",
+    "assets/crm-lighter-web-opening.zh-TW.webp",
     "assets/crm-live-charts-and-diagrams.en.webp",
     "assets/crm-live-charts-and-diagrams.webp",
     "assets/crm-live-charts-and-diagrams.zh-TW.webp",
@@ -542,6 +548,9 @@
     "releases/crm-2026-11-07-mars-in-japanese-korean-thai.zh-HK.md",
     "releases/crm-2026-11-08-edit-your-question.md",
     "releases/crm-2026-11-08-edit-your-question.zh-CN.md",
-    "releases/crm-2026-11-08-edit-your-question.zh-HK.md"
+    "releases/crm-2026-11-08-edit-your-question.zh-HK.md",
+    "releases/crm-2026-11-10-lighter-web-opening.md",
+    "releases/crm-2026-11-10-lighter-web-opening.zh-CN.md",
+    "releases/crm-2026-11-10-lighter-web-opening.zh-HK.md"
   ]
 }
