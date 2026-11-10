@@ -7,13 +7,13 @@
 
 ## Preview updates
 
-### [Mars on the web: 60% less to download](releases/crm-2026-11-10-lighter-web-opening.md)
+### [Mars on the web: under half the download](releases/crm-2026-11-10-lighter-web-opening.md)
 
 **Preview** · 2026-11-10 · `0.1.1.11493`
 
-Mars on the web now downloads about 330 KB before its first screen instead of 825 KB, about 60% less, and starts your lists sooner.
+Mars on the web now downloads about 330 to 380 KB before its first screen instead of 825 KB, more than half less, and starts your lists sooner.
 
-![Mars on the web: 60% less to download](assets/crm-lighter-web-opening.en.webp)
+![Mars on the web: under half the download](assets/crm-lighter-web-opening.en.webp)
 
 *Illustration using fictional demo data.*
 

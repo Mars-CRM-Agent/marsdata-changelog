@@ -7,13 +7,13 @@
 
 ## 預覽版更新
 
-### [網頁版打開，少下約六成](releases/crm-2026-11-10-lighter-web-opening.zh-HK.md)
+### [網頁版打開，下載少一半多](releases/crm-2026-11-10-lighter-web-opening.zh-HK.md)
 
 **預覽** · 2026-11-10 · `0.1.1.11493`
 
-網頁版 Mars 打開時，首屏前要下載的內容從 825 KB 降到約 330 KB，少約六成，列表也更早開始加載。
+網頁版 Mars 打開時，首屏前要下載的內容從 825 KB 降到約 330 至 380 KB，少了一半以上，列表也更早開始加載。
 
-![網頁版打開，少下約六成](assets/crm-lighter-web-opening.zh-TW.webp)
+![網頁版打開，下載少一半多](assets/crm-lighter-web-opening.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
