@@ -9,11 +9,21 @@
 
 ### [See the whole board with Mars-2.0 Corona](releases/crm-2026-11-11-mars-2-0-corona.md)
 
-**Preview** · 2026-11-11 · `0.1.1.11616`
+**Preview** · 2026-11-11 · `0.1.1.11804`
 
 Mars-2.0 Corona joins at the top of the model lineup for global foresight across multi-party decisions, while keeping your draft intact when you switch.
 
 ![See the whole board with Mars-2.0 Corona](assets/crm-mars-2-0-corona.en.webp)
+
+*Illustration using fictional demo data.*
+
+### [Bring a friend, you both get credits](releases/crm-2026-11-11-invite-friends-earn-credits.md)
+
+**Preview** · 2026-11-11 · `0.1.1.11804`
+
+Invite friends to Mars with your own link: you both get 200 credits when they sign up and 1,000 more when they first subscribe, for up to 100 friends.
+
+![Bring a friend, you both get credits](assets/crm-invite-friends-earn-credits.en.webp)
 
 *Illustration using fictional demo data.*
 

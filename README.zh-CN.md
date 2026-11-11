@@ -11,7 +11,8 @@
 
 *示意图，使用虚构演示数据。*
 
-- **2026-11-11** · [复杂局势，先用 Mars-2.0 Corona 推演](releases/crm-2026-11-11-mars-2-0-corona.zh-CN.md) · 预览 · `0.1.1.11616`
+- **2026-11-11** · [复杂局势，先用 Mars-2.0 Corona 推演](releases/crm-2026-11-11-mars-2-0-corona.zh-CN.md) · 预览 · `0.1.1.11804`
+- **2026-11-11** · [拉上好友一起用，双方都拿积分](releases/crm-2026-11-11-invite-friends-earn-credits.zh-CN.md) · 预览 · `0.1.1.11804`
 - **2026-11-10** · [网页版打开，下载少一半多](releases/crm-2026-11-10-lighter-web-opening.zh-CN.md) · 预览 · `0.1.1.11493`
 - **2026-11-08** · [问题没问对？改一句，重新回答](releases/crm-2026-11-08-edit-your-question.zh-CN.md) · 预览 · `0.1.1.11207`
 - **2026-11-07** · [日语、韩语、泰语用户，打开就是母语](releases/crm-2026-11-07-mars-in-japanese-korean-thai.zh-CN.md) · 预览 · `0.1.1.11027`

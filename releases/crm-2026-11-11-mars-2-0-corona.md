@@ -1,6 +1,6 @@
 # See the whole board with Mars-2.0 Corona
 
-> **Preview** · 2026-11-11 · `0.1.1.11616`
+> **Preview** · 2026-11-11 · `0.1.1.11804`
 > These features are available in the preview version and have not been generally released.
 
 A single insight isn't enough when one move shifts three relationships down the line.

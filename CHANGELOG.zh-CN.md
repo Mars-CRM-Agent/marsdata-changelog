@@ -9,11 +9,21 @@
 
 ### [复杂局势，先用 Mars-2.0 Corona 推演](releases/crm-2026-11-11-mars-2-0-corona.zh-CN.md)
 
-**预览** · 2026-11-11 · `0.1.1.11616`
+**预览** · 2026-11-11 · `0.1.1.11804`
 
 新增旗舰模型 Mars-2.0 Corona（全局推演），位于 Blaze、Flare 与 Ember 之上，复杂局势与长链路难题一键切换推演。
 
 ![复杂局势，先用 Mars-2.0 Corona 推演](assets/crm-mars-2-0-corona.webp)
+
+*示意图，使用虚构演示数据。*
+
+### [拉上好友一起用，双方都拿积分](releases/crm-2026-11-11-invite-friends-earn-credits.zh-CN.md)
+
+**预览** · 2026-11-11 · `0.1.1.11804`
+
+新增邀请有礼：发出专属邀请链接，好友注册双方各得 200 积分，好友首次订阅再各得 1000 积分，最多可有效邀请 100 位好友。
+
+![拉上好友一起用，双方都拿积分](assets/crm-invite-friends-earn-credits.webp)
 
 *示意图，使用虚构演示数据。*
 
