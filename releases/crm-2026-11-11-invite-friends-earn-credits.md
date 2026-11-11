@@ -5,7 +5,7 @@
 
 Mars is better with the people you'd trust to see it first.
 
-Open Invite rewards in Settings, or tap the invite banner on the new-chat home, and send your own invite link. On the web, copy the link or download a ready-made invite card; in the iOS app, Invite friends now opens the share sheet with the card, its QR code and the link. When a friend signs up through it, you each get 200 credits; when they first subscribe, you each get 1,000 more, for up to 100 friends. Invite history shows each friend's status and the credits you earned. Unspent reward credits carry over when your plan renews. No codes to type, nothing to track by hand: every reward lands in both accounts on its own.
+Open Invite rewards in Settings, or tap the invite banner on the new-chat home, and send your own invite link. On the web, copy the link or download a ready-made invite card; in the iOS app, Invite friends now opens the share sheet with the card, its QR code and the link. When a friend signs up through it, you each get 200 credits; when they first subscribe, you each get 1,000 more, for up to 100 friends. Invite history shows each friend's status and the credits you earned. Unspent reward credits carry over when your plan renews.
 
 Share Mars with the people who matter, and keep going on the credits you both earn.
 
