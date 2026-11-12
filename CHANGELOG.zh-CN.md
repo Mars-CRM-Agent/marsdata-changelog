@@ -443,13 +443,13 @@ Keynote、Pages、Numbers 和 WPS 文件在对话里直接显示首页，不用�
 
 *示意图，使用虚构演示数据。*
 
-### [一个人的信息，分组清楚好找](releases/crm-2026-10-17-clearer-information-groups.zh-CN.md)
+### [人脉信息分得更细，翻一眼就找到](releases/crm-2026-10-17-clearer-information-groups.zh-CN.md)
 
 **预览** · 2026-10-17 · `0.1.1.5950`
 
 一个人的信息拆成「事业与团队」「技术与工具」「思维与偏好」，每组更短，想找的一眼就到。
 
-![一个人的信息，分组清楚好找](assets/crm-clearer-information-groups.webp)
+![人脉信息分得更细，翻一眼就找到](assets/crm-clearer-information-groups.webp)
 
 *示意图，使用虚构演示数据。*
 

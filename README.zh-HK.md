@@ -55,7 +55,7 @@
 - **2026-10-17** · [哪段對話在等你，一眼看出](releases/crm-2026-10-17-conversation-status-at-a-glance.zh-HK.md) · 預覽 · `0.1.1.5950`
 - **2026-10-17** · [日程提醒，直接發到微信](releases/crm-2026-10-17-wechat-event-reminders.zh-HK.md) · 預覽 · `0.1.1.5950`
 - **2026-10-17** · [打開列表，就知道今天該聯繫誰](releases/crm-2026-10-17-relationship-activity-lines.zh-HK.md) · 預覽 · `0.1.1.5950`
-- **2026-10-17** · [一個人的信息，分組清楚好找](releases/crm-2026-10-17-clearer-information-groups.zh-HK.md) · 預覽 · `0.1.1.5950`
+- **2026-10-17** · [人脈信息分得更細，翻一眼就找到](releases/crm-2026-10-17-clearer-information-groups.zh-HK.md) · 預覽 · `0.1.1.5950`
 - **2026-10-17** · [Keynote、Pages、Numbers 也能改](releases/crm-2026-10-17-convert-iwork-files.zh-HK.md) · 預覽 · `0.1.1.5950`
 - **2026-10-15** · [設備借出去，Mars 照樣上鎖](releases/crm-2026-10-15-privacy-lock.zh-HK.md) · 預覽 · `0.1.1.5585`
 - **2026-10-15** · [更高一檔的 Mars-2.0 Blaze](releases/crm-2026-10-15-mars-2-0-blaze.zh-HK.md) · 預覽 · `0.1.1.5585`
