@@ -7,11 +7,11 @@
 
 ## 预览版更新
 
-![问起一个人，先看清是谁](assets/crm-person-card-in-answers.webp)
+![查人不止看文字：有照片，有身份，有细节](assets/crm-person-card-in-answers.webp)
 
 *示意图，使用虚构演示数据。*
 
-- **2026-11-14** · [问起一个人，先看清是谁](releases/crm-2026-11-14-person-card-in-answers.zh-CN.md) · 预览 · `0.1.1.12210`
+- **2026-11-14** · [查人不止看文字：有照片，有身份，有细节](releases/crm-2026-11-14-person-card-in-answers.zh-CN.md) · 预览 · `0.1.1.12210`
 - **2026-11-11** · [复杂局势，先用 Mars-2.0 Corona 推演](releases/crm-2026-11-11-mars-2-0-corona.zh-CN.md) · 预览 · `0.1.1.11804`
 - **2026-11-11** · [拉上好友一起用，双方都拿积分](releases/crm-2026-11-11-invite-friends-earn-credits.zh-CN.md) · 预览 · `0.1.1.11804`
 - **2026-11-10** · [网页版打开，下载少一半多](releases/crm-2026-11-10-lighter-web-opening.zh-CN.md) · 预览 · `0.1.1.11493`

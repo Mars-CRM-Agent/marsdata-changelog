@@ -7,13 +7,13 @@
 
 ## Preview updates
 
-### [Photo, name and role, before the answer](releases/crm-2026-11-14-person-card-in-answers.md)
+### [A photo, a role and the details](releases/crm-2026-11-14-person-card-in-answers.md)
 
 **Preview** · 2026-11-14 · `0.1.1.12210`
 
-Person search and deep research answers now open with a person card: photo, name, role and key facts at a glance.
+Ask about a person and the answer opens with their photo and role, followed by their career, company and recent news, each with a source.
 
-![Photo, name and role, before the answer](assets/crm-person-card-in-answers.en.webp)
+![A photo, a role and the details](assets/crm-person-card-in-answers.en.webp)
 
 *Illustration using fictional demo data.*
 

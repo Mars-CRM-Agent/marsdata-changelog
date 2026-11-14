@@ -7,13 +7,13 @@
 
 ## 预览版更新
 
-### [问起一个人，先看清是谁](releases/crm-2026-11-14-person-card-in-answers.zh-CN.md)
+### [查人不止看文字：有照片，有身份，有细节](releases/crm-2026-11-14-person-card-in-answers.zh-CN.md)
 
 **预览** · 2026-11-14 · `0.1.1.12210`
 
-人物搜索和深度研究的回答，开头先出人物卡片：照片、姓名、身份和关键信息一眼看清。
+查一个人，回答开头先给照片和身份卡片，下面接着是履历、公司和近期动态等详细信息，每条附来源。
 
-![问起一个人，先看清是谁](assets/crm-person-card-in-answers.webp)
+![查人不止看文字：有照片，有身份，有细节](assets/crm-person-card-in-answers.webp)
 
 *示意图，使用虚构演示数据。*
 
