@@ -7,10 +7,11 @@
 
 ## 預覽版更新
 
-![複雜局勢，先用 Mars-2.0 Corona 推演](assets/crm-mars-2-0-corona.zh-TW.webp)
+![問起一個人，先看清是誰](assets/crm-person-card-in-answers.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
+- **2026-11-14** · [問起一個人，先看清是誰](releases/crm-2026-11-14-person-card-in-answers.zh-HK.md) · 預覽 · `0.1.1.12210`
 - **2026-11-11** · [複雜局勢，先用 Mars-2.0 Corona 推演](releases/crm-2026-11-11-mars-2-0-corona.zh-HK.md) · 預覽 · `0.1.1.11804`
 - **2026-11-11** · [拉上好友一起用，雙方都拿積分](releases/crm-2026-11-11-invite-friends-earn-credits.zh-HK.md) · 預覽 · `0.1.1.11804`
 - **2026-11-10** · [網頁版打開，下載少一半多](releases/crm-2026-11-10-lighter-web-opening.zh-HK.md) · 預覽 · `0.1.1.11493`

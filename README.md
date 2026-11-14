@@ -7,10 +7,11 @@
 
 ## Preview updates
 
-![See the whole board with Mars-2.0 Corona](assets/crm-mars-2-0-corona.en.webp)
+![Photo, name and role, before the answer](assets/crm-person-card-in-answers.en.webp)
 
 *Illustration using fictional demo data.*
 
+- **2026-11-14** · [Photo, name and role, before the answer](releases/crm-2026-11-14-person-card-in-answers.md) · Preview · `0.1.1.12210`
 - **2026-11-11** · [See the whole board with Mars-2.0 Corona](releases/crm-2026-11-11-mars-2-0-corona.md) · Preview · `0.1.1.11804`
 - **2026-11-11** · [Bring a friend, you both get credits](releases/crm-2026-11-11-invite-friends-earn-credits.md) · Preview · `0.1.1.11804`
 - **2026-11-10** · [Mars on the web: under half the download](releases/crm-2026-11-10-lighter-web-opening.md) · Preview · `0.1.1.11493`
