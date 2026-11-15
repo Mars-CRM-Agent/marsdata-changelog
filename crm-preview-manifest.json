@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://marsdata.ai",
-  "updates": 84,
+  "updates": 85,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -194,6 +194,12 @@
     "assets/crm-month-events-beside-the-day.en.webp",
     "assets/crm-month-events-beside-the-day.webp",
     "assets/crm-month-events-beside-the-day.zh-TW.webp",
+    "assets/crm-name-someone-mars-remembers.en.webp",
+    "assets/crm-name-someone-mars-remembers.phone.en.webp",
+    "assets/crm-name-someone-mars-remembers.phone.webp",
+    "assets/crm-name-someone-mars-remembers.phone.zh-TW.webp",
+    "assets/crm-name-someone-mars-remembers.webp",
+    "assets/crm-name-someone-mars-remembers.zh-TW.webp",
     "assets/crm-native-charts-on-ios.en.webp",
     "assets/crm-native-charts-on-ios.webp",
     "assets/crm-native-charts-on-ios.zh-TW.webp",
@@ -578,6 +584,9 @@
     "releases/crm-2026-11-11-mars-2-0-corona.zh-HK.md",
     "releases/crm-2026-11-14-person-card-in-answers.md",
     "releases/crm-2026-11-14-person-card-in-answers.zh-CN.md",
-    "releases/crm-2026-11-14-person-card-in-answers.zh-HK.md"
+    "releases/crm-2026-11-14-person-card-in-answers.zh-HK.md",
+    "releases/crm-2026-11-15-name-someone-mars-remembers.md",
+    "releases/crm-2026-11-15-name-someone-mars-remembers.zh-CN.md",
+    "releases/crm-2026-11-15-name-someone-mars-remembers.zh-HK.md"
   ]
 }

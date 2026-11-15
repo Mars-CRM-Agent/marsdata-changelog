@@ -7,10 +7,11 @@
 
 ## 預覽版更新
 
-![查人不止看文字：有照片，有身份，有細節](assets/crm-person-card-in-answers.zh-TW.webp)
+![提到誰，Mars 先翻出你們聊過的](assets/crm-name-someone-mars-remembers.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
+- **2026-11-15** · [提到誰，Mars 先翻出你們聊過的](releases/crm-2026-11-15-name-someone-mars-remembers.zh-HK.md) · 預覽 · `0.1.1.12496`
 - **2026-11-14** · [查人不止看文字：有照片，有身份，有細節](releases/crm-2026-11-14-person-card-in-answers.zh-HK.md) · 預覽 · `0.1.1.12210`
 - **2026-11-11** · [複雜局勢，先用 Mars-2.0 Corona 推演](releases/crm-2026-11-11-mars-2-0-corona.zh-HK.md) · 預覽 · `0.1.1.11804`
 - **2026-11-11** · [拉上好友一起用，雙方都拿積分](releases/crm-2026-11-11-invite-friends-earn-credits.zh-HK.md) · 預覽 · `0.1.1.11804`

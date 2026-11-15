@@ -7,10 +7,11 @@
 
 ## Preview updates
 
-![A photo, a role and the details](assets/crm-person-card-in-answers.en.webp)
+![Name them, and Mars recalls your history](assets/crm-name-someone-mars-remembers.en.webp)
 
 *Illustration using fictional demo data.*
 
+- **2026-11-15** · [Name them, and Mars recalls your history](releases/crm-2026-11-15-name-someone-mars-remembers.md) · Preview · `0.1.1.12496`
 - **2026-11-14** · [A photo, a role and the details](releases/crm-2026-11-14-person-card-in-answers.md) · Preview · `0.1.1.12210`
 - **2026-11-11** · [See the whole board with Mars-2.0 Corona](releases/crm-2026-11-11-mars-2-0-corona.md) · Preview · `0.1.1.11804`
 - **2026-11-11** · [Bring a friend, you both get credits](releases/crm-2026-11-11-invite-friends-earn-credits.md) · Preview · `0.1.1.11804`

@@ -7,6 +7,16 @@
 
 ## Preview updates
 
+### [Name them, and Mars recalls your history](releases/crm-2026-11-15-name-someone-mars-remembers.md)
+
+**Preview** · 2026-11-15 · `0.1.1.12496`
+
+Name a contact in a question and Mars first brings back what your other conversations said about them, never someone else's.
+
+![Name them, and Mars recalls your history](assets/crm-name-someone-mars-remembers.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [A photo, a role and the details](releases/crm-2026-11-14-person-card-in-answers.md)
 
 **Preview** · 2026-11-14 · `0.1.1.12210`

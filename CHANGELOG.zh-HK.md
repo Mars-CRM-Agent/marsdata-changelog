@@ -7,6 +7,16 @@
 
 ## 預覽版更新
 
+### [提到誰，Mars 先翻出你們聊過的](releases/crm-2026-11-15-name-someone-mars-remembers.zh-HK.md)
+
+**預覽** · 2026-11-15 · `0.1.1.12496`
+
+提問時點名一位聯繫人，Mars 先從你的其他對話裏找回關於這個人的內容，不會混進別人的。
+
+![提到誰，Mars 先翻出你們聊過的](assets/crm-name-someone-mars-remembers.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
 ### [查人不止看文字：有照片，有身份，有細節](releases/crm-2026-11-14-person-card-in-answers.zh-HK.md)
 
 **預覽** · 2026-11-14 · `0.1.1.12210`
