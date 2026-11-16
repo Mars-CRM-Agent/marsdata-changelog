@@ -7,6 +7,26 @@
 
 ## Preview updates
 
+### [Delete one exchange, keep the rest](releases/crm-2026-11-16-delete-one-exchange.md)
+
+**Preview** · 2026-11-16 · `0.1.1.12604`
+
+Delete a single question and its answer from a conversation from the answer's more menu; the rest of the conversation stays as it was.
+
+![Delete one exchange, keep the rest](assets/crm-delete-one-exchange.en.webp)
+
+*Illustration using fictional demo data.*
+
+### [Download hundreds, track the progress](releases/crm-2026-11-16-library-batch-download.md)
+
+**Preview** · 2026-11-16 · `0.1.1.12604`
+
+Select hundreds of Library files and download them in one batch, with each file's progress, cancel, resume and retry.
+
+![Download hundreds, track the progress](assets/crm-library-batch-download.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [Name them, and Mars recalls your history](releases/crm-2026-11-15-name-someone-mars-remembers.md)
 
 **Preview** · 2026-11-15 · `0.1.1.12496`

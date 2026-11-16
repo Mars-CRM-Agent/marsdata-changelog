@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://marsdata.ai",
-  "updates": 84,
+  "updates": 86,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -65,6 +65,12 @@
     "assets/crm-deep-research-you-can-follow.en.webp",
     "assets/crm-deep-research-you-can-follow.webp",
     "assets/crm-deep-research-you-can-follow.zh-TW.webp",
+    "assets/crm-delete-one-exchange.en.webp",
+    "assets/crm-delete-one-exchange.phone.en.webp",
+    "assets/crm-delete-one-exchange.phone.webp",
+    "assets/crm-delete-one-exchange.phone.zh-TW.webp",
+    "assets/crm-delete-one-exchange.webp",
+    "assets/crm-delete-one-exchange.zh-TW.webp",
     "assets/crm-edit-your-question.en.webp",
     "assets/crm-edit-your-question.phone.en.webp",
     "assets/crm-edit-your-question.phone.webp",
@@ -117,6 +123,12 @@
     "assets/crm-keyboard-shortcuts-everywhere.phone.zh-TW.webp",
     "assets/crm-keyboard-shortcuts-everywhere.webp",
     "assets/crm-keyboard-shortcuts-everywhere.zh-TW.webp",
+    "assets/crm-library-batch-download.en.webp",
+    "assets/crm-library-batch-download.phone.en.webp",
+    "assets/crm-library-batch-download.phone.webp",
+    "assets/crm-library-batch-download.phone.zh-TW.webp",
+    "assets/crm-library-batch-download.webp",
+    "assets/crm-library-batch-download.zh-TW.webp",
     "assets/crm-lighter-web-opening.en.webp",
     "assets/crm-lighter-web-opening.phone.en.webp",
     "assets/crm-lighter-web-opening.phone.webp",
@@ -578,6 +590,12 @@
     "releases/crm-2026-11-14-person-card-in-answers.zh-HK.md",
     "releases/crm-2026-11-15-name-someone-mars-remembers.md",
     "releases/crm-2026-11-15-name-someone-mars-remembers.zh-CN.md",
-    "releases/crm-2026-11-15-name-someone-mars-remembers.zh-HK.md"
+    "releases/crm-2026-11-15-name-someone-mars-remembers.zh-HK.md",
+    "releases/crm-2026-11-16-delete-one-exchange.md",
+    "releases/crm-2026-11-16-delete-one-exchange.zh-CN.md",
+    "releases/crm-2026-11-16-delete-one-exchange.zh-HK.md",
+    "releases/crm-2026-11-16-library-batch-download.md",
+    "releases/crm-2026-11-16-library-batch-download.zh-CN.md",
+    "releases/crm-2026-11-16-library-batch-download.zh-HK.md"
   ]
 }

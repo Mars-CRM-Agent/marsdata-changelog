@@ -7,10 +7,12 @@
 
 ## Preview updates
 
-![Name them, and Mars recalls your history](assets/crm-name-someone-mars-remembers.en.webp)
+![Delete one exchange, keep the rest](assets/crm-delete-one-exchange.en.webp)
 
 *Illustration using fictional demo data.*
 
+- **2026-11-16** · [Delete one exchange, keep the rest](releases/crm-2026-11-16-delete-one-exchange.md) · Preview · `0.1.1.12604`
+- **2026-11-16** · [Download hundreds, track the progress](releases/crm-2026-11-16-library-batch-download.md) · Preview · `0.1.1.12604`
 - **2026-11-15** · [Name them, and Mars recalls your history](releases/crm-2026-11-15-name-someone-mars-remembers.md) · Preview · `0.1.1.12496`
 - **2026-11-14** · [A photo, a role and the details](releases/crm-2026-11-14-person-card-in-answers.md) · Preview · `0.1.1.12210`
 - **2026-11-11** · [Bring a friend, you both get credits](releases/crm-2026-11-11-invite-friends-earn-credits.md) · Preview · `0.1.1.11804`

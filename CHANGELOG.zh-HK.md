@@ -7,6 +7,26 @@
 
 ## 預覽版更新
 
+### [問偏了一輪？單獨刪掉，對話還在](releases/crm-2026-11-16-delete-one-exchange.zh-HK.md)
+
+**預覽** · 2026-11-16 · `0.1.1.12604`
+
+回答的更多菜單新增刪除：單獨刪掉這一問一答，對話裏的其餘內容原樣保留。
+
+![問偏了一輪？單獨刪掉，對話還在](assets/crm-delete-one-exchange.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
+### [幾百個文件一次下完，進度一目瞭然](releases/crm-2026-11-16-library-batch-download.zh-HK.md)
+
+**預覽** · 2026-11-16 · `0.1.1.12604`
+
+在資料庫裏選中幾百個文件一次下載，每個文件的進度都看得見，可以取消、繼續和重試。
+
+![幾百個文件一次下完，進度一目瞭然](assets/crm-library-batch-download.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
 ### [提到誰，Mars 先翻出你們聊過的](releases/crm-2026-11-15-name-someone-mars-remembers.zh-HK.md)
 
 **預覽** · 2026-11-15 · `0.1.1.12496`

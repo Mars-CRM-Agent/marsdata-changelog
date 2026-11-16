@@ -7,10 +7,12 @@
 
 ## 预览版更新
 
-![提到谁，Mars 先翻出你们聊过的](assets/crm-name-someone-mars-remembers.webp)
+![问偏了一轮？单独删掉，对话还在](assets/crm-delete-one-exchange.webp)
 
 *示意图，使用虚构演示数据。*
 
+- **2026-11-16** · [问偏了一轮？单独删掉，对话还在](releases/crm-2026-11-16-delete-one-exchange.zh-CN.md) · 预览 · `0.1.1.12604`
+- **2026-11-16** · [几百个文件一次下完，进度一目了然](releases/crm-2026-11-16-library-batch-download.zh-CN.md) · 预览 · `0.1.1.12604`
 - **2026-11-15** · [提到谁，Mars 先翻出你们聊过的](releases/crm-2026-11-15-name-someone-mars-remembers.zh-CN.md) · 预览 · `0.1.1.12496`
 - **2026-11-14** · [查人不止看文字：有照片，有身份，有细节](releases/crm-2026-11-14-person-card-in-answers.zh-CN.md) · 预览 · `0.1.1.12210`
 - **2026-11-11** · [拉上好友一起用，双方都拿积分](releases/crm-2026-11-11-invite-friends-earn-credits.zh-CN.md) · 预览 · `0.1.1.11804`
