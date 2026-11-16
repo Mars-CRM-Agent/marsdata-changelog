@@ -27,16 +27,6 @@
 
 *示意圖，使用虛構演示資料。*
 
-### [複雜局勢，先用 Mars-2.0 Corona 推演](releases/crm-2026-11-11-mars-2-0-corona.zh-HK.md)
-
-**預覽** · 2026-11-11 · `0.1.1.11804`
-
-新增旗艦模型 Mars-2.0 Corona（全局推演），位於 Blaze、Flare 與 Ember 之上，複雜局勢與長鏈路難題一鍵切換推演。
-
-![複雜局勢，先用 Mars-2.0 Corona 推演](assets/crm-mars-2-0-corona.zh-TW.webp)
-
-*示意圖，使用虛構演示資料。*
-
 ### [拉上好友一起用，雙方都拿積分](releases/crm-2026-11-11-invite-friends-earn-credits.zh-HK.md)
 
 **預覽** · 2026-11-11 · `0.1.1.11804`

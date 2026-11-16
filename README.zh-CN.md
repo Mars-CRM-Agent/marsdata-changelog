@@ -13,7 +13,6 @@
 
 - **2026-11-15** · [提到谁，Mars 先翻出你们聊过的](releases/crm-2026-11-15-name-someone-mars-remembers.zh-CN.md) · 预览 · `0.1.1.12496`
 - **2026-11-14** · [查人不止看文字：有照片，有身份，有细节](releases/crm-2026-11-14-person-card-in-answers.zh-CN.md) · 预览 · `0.1.1.12210`
-- **2026-11-11** · [复杂局势，先用 Mars-2.0 Corona 推演](releases/crm-2026-11-11-mars-2-0-corona.zh-CN.md) · 预览 · `0.1.1.11804`
 - **2026-11-11** · [拉上好友一起用，双方都拿积分](releases/crm-2026-11-11-invite-friends-earn-credits.zh-CN.md) · 预览 · `0.1.1.11804`
 - **2026-11-10** · [网页版打开，下载少一半多](releases/crm-2026-11-10-lighter-web-opening.zh-CN.md) · 预览 · `0.1.1.11493`
 - **2026-11-08** · [问题没问对？改一句，重新回答](releases/crm-2026-11-08-edit-your-question.zh-CN.md) · 预览 · `0.1.1.11207`

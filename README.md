@@ -13,7 +13,6 @@
 
 - **2026-11-15** · [Name them, and Mars recalls your history](releases/crm-2026-11-15-name-someone-mars-remembers.md) · Preview · `0.1.1.12496`
 - **2026-11-14** · [A photo, a role and the details](releases/crm-2026-11-14-person-card-in-answers.md) · Preview · `0.1.1.12210`
-- **2026-11-11** · [See the whole board with Mars-2.0 Corona](releases/crm-2026-11-11-mars-2-0-corona.md) · Preview · `0.1.1.11804`
 - **2026-11-11** · [Bring a friend, you both get credits](releases/crm-2026-11-11-invite-friends-earn-credits.md) · Preview · `0.1.1.11804`
 - **2026-11-10** · [Mars on the web: under half the download](releases/crm-2026-11-10-lighter-web-opening.md) · Preview · `0.1.1.11493`
 - **2026-11-08** · [Edit your question, get a fresh answer](releases/crm-2026-11-08-edit-your-question.md) · Preview · `0.1.1.11207`
