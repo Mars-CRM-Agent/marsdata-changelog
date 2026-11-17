@@ -7,6 +7,16 @@
 
 ## Preview updates
 
+### [Mars in Français, Italiano and Español](releases/crm-2026-11-17-french-italian-spanish.md)
+
+**Preview** · 2026-11-17 · `0.1.1.12748`
+
+Mars adds French, Italian and Spanish: the web and iOS apps, onboarding and the fields Mars saves, all in your language.
+
+![Mars in Français, Italiano and Español](assets/crm-french-italian-spanish.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [Delete one exchange, keep the rest](releases/crm-2026-11-16-delete-one-exchange.md)
 
 **Preview** · 2026-11-16 · `0.1.1.12604`

@@ -7,10 +7,11 @@
 
 ## 预览版更新
 
-![问偏了一轮？单独删掉，对话还在](assets/crm-delete-one-exchange.webp)
+![法语、意大利语、西班牙语用户，打开就是母语](assets/crm-french-italian-spanish.webp)
 
 *示意图，使用虚构演示数据。*
 
+- **2026-11-17** · [法语、意大利语、西班牙语用户，打开就是母语](releases/crm-2026-11-17-french-italian-spanish.zh-CN.md) · 预览 · `0.1.1.12748`
 - **2026-11-16** · [问偏了一轮？单独删掉，对话还在](releases/crm-2026-11-16-delete-one-exchange.zh-CN.md) · 预览 · `0.1.1.12604`
 - **2026-11-16** · [几百个文件一次下完，进度一目了然](releases/crm-2026-11-16-library-batch-download.zh-CN.md) · 预览 · `0.1.1.12604`
 - **2026-11-15** · [提到谁，Mars 先翻出你们聊过的](releases/crm-2026-11-15-name-someone-mars-remembers.zh-CN.md) · 预览 · `0.1.1.12496`

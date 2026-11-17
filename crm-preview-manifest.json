@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://marsdata.ai",
-  "updates": 86,
+  "updates": 87,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -99,6 +99,12 @@
     "assets/crm-find-in-chat-and-a-new-answer-menu.en.webp",
     "assets/crm-find-in-chat-and-a-new-answer-menu.webp",
     "assets/crm-find-in-chat-and-a-new-answer-menu.zh-TW.webp",
+    "assets/crm-french-italian-spanish.en.webp",
+    "assets/crm-french-italian-spanish.phone.en.webp",
+    "assets/crm-french-italian-spanish.phone.webp",
+    "assets/crm-french-italian-spanish.phone.zh-TW.webp",
+    "assets/crm-french-italian-spanish.webp",
+    "assets/crm-french-italian-spanish.zh-TW.webp",
     "assets/crm-graceful-credit-limits.en.webp",
     "assets/crm-graceful-credit-limits.webp",
     "assets/crm-graceful-credit-limits.zh-TW.webp",
@@ -596,6 +602,9 @@
     "releases/crm-2026-11-16-delete-one-exchange.zh-HK.md",
     "releases/crm-2026-11-16-library-batch-download.md",
     "releases/crm-2026-11-16-library-batch-download.zh-CN.md",
-    "releases/crm-2026-11-16-library-batch-download.zh-HK.md"
+    "releases/crm-2026-11-16-library-batch-download.zh-HK.md",
+    "releases/crm-2026-11-17-french-italian-spanish.md",
+    "releases/crm-2026-11-17-french-italian-spanish.zh-CN.md",
+    "releases/crm-2026-11-17-french-italian-spanish.zh-HK.md"
   ]
 }
