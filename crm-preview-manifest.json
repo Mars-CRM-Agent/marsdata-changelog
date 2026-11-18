@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://marsdata.ai",
-  "updates": 87,
+  "updates": 88,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -299,6 +299,12 @@
     "assets/crm-same-name-ask-first.phone.zh-TW.webp",
     "assets/crm-same-name-ask-first.webp",
     "assets/crm-same-name-ask-first.zh-TW.webp",
+    "assets/crm-save-to-phone-contacts.en.webp",
+    "assets/crm-save-to-phone-contacts.phone.en.webp",
+    "assets/crm-save-to-phone-contacts.phone.webp",
+    "assets/crm-save-to-phone-contacts.phone.zh-TW.webp",
+    "assets/crm-save-to-phone-contacts.webp",
+    "assets/crm-save-to-phone-contacts.zh-TW.webp",
     "assets/crm-share-links-with-a-password.en.webp",
     "assets/crm-share-links-with-a-password.phone.en.webp",
     "assets/crm-share-links-with-a-password.phone.webp",
@@ -605,6 +611,9 @@
     "releases/crm-2026-11-16-library-batch-download.zh-HK.md",
     "releases/crm-2026-11-17-french-italian-spanish.md",
     "releases/crm-2026-11-17-french-italian-spanish.zh-CN.md",
-    "releases/crm-2026-11-17-french-italian-spanish.zh-HK.md"
+    "releases/crm-2026-11-17-french-italian-spanish.zh-HK.md",
+    "releases/crm-2026-11-18-save-to-phone-contacts.md",
+    "releases/crm-2026-11-18-save-to-phone-contacts.zh-CN.md",
+    "releases/crm-2026-11-18-save-to-phone-contacts.zh-HK.md"
   ]
 }

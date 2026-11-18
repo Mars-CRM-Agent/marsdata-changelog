@@ -7,6 +7,16 @@
 
 ## Preview updates
 
+### [See their name when they call](releases/crm-2026-11-18-save-to-phone-contacts.md)
+
+**Preview** · 2026-11-18 · `0.1.1.12835`
+
+Ask Mars to put someone in your phone contacts: tap Save to Contacts and the new-contact page opens with their name, number, email, company and position filled in.
+
+![See their name when they call](assets/crm-save-to-phone-contacts.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [Mars in Français, Italiano and Español](releases/crm-2026-11-17-french-italian-spanish.md)
 
 **Preview** · 2026-11-17 · `0.1.1.12748`

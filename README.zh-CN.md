@@ -7,10 +7,11 @@
 
 ## 预览版更新
 
-![法语、意大利语、西班牙语用户，打开就是母语](assets/crm-french-italian-spanish.webp)
+![存进手机通讯录，来电一眼认出是谁](assets/crm-save-to-phone-contacts.webp)
 
 *示意图，使用虚构演示数据。*
 
+- **2026-11-18** · [存进手机通讯录，来电一眼认出是谁](releases/crm-2026-11-18-save-to-phone-contacts.zh-CN.md) · 预览 · `0.1.1.12835`
 - **2026-11-17** · [法语、意大利语、西班牙语用户，打开就是母语](releases/crm-2026-11-17-french-italian-spanish.zh-CN.md) · 预览 · `0.1.1.12748`
 - **2026-11-16** · [问偏了一轮？单独删掉，对话还在](releases/crm-2026-11-16-delete-one-exchange.zh-CN.md) · 预览 · `0.1.1.12604`
 - **2026-11-16** · [几百个文件一次下完，进度一目了然](releases/crm-2026-11-16-library-batch-download.zh-CN.md) · 预览 · `0.1.1.12604`

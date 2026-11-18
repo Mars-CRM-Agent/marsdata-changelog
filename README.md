@@ -7,10 +7,11 @@
 
 ## Preview updates
 
-![Mars in Français, Italiano and Español](assets/crm-french-italian-spanish.en.webp)
+![See their name when they call](assets/crm-save-to-phone-contacts.en.webp)
 
 *Illustration using fictional demo data.*
 
+- **2026-11-18** · [See their name when they call](releases/crm-2026-11-18-save-to-phone-contacts.md) · Preview · `0.1.1.12835`
 - **2026-11-17** · [Mars in Français, Italiano and Español](releases/crm-2026-11-17-french-italian-spanish.md) · Preview · `0.1.1.12748`
 - **2026-11-16** · [Delete one exchange, keep the rest](releases/crm-2026-11-16-delete-one-exchange.md) · Preview · `0.1.1.12604`
 - **2026-11-16** · [Download hundreds, track the progress](releases/crm-2026-11-16-library-batch-download.md) · Preview · `0.1.1.12604`
