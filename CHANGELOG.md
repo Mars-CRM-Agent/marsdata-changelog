@@ -7,6 +7,16 @@
 
 ## Preview updates
 
+### [The answer first, the file after](releases/crm-2026-11-19-long-files-answer-first.md)
+
+**Preview** · 2026-11-19 · `0.1.1.13350`
+
+With Mars-2.0 Blaze, a long report or plan now opens with its conclusions in the chat while the file is written: the first words arrive in under a minute instead of after more than four.
+
+![The answer first, the file after](assets/crm-long-files-answer-first.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [See their name when they call](releases/crm-2026-11-18-save-to-phone-contacts.md)
 
 **Preview** · 2026-11-18 · `0.1.1.12835`

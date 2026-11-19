@@ -7,6 +7,16 @@
 
 ## 預覽版更新
 
+### [長文件不用幹等，結論先到](releases/crm-2026-11-19-long-files-answer-first.zh-HK.md)
+
+**預覽** · 2026-11-19 · `0.1.1.13350`
+
+用 Mars-2.0 Blaze 寫長報告、長方案時，結論和要點先出現在對話裏，文件隨後生成：第一段文字從 4 分多鐘提前到 1 分鐘以內。
+
+![長文件不用幹等，結論先到](assets/crm-long-files-answer-first.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
 ### [存進手機通訊錄，來電一眼認出是誰](releases/crm-2026-11-18-save-to-phone-contacts.zh-HK.md)
 
 **預覽** · 2026-11-18 · `0.1.1.12835`
