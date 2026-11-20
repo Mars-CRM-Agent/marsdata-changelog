@@ -5,7 +5,7 @@
 
 You just joined and want to try everything, without watching every credit.
 
-For your first 30 days, Newcomer rewards waits at the top right of the new-chat page, and Credit tasks sits in Settings. Check in once a day: 100 credits on days one to six and 200 on day seven, 800 credits for a full week. Miss a day and the run starts again at day one; the day resets at 10:00 (UTC+8). Four starter tasks pay too: share a conversation for 100 credits, share 10 for 200, add a contact in a conversation for 100, add 10 for 200. Tap Claim and the credits land at once. No subscription and no invitations needed: the things you already do in Mars earn them. It works on the web and in the app on iPhone, iPad and Mac, and reward credits stay in your balance when your plan renews.
+For your first 30 days, Newcomer rewards waits at the top right of the new-chat page, and Credit tasks sits in Settings. Check in once a day: 100 credits for each of your first six check-ins and 200 for the seventh, 800 credits in all. Miss a day and nothing resets, your check-ins keep counting; the day resets at 10:00 (UTC+8). Four starter tasks pay too: share a conversation for 100 credits, share 10 for 200, add a contact in a conversation for 100, add 10 for 200. Tap Claim and the credits land at once. No subscription and no invitations needed: the things you already do in Mars earn them. It works on the web and in the app on iPhone, iPad and Mac, and reward credits stay in your balance when your plan renews.
 
 More room to explore your first month, and Mars becomes a habit before you think about plans.
 
