@@ -7,10 +7,11 @@
 
 ## 預覽版更新
 
-![長文件不用幹等，結論先到](assets/crm-long-files-answer-first.zh-TW.webp)
+![新用户每天簽到，積分天天到賬](assets/crm-newcomer-check-in-rewards.zh-TW.webp)
 
 *示意圖，使用虛構演示資料。*
 
+- **2026-11-20** · [新用户每天簽到，積分天天到賬](releases/crm-2026-11-20-newcomer-check-in-rewards.zh-HK.md) · 預覽 · `0.1.1.13579`
 - **2026-11-19** · [長文件不用幹等，結論先到](releases/crm-2026-11-19-long-files-answer-first.zh-HK.md) · 預覽 · `0.1.1.13350`
 - **2026-11-18** · [存進手機通訊錄，來電一眼認出是誰](releases/crm-2026-11-18-save-to-phone-contacts.zh-HK.md) · 預覽 · `0.1.1.12835`
 - **2026-11-17** · [法語、意大利語、西班牙語用户，打開就是母語](releases/crm-2026-11-17-french-italian-spanish.zh-HK.md) · 預覽 · `0.1.1.12748`

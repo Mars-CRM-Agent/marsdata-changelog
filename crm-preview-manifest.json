@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://marsdata.ai",
-  "updates": 89,
+  "updates": 90,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -224,6 +224,12 @@
     "assets/crm-native-notifications.en.webp",
     "assets/crm-native-notifications.webp",
     "assets/crm-native-notifications.zh-TW.webp",
+    "assets/crm-newcomer-check-in-rewards.en.webp",
+    "assets/crm-newcomer-check-in-rewards.phone.en.webp",
+    "assets/crm-newcomer-check-in-rewards.phone.webp",
+    "assets/crm-newcomer-check-in-rewards.phone.zh-TW.webp",
+    "assets/crm-newcomer-check-in-rewards.webp",
+    "assets/crm-newcomer-check-in-rewards.zh-TW.webp",
     "assets/crm-notifications-page.en.webp",
     "assets/crm-notifications-page.webp",
     "assets/crm-notifications-page.zh-TW.webp",
@@ -623,6 +629,9 @@
     "releases/crm-2026-11-18-save-to-phone-contacts.zh-HK.md",
     "releases/crm-2026-11-19-long-files-answer-first.md",
     "releases/crm-2026-11-19-long-files-answer-first.zh-CN.md",
-    "releases/crm-2026-11-19-long-files-answer-first.zh-HK.md"
+    "releases/crm-2026-11-19-long-files-answer-first.zh-HK.md",
+    "releases/crm-2026-11-20-newcomer-check-in-rewards.md",
+    "releases/crm-2026-11-20-newcomer-check-in-rewards.zh-CN.md",
+    "releases/crm-2026-11-20-newcomer-check-in-rewards.zh-HK.md"
   ]
 }

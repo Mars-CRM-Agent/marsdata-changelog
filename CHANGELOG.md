@@ -7,6 +7,16 @@
 
 ## Preview updates
 
+### [New here? A daily check-in pays you](releases/crm-2026-11-20-newcomer-check-in-rewards.md)
+
+**Preview** · 2026-11-20 · `0.1.1.13579`
+
+New accounts earn credits in their first 30 days: check in daily for up to 800 credits over seven days, and claim four starter tasks for sharing conversations and adding contacts.
+
+![New here? A daily check-in pays you](assets/crm-newcomer-check-in-rewards.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [The answer first, the file after](releases/crm-2026-11-19-long-files-answer-first.md)
 
 **Preview** · 2026-11-19 · `0.1.1.13350`

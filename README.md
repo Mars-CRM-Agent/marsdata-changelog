@@ -7,10 +7,11 @@
 
 ## Preview updates
 
-![The answer first, the file after](assets/crm-long-files-answer-first.en.webp)
+![New here? A daily check-in pays you](assets/crm-newcomer-check-in-rewards.en.webp)
 
 *Illustration using fictional demo data.*
 
+- **2026-11-20** · [New here? A daily check-in pays you](releases/crm-2026-11-20-newcomer-check-in-rewards.md) · Preview · `0.1.1.13579`
 - **2026-11-19** · [The answer first, the file after](releases/crm-2026-11-19-long-files-answer-first.md) · Preview · `0.1.1.13350`
 - **2026-11-18** · [See their name when they call](releases/crm-2026-11-18-save-to-phone-contacts.md) · Preview · `0.1.1.12835`
 - **2026-11-17** · [Mars in Français, Italiano and Español](releases/crm-2026-11-17-french-italian-spanish.md) · Preview · `0.1.1.12748`
