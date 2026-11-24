@@ -7,10 +7,11 @@
 
 ## Preview updates
 
-![New here? A daily check-in pays you](assets/crm-newcomer-check-in-rewards.en.webp)
+![Mars on Android, from our website](assets/crm-mars-on-android.en.webp)
 
 *Illustration using fictional demo data.*
 
+- **2026-11-24** · [Mars on Android, from our website](releases/crm-2026-11-24-mars-on-android.md) · Preview · `0.1.1.14020`
 - **2026-11-20** · [New here? A daily check-in pays you](releases/crm-2026-11-20-newcomer-check-in-rewards.md) · Preview · `0.1.1.13579`
 - **2026-11-19** · [The answer first, the file after](releases/crm-2026-11-19-long-files-answer-first.md) · Preview · `0.1.1.13350`
 - **2026-11-18** · [See their name when they call](releases/crm-2026-11-18-save-to-phone-contacts.md) · Preview · `0.1.1.12835`

@@ -7,6 +7,16 @@
 
 ## Preview updates
 
+### [Mars on Android, from our website](releases/crm-2026-11-24-mars-on-android.md)
+
+**Preview** · 2026-11-24 · `0.1.1.14020`
+
+Mars now has an Android app: download the installer from marsdata.ai and sign in with the account you already use on the web, iPhone, iPad and Mac.
+
+![Mars on Android, from our website](assets/crm-mars-on-android.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [New here? A daily check-in pays you](releases/crm-2026-11-20-newcomer-check-in-rewards.md)
 
 **Preview** · 2026-11-20 · `0.1.1.13579`

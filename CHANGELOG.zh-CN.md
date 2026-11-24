@@ -7,6 +7,16 @@
 
 ## 预览版更新
 
+### [安卓手机也能用 Mars，官网直接下载](releases/crm-2026-11-24-mars-on-android.zh-CN.md)
+
+**预览** · 2026-11-24 · `0.1.1.14020`
+
+Mars 推出安卓应用：在 marsdata.ai 官网下载安装包，用网页版和 iPhone、iPad、Mac 上的同一账号登录，接着用。
+
+![安卓手机也能用 Mars，官网直接下载](assets/crm-mars-on-android.webp)
+
+*示意图，使用虚构演示数据。*
+
 ### [新用户每天签到，积分天天到账](releases/crm-2026-11-20-newcomer-check-in-rewards.zh-CN.md)
 
 **预览** · 2026-11-20 · `0.1.1.13579`

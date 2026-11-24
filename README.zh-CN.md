@@ -7,10 +7,11 @@
 
 ## 预览版更新
 
-![新用户每天签到，积分天天到账](assets/crm-newcomer-check-in-rewards.webp)
+![安卓手机也能用 Mars，官网直接下载](assets/crm-mars-on-android.webp)
 
 *示意图，使用虚构演示数据。*
 
+- **2026-11-24** · [安卓手机也能用 Mars，官网直接下载](releases/crm-2026-11-24-mars-on-android.zh-CN.md) · 预览 · `0.1.1.14020`
 - **2026-11-20** · [新用户每天签到，积分天天到账](releases/crm-2026-11-20-newcomer-check-in-rewards.zh-CN.md) · 预览 · `0.1.1.13579`
 - **2026-11-19** · [长文件不用干等，结论先到](releases/crm-2026-11-19-long-files-answer-first.zh-CN.md) · 预览 · `0.1.1.13350`
 - **2026-11-18** · [存进手机通讯录，来电一眼认出是谁](releases/crm-2026-11-18-save-to-phone-contacts.zh-CN.md) · 预览 · `0.1.1.12835`

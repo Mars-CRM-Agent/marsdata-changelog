@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://marsdata.ai",
-  "updates": 90,
+  "updates": 91,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -191,6 +191,12 @@
     "assets/crm-mars-makes-decks-and-documents.phone.zh-TW.webp",
     "assets/crm-mars-makes-decks-and-documents.webp",
     "assets/crm-mars-makes-decks-and-documents.zh-TW.webp",
+    "assets/crm-mars-on-android.en.webp",
+    "assets/crm-mars-on-android.phone.en.webp",
+    "assets/crm-mars-on-android.phone.webp",
+    "assets/crm-mars-on-android.phone.zh-TW.webp",
+    "assets/crm-mars-on-android.webp",
+    "assets/crm-mars-on-android.zh-TW.webp",
     "assets/crm-mars-watches-social-videos.en.webp",
     "assets/crm-mars-watches-social-videos.phone.en.webp",
     "assets/crm-mars-watches-social-videos.phone.webp",
@@ -632,6 +638,9 @@
     "releases/crm-2026-11-19-long-files-answer-first.zh-HK.md",
     "releases/crm-2026-11-20-newcomer-check-in-rewards.md",
     "releases/crm-2026-11-20-newcomer-check-in-rewards.zh-CN.md",
-    "releases/crm-2026-11-20-newcomer-check-in-rewards.zh-HK.md"
+    "releases/crm-2026-11-20-newcomer-check-in-rewards.zh-HK.md",
+    "releases/crm-2026-11-24-mars-on-android.md",
+    "releases/crm-2026-11-24-mars-on-android.zh-CN.md",
+    "releases/crm-2026-11-24-mars-on-android.zh-HK.md"
   ]
 }
