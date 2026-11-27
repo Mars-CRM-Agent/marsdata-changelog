@@ -7,10 +7,11 @@
 
 ## 预览版更新
 
-![安卓手机也能用 Mars，官网直接下载](assets/crm-mars-on-android.webp)
+![换台设备，还是你选的那档模型](assets/crm-model-choice-follows-you.webp)
 
 *示意图，使用虚构演示数据。*
 
+- **2026-11-27** · [换台设备，还是你选的那档模型](releases/crm-2026-11-27-model-choice-follows-you.zh-CN.md) · 预览 · `0.1.1.14538`
 - **2026-11-24** · [安卓手机也能用 Mars，官网直接下载](releases/crm-2026-11-24-mars-on-android.zh-CN.md) · 预览 · `0.1.1.14020`
 - **2026-11-20** · [新用户每天签到，积分天天到账](releases/crm-2026-11-20-newcomer-check-in-rewards.zh-CN.md) · 预览 · `0.1.1.13579`
 - **2026-11-19** · [长文件不用干等，结论先到](releases/crm-2026-11-19-long-files-answer-first.zh-CN.md) · 预览 · `0.1.1.13350`

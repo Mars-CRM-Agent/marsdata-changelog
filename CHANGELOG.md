@@ -7,6 +7,16 @@
 
 ## Preview updates
 
+### [Pick your model once, use it anywhere](releases/crm-2026-11-27-model-choice-follows-you.md)
+
+**Preview** · 2026-11-27 · `0.1.1.14538`
+
+Your model and reasoning level now follow your account: pick them on one device, and the others start there at their next launch or sign-in.
+
+![Pick your model once, use it anywhere](assets/crm-model-choice-follows-you.en.webp)
+
+*Illustration using fictional demo data.*
+
 ### [Mars on Android, from our website](releases/crm-2026-11-24-mars-on-android.md)
 
 **Preview** · 2026-11-24 · `0.1.1.14020`

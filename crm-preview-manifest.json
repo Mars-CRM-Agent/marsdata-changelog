@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "preview",
   "origin": "https://marsdata.ai",
-  "updates": 91,
+  "updates": 92,
   "paths": [
     "CHANGELOG.md",
     "CHANGELOG.zh-CN.md",
@@ -215,6 +215,12 @@
     "assets/crm-meeting-recording-report-deck.phone.zh-TW.webp",
     "assets/crm-meeting-recording-report-deck.webp",
     "assets/crm-meeting-recording-report-deck.zh-TW.webp",
+    "assets/crm-model-choice-follows-you.en.webp",
+    "assets/crm-model-choice-follows-you.phone.en.webp",
+    "assets/crm-model-choice-follows-you.phone.webp",
+    "assets/crm-model-choice-follows-you.phone.zh-TW.webp",
+    "assets/crm-model-choice-follows-you.webp",
+    "assets/crm-model-choice-follows-you.zh-TW.webp",
     "assets/crm-month-events-beside-the-day.en.webp",
     "assets/crm-month-events-beside-the-day.webp",
     "assets/crm-month-events-beside-the-day.zh-TW.webp",
@@ -641,6 +647,9 @@
     "releases/crm-2026-11-20-newcomer-check-in-rewards.zh-HK.md",
     "releases/crm-2026-11-24-mars-on-android.md",
     "releases/crm-2026-11-24-mars-on-android.zh-CN.md",
-    "releases/crm-2026-11-24-mars-on-android.zh-HK.md"
+    "releases/crm-2026-11-24-mars-on-android.zh-HK.md",
+    "releases/crm-2026-11-27-model-choice-follows-you.md",
+    "releases/crm-2026-11-27-model-choice-follows-you.zh-CN.md",
+    "releases/crm-2026-11-27-model-choice-follows-you.zh-HK.md"
   ]
 }

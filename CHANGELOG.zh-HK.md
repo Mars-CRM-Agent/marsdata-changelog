@@ -7,6 +7,16 @@
 
 ## 預覽版更新
 
+### [換台設備，還是你選的那檔模型](releases/crm-2026-11-27-model-choice-follows-you.zh-HK.md)
+
+**預覽** · 2026-11-27 · `0.1.1.14538`
+
+模型和思考強度跟着賬號走：在一台設備上選好，其他設備下次打開或登錄時自動沿用。
+
+![換台設備，還是你選的那檔模型](assets/crm-model-choice-follows-you.zh-TW.webp)
+
+*示意圖，使用虛構演示資料。*
+
 ### [安卓手機也能用 Mars，官網直接下載](releases/crm-2026-11-24-mars-on-android.zh-HK.md)
 
 **預覽** · 2026-11-24 · `0.1.1.14020`
